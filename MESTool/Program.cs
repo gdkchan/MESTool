@@ -613,6 +613,12 @@ namespace MESTool
                             case "DXT1": Writer.Write((byte)0x86); break;
                             case "DXT3": Writer.Write((byte)0x87); break;
                             case "DXT5": Writer.Write((byte)0x88); break;
+                            default:
+                                Writer.Write((byte)0);
+                                Console.ForegroundColor = ConsoleColor.Yellow;
+                                Console.WriteLine("Warning: Unsupported DDS format on folder " + Path.GetFileName(Folder) + "!");
+                                Console.ResetColor();
+                                break;
                         }
                         Writer.Write((byte)Mipmaps);
                         Writer.Write((byte)2);
