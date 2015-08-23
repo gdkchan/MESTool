@@ -74,7 +74,6 @@ namespace MESTool
                     return;
                 }
 
-
                 switch (Operation)
                 {
                     case "-d":
