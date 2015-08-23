@@ -1,0 +1,4 @@
+[0x8F00][0x0000][0x8F01][0x0D76][0x0E42]Gracias a Dios... Todavía tenemos tiempo...[next]
+[0x8F00][0x0000][0x8F01][0x14D4][0x167A]¡El Ojo Izquierdo, nuestro preciado Ojo Izquierdo,
+no caerá jamás en manos ajenas![next]
+[0x8F00][0x0000][0x8F01][0x1690][0x174E]¡Es el orgullo de las Brujas de Umbra![next]

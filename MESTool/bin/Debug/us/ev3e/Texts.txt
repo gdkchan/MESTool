@@ -1,0 +1,23 @@
+[id=1][time=00:00.7500/00:05.4690]I have no idea why you would want this stone,
+it would look absolutely terrible on you.[next]
+[id=2][time=00:00.0000/00:01.4380]Much too flashy.[next]
+[id=3][time=00:00.6560/00:05.0940][0x8F02]Stone? You think this is all about
+some worthless rock!?[next]
+[id=4][time=00:00.2810/00:03.6250][0x8F02]May Jubileus, the Creator, grace you![next]
+[id=12][time=00:01.1250/00:02.4380]Welcome aboard, Cheshire.[next]
+[id=13][time=00:00.1560/00:02.6560]Oh, fucking hell![next]
+[id=13][time=00:03.0630/00:04.0940]Mummy! [next]
+[id=14][time=00:00.1880/00:02.2810]I told you I'd be right back. [next]
+[id=15][time=00:00.9380/00:04.0470]Shouldn't you be, you know, flying this thing?[next]
+[id=15][time=00:04.0630/00:06.0630]I'm a bit occupied at the moment. [next]
+[id=19][time=00:00.5630/00:02.6880]Well, so much for the subtle approach.[next]
+[id=19][time=00:02.9060/00:06.8750]We might as well have speakers on this 
+thing blaring Ride of the fucking Valkyries.[next]
+[id=20][time=00:00.0000/00:02.2190]Come now. We're VIPs.[next]
+[id=20][time=00:02.6560/00:06.3130]You know, nothing says you've made
+it in life like a private helicopter.[next]
+[id=21][time=00:01.5630/00:05.5310]Then welcome aboard Air Luka Flight 001.[next]
+[id=21][time=00:05.8130/00:07.8130]This is your captain, LUKA, speaking.[next]
+[id=22][time=00:00.0000/00:00.3440]This is your captain, LUKA, speaking.[next]
+[id=22][time=00:00.5310/00:04.4060]Fasten your safety belts as
+this may be a bumpy flight. [next]

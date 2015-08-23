@@ -1,0 +1,19 @@
+[id=0][time=00:04.3910/00:06.7190]Bienvenue à Vigrid, notre terminus.[next]
+[id=1][time=00:00.6410/00:03.1250]Chaque passager doit être muni d'un visa d'entrée.[next]
+[id=2][time=00:00.0160/00:04.3750]Veuillez présenter votre visa d'entrée pour
+Vigrid au poste de contrôle, à votre arrivée.[next]
+[id=2][time=00:04.4380/00:08.7500]Ne laissez aucun effet personnel derrière vous.[next]
+[id=2][time=00:09.2340/00:10.9380]Je répète ce message...[next]
+[id=5][time=00:00.0000/00:06.7190][0x811E][next]
+[id=8][time=00:00.0160/00:03.4380]Ah, tu es enfin arrivée à bon port,
+mon enfant.[next]
+[id=8][time=00:04.5470/00:06.7190]L'heure est enfin venue d'ouvrir[next]
+[id=9][time=00:00.0160/00:03.2810]les "Yeux du monde".[next]
+[id=10][time=00:00.0160/00:02.6560]Ne crains rien, douce enfant.[next]
+[id=10][time=00:03.2970/00:05.3130]Comme tu as grandi, tu es devenue
+une belle jeune femme. [next]
+[id=11][time=00:00.0160/00:00.9380]Comme tu as grandi, tu es devenue
+une belle jeune femme. [next]
+[id=11][time=00:01.4220/00:05.6250]Je ferai toujours en sorte qu'il ne t'arrive rien. [next]
+[id=14][time=00:05.6880/00:07.0940]Alors...[next]
+[id=14][time=00:07.5160/00:10.3130]Voilà ce soi-disant paradis ?[next]

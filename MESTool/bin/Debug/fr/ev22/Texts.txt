@@ -1,0 +1,68 @@
+[id=0][time=00:09.2190/00:11.6560]Ces trouducs savent vraiment attirer l'attention.[next]
+[id=0][time=00:12.0000/00:13.2810]Ils ont même réussi à énerver les têtes
+brûlées de mon bercail.[next]
+[id=1][time=00:00.0000/00:01.7190]Ils ont même réussi à énerver les têtes
+brûlées de mon bercail.[next]
+[id=2][time=00:00.8750/00:01.9690]Sans déconner.[next]
+[id=3][time=00:00.7500/00:03.5310]Plus ça va, et moins on peut discerner
+les différences entre les mondes.[next]
+[id=5][time=00:02.7190/00:03.7190]Celui des humains...[next]
+[id=6][time=00:02.6560/00:02.9060]l'Enfer...[next]
+[id=7][time=00:00.0000/00:00.7810]l'Enfer...[next]
+[id=8][time=00:01.4380/00:02.0310]le Paradis...[next]
+[id=9][time=00:00.0000/00:02.5310]C'est la même chose, maintenant ![next]
+[id=10][time=00:00.6560/00:04.4060]Et n'oublie pas le Purgatoire dans tout ça.[next]
+[id=11][time=00:00.0000/00:02.1880]Après un bout de temps à te battre ici,
+tu ne t'en préoccuperas même plus.[next]
+[id=12][time=00:00.3750/00:02.2810]Et d'où te vient cet intérêt pour la
+métaphysique, tout à coup ?[next]
+[id=12][time=00:02.8440/00:04.0000]Il faut un équilibre, non ?[next]
+[id=12][time=00:04.6250/00:07.3440]Même si certains aiment bien
+traîner avec les humains,[next]
+[id=13][time=00:00.0000/00:02.5000]on a tous un intérêt à maintenir le statu quo.[next]
+[id=13][time=00:03.0940/00:04.0000]Mais si les gens continuent à faire chier,[next]
+[id=14][time=00:00.0000/00:01.2500]Mais si les gens continuent à faire chier,[next]
+[id=14][time=00:01.4380/00:03.0630]l'Apocalypse va se transformer en un conte
+de fées gentillet.[next]
+[id=15][time=00:00.0000/00:01.5630]l'Apocalypse va se transformer en un conte
+de fées gentillet.[next]
+[id=15][time=00:02.0000/00:06.3130]Le Paradis et l'Enfer finiront par s'en prendre
+directement l'un à l'autre.[next]
+[id=17][time=00:00.1880/00:03.7190]Le Paradis et l'Enfer peuvent se déchirer
+autant qu'ils veulent, [next]
+[id=17][time=00:04.0630/00:06.2500]ça m'est égal. J'ai déjà mes propres
+problèmes à régler.[next]
+[id=17][time=00:06.8130/00:07.5000]Quelque chose ne va pas.[next]
+[id=18][time=00:00.0000/00:02.7190]C'est un peu trop facile...[next]
+[id=18][time=00:03.1250/00:05.1560]et puis l'info d'Enzo tombe comme
+ça, juste à pic.[next]
+[id=19][time=00:00.0000/00:02.7810][0x01D4]a pue le coup monté.[next]
+[id=20][time=00:00.3440/00:03.9060]Il y a quelqu'un de ton passé
+mystérieux qui t'appelle.[next]
+[id=21][time=00:04.4690/00:05.2190]J'ai un petit quelque chose pour toi.[next]
+[id=22][time=00:00.0000/00:02.2500]J'ai un petit quelque chose pour toi.[next]
+[id=23][time=00:00.0000/00:01.6880]Ces petits bébés sont spéciaux.[next]
+[id=24][time=00:02.8130/00:03.8440]Construits avec un alliage que même
+le diable voudrait à tout prix obtenir.[next]
+[id=25][time=00:00.0000/00:02.5000]Construits avec un alliage que même
+le diable voudrait à tout prix obtenir.[next]
+[id=26][time=00:00.2190/00:03.1250]Alors, ne les casse pas, ce sont
+vraiment des objets inestimables.[next]
+[id=59][time=00:03.3750/00:04.8440]Tu veux mon aide ?[next]
+[id=60][time=00:00.0000/00:03.2190]Désolée, mais les offres étranges, c'est pas mon truc.[next]
+[id=60][time=00:03.7810/00:03.9380]Ceci dit, c'est vrai que je commence à en avoir ma
+claque de ces mauviettes qu'ils m'envoient.[next]
+[id=61][time=00:00.0000/00:05.1880]Ceci dit, c'est vrai que je commence à en avoir ma
+claque de ces mauviettes qu'ils m'envoient.[next]
+[id=61][time=00:05.7190/00:07.9690]Je devrais peut-être viser...[next]
+[id=62][time=00:00.0000/00:03.4060]un peu plus haut.[next]
+[id=64][time=00:00.9690/00:02.8750]T'as une bonne descente ce soir, à ce que je vois.[next]
+[id=64][time=00:03.9690/00:06.0940]Je ne veux pas me mêler de ce qui ne me regarde pas,[next]
+[id=65][time=00:00.0000/00:01.9060]mais tu as sûrement un meilleur endroit où aller.[next]
+[id=65][time=00:02.8750/00:06.4060]Les types qui sont contre toi ne sont pas du genre
+à attendre que tu aies fini ton verre.[next]
+[id=66][time=00:00.0000/00:00.8750]Les types qui sont contre toi ne sont pas du genre
+à attendre que tu aies fini ton verre.[next]
+[id=67][time=00:01.5940/00:05.1250]Enzo ! C'est toi qui paies l'addition, mon vieux ![next]
+[id=67][time=00:08.5310/00:09.6880]Espèce de pique-assiette.[next]
+[id=68][time=00:00.0000/00:00.9690]Espèce de pique-assiette.[next]

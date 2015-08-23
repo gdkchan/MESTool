@@ -1,0 +1,47 @@
+[id=4][time=00:01.2500/00:02.1880]Maman ![next]
+[id=6][time=00:00.9060/00:04.1880]Maman !? Toi, une mère !?[next]
+[id=7][time=00:00.8130/00:03.2810]Allez, Chouchou. Regarde-moi bien.[next]
+[id=7][time=00:03.9380/00:06.7810]Est-ce que j'ai une tête à
+m'intéresser aux mioches ? [next]
+[id=7][time=00:07.4380/00:10.8440]Sans compter le passage pour en faire un...
+[0x01D4]a, c'est encore une autre histoire.[next]
+[id=8][time=00:01.7500/00:04.1560]OK... OK... Tu brûles les étapes, là...[next]
+[id=8][time=00:04.7500/00:06.6250]C'est pas que je ne sois pas
+du tout intéressé,[next]
+[id=8][time=00:07.0630/00:09.2190]mais, enfin, c'est pas trop
+le bon moment, non ?[next]
+[id=9][time=00:00.7500/00:02.9380]Oui... Euh... En parlant de bon moment,[next]
+[id=9][time=00:03.3750/00:05.9060]je t'attendais aussi au bon endroit...[next]
+[id=9][time=00:05.9690/00:07.5940]je savais bien qu'on se reverrait.[next]
+[id=10][time=00:00.8750/00:03.1250]Tu vois, le seul moyen d'aller
+voir la jet set[next]
+[id=10][time=00:03.1880/00:07.6560]et sa petite île de fête, de champagne
+et de caviar,[next]
+[id=10][time=00:07.7190/00:09.1880]c'est de passer par le pont
+de Proéminence.[next]
+[id=11][time=00:00.7190/00:04.0630]Ah... Oui... L'île.[next]
+[id=11][time=00:04.5310/00:06.2190]C'est un endroit charmant, non ?[next]
+[id=14][time=00:02.8440/00:04.8440]Quoi encore !?[next]
+[id=15][time=00:00.7810/00:02.2500]Ne joue pas avec moi ![next]
+[id=15][time=00:03.2190/00:06.6250]Tu as réussi à manipuler cette
+pauvre petite fille, hein ? [next]
+[id=15][time=00:07.6250/00:09.9690]T'es vraiment une sale vicieuse
+complètement toquée, tu sais ça ?[next]
+[id=16][time=00:01.0940/00:03.1250]J'avais son âge quand tu as tué mon père...[next]
+[id=17][time=00:01.1560/00:04.0630]Attends un peu... Non... Tu n'as pas...[next]
+[id=17][time=00:04.9690/00:07.4690]Oh, bon sang, c'est ça, hein ?[next]
+[id=17][time=00:07.5310/00:08.9690]Tu as tué ses parents aussi !?[next]
+[id=18][time=00:01.2190/00:03.8750]Hmm... Tout compte fait,[next]
+[id=18][time=00:03.9380/00:05.0630]elle n'est pas plus mal avec toi.[next]
+[id=18][time=00:05.5310/00:07.3440]Vous me causez plus d'ennuis
+qu'autre chose.[next]
+[id=19][time=00:00.1880/00:01.3440]Quoi ?[next]
+[id=19][time=00:01.4380/00:04.7500]Veille sur elle, sinon tu risques
+de le regretter.[next]
+[id=19][time=00:05.0940/00:07.0000]On ne fait pas de bonnes actions pour rien,
+et on ne sait jamais[next]
+[id=19][time=00:07.0630/00:10.1560]quand un monstre peut venir.[next]
+[id=20][time=00:00.6560/00:02.0310]Maman ! Attention ![next]
+[id=23][time=00:01.2500/00:02.1880]Qu'est ce que... !?[next]
+[id=28][time=00:01.8440/00:03.5310]Maman ! Non ![next]
+[id=30][time=00:00.7810/00:01.7810]Comment peut-elle me voir !?[next]

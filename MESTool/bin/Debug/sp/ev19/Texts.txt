@@ -1,0 +1,50 @@
+[0x8F00][0x0001][0x8F01][0x009C][0x00CA][0x8F02]Te entendemos.[next]
+[0x8F00][0x0002][0x8F01][0x0000][0x013C][0x8F02]Nuestro destino también está unido al mundo de
+los demonios y compartimos tu interés en la materia.[next]
+[0x8F00][0x0003][0x8F01][0x0000][0x0064][0x8F02]Nuestro destino también está unido al mundo de
+los demonios y compartimos tu interés en la materia.[next]
+[0x8F00][0x0003][0x8F01][0x0068][0x00F6][0x8F02]Sin embargo, si ella no llega hasta aquí con vida,
+esta conversación no habrá servido de nada.[next]
+[0x8F00][0x0004][0x8F01][0x0000][0x0070][0x8F02]Sin embargo, si ella no llega hasta aquí con vida,
+esta conversación no habrá servido de nada.[next]
+[0x8F00][0x0005][0x8F01][0x0000][0x0028][0x8F02]Sin embargo, si ella no llega hasta aquí con vida,
+esta conversación no habrá servido de nada.[next]
+[0x8F00][0x0005][0x8F01][0x0054][0x0134]¿Tú otra vez? Y yo que pensaba que te
+había perdido de vista para siempre.[next]
+[0x8F00][0x0006][0x8F01][0x0000][0x000A]¿Tú otra vez? Y yo que pensaba que te
+había perdido de vista para siempre.[next]
+[0x8F00][0x0006][0x8F01][0x0068]:[0x8F02]Te agradezco enormemente que me ahorres
+el tener que ir a buscarte, Bayonetta.[next]
+[0x8F00][0x0007][0x8F01][0x0000][0x004E][0x8F02]Te agradezco enormemente que me ahorres
+el tener que ir a buscarte, Bayonetta.[next]
+[0x8F00][0x0007][0x8F01][0x0060][0x00D4][0x8F02]Por favor, perdona la intromisión
+de antes y mi poca hospitalidad.[next]
+[0x8F00][0x0008][0x8F01][0x0000][0x00F4][0x8F02]Por favor, perdona la intromisión
+de antes y mi poca hospitalidad.[next]
+[0x8F00][0x0008][0x8F01]P[0x03E7][0x810F][next]
+[0x8F00][0x0009][0x8F01][0x00AE][0x01E2]Estoy segura de que esta vez
+serás más hospitalario.[next]
+[0x8F00][0x0009][0x8F01][0x01F6][0x023E][0x8F02]Me han informado de que una superviviente de la
+caza de brujas se resiste a nuestro dominio.[next]
+[0x8F00][0x000A][0x8F01][0x0000]H[0x8F02]Me han informado de que una superviviente de la
+caza de brujas se resiste a nuestro dominio.[next]
+[0x8F00][0x000A][0x8F01][0x0184][0x01F8][0x8F02]Su inevitable regreso a Inferno la
+convierte en un alma en pena.[next]
+[0x8F00][0x000B][0x8F01][0x0000][0x00B6][0x8F02]Su inevitable regreso a Inferno la
+convierte en un alma en pena.[next]
+[0x8F00][0x000C][0x8F01][0x0000][0x000A][0x8F02]Su inevitable regreso a Inferno la
+convierte en un alma en pena.[next]
+[0x8F00][0x000C][0x8F01][0x0022][0x0138][0x8F02]Si tú eres tan lamentable ser, tendré
+que evitarte semejante tormento.[next]
+[0x8F00][0x000D][0x8F01][0x0000][0x0048][0x8F02]Si tú eres tan lamentable ser, tendré
+que evitarte semejante tormento.[next]
+[0x8F00][0x000E][0x8F01][0x004E]BLo siento. Olvide mencionar que una de las razones
+por las que voy cazando a los de tu especie es que[next]
+[0x8F00][0x000E][0x8F01]T[0x0254]sois demasiado feos, y quiero evitaros ese tormento.[next]
+[0x8F00][0x000F][0x8F01][0x0000][0x000A]sois demasiado feos, y quiero evitaros ese tormento.[next]
+[0x8F00][0x000F][0x8F01][0x0084][0x00FA][0x8F02]¡¿Empleando las artes oscuras contra nosotros?![next]
+[0x8F00][0x0010][0x8F01][0x0000][0x0096][0x8F02]¡¿Empleando las artes oscuras contra nosotros?![next]
+[0x8F00][0x0010][0x8F01][0x00A8][0x0150][0x8F02]Las brujas no aprenden nada con la edad...[next]
+[0x8F00][0x0011][0x8F01][0x0000][0x001E][0x8F02]Las brujas no aprenden nada con la edad...[next]
+[0x8F00][0x0012][0x8F01][0x0000][0x000A][0x8F02]Las brujas no aprenden nada con la edad...[next]
+[0x8F00][0x0012][0x8F01][0x009E][0x012A]¡Traga plomo, carapluma![next]

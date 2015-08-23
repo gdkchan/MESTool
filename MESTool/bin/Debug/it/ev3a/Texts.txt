@@ -1,0 +1,16 @@
+[id=0][time=00:00.2500/00:02.3440]Dimmi dov'è! Adesso![next]
+[id=0][time=00:02.8130/00:06.8440]Un'altra dimostrazione d'attaccamento alla piccola...[next]
+[id=0][time=00:07.0940/00:09.3750]scommetto che ti piace che ti chiami "mammina"![next]
+[id=1][time=00:01.0310/00:03.2190]Sei completamente fuori strada.[next]
+[id=1][time=00:03.4380/00:05.8750]Finché la lascio, lui non la smetterà di parlare.[next]
+[id=1][time=00:06.0000/00:06.5000]Meglio i capricci della bambina,
+che quei suoi discorsi.[next]
+[id=2][time=00:00.0000/00:03.5940]Meglio i capricci della bambina,
+che quei suoi discorsi.[next]
+[id=3][time=00:01.6250/00:05.1250]Puoi provare quanto vuoi, ma
+entrambe conosciamo la verità.[next]
+[id=4][time=00:00.7500/00:04.2500]E tu invece?
+Cosa nascondi tu?[next]
+[id=6][time=00:00.2190/00:04.7500]Correggimi se sbaglio, ma forse tutto
+questo ha un significato per te.[next]
+[id=8][time=00:00.9690/00:03.1250]Non mi occorrono altri rifiuti.[next]

@@ -1,0 +1,329 @@
+
+
+[0x8010][0x005A]Title Call[next]
+
+[0x8010][0x005A]Opening Scene[next]
+
+[0x8010][0x005A]One Of A Kind[next]
+
+[0x8010][0x005A]EV01 The Beginning[next]
+
+[0x8010][0x005A]GM01 Chapter Start[next]
+
+[0x8010][0x005A]EV02-2 The Angels Descend I[next]
+
+[0x8010][0x005A]Theme Of Bayonetta - Mysterious Destiny[next]
+
+[0x8010][0x005A]Fly Me To The Moon (" Climax Mix)[next]
+
+[0x8010][0x005A]GM02 Chapter Clear[next]
+
+[0x8010][0x005A]EV03-1 Driving With Mr. Enzo[next]
+
+[0x8010][0x005A]EV03-2 Jeanne Appears[next]
+
+[0x8010][0x005A]ST01 Crash Of The Transport Plane[next]
+
+[0x8010][0x005A]EV04 Dance With Jeanne[next]
+
+[0x8010][0x005A]The Gates Of Hell[next]
+
+[0x8010][0x005A]EV05 Scarborough Fair[next]
+
+[0x8010][0x005A]ST02 Vigrid Station Platform[next]
+
+[0x8010][0x005A]ST03 The Old City Of Vigrid[next]
+
+[0x8010][0x005A]EV06-1 The Angels Descend II[next]
+
+[0x8010][0x005A]EV06-2 Bayonetta, Ready To Fight I[next]
+
+[0x8010][0x005A]The Heavies[next]
+
+[0x8010][0x005A]Summoning The Infernal Demon[next]
+
+[0x8010][0x005A]Fortitudo - In Labors And Dangers (Movement 1)[next]
+
+[0x8010][0x005A]EV02-1 Prologue[next]
+
+[0x8010][0x005A]Riders Of The Light[next]
+
+[0x8010][0x005A]EV07-1 Jeanne - Bike Action I[next]
+
+[0x8010][0x005A]EV07-2 Jeanne - Bike Action II[next]
+
+[0x8010][0x005A]EV07-2 Battleground Of Memories[next]
+
+[0x8010][0x005A]Battle For The Umbra Throne[next]
+
+[0x8010][0x005A]EV09-1 Luka Appears[next]
+
+[0x8010][0x005A]EV09-2 Conversation With Luka I[next]
+
+[0x8010][0x005A]EV09-3 Conversation With Luka II[next]
+
+[0x8010][0x005A]EV09-4 The Angels Descend IV[next]
+
+[0x8010][0x005A]EV09-5 Bayonetta, Ready To Fight II[next]
+
+[0x8010][0x005A]EV10-1 The Mysterious Child, Cereza[next]
+
+[0x8010][0x005A]EV10-2 Appearance Of Fortitudo[next]
+
+[0x8010][0x005A]EV11 Chatting With Fortitudo[next]
+
+[0x8010][0x005A]ST04 A Town Swallowed By Lava[next]
+
+[0x8010][0x005A]Riders Of The Light[next]
+
+[0x8010][0x005A]ST05 The Catacombs[next]
+
+[0x8010][0x005A]Angelic Hymns I[next]
+
+[0x8010][0x005A]Angelic Hymns II[next]
+
+[0x8010][0x005A]EV13 Fortitudo Returns[next]
+
+[0x8010][0x005A]Fortitudo - In Labors And Dangers[next]
+
+[0x8010][0x005A]Climatic Battle[next]
+
+[0x8010][0x005A]Let's Hit The Climax![next]
+
+[0x8010][0x005A]EV08 The Angels Descend III[next]
+
+[0x8010][0x005A]In Trouble![next]
+
+[0x8010][0x005A]ST06 The Crescent and Sunrise Valleys[next]
+
+[0x8010][0x005A]The Angels Descend IV[next]
+
+[0x8010][0x005A]The Angels Descend V[next]
+
+[0x8010][0x005A]EV14-1 Battle With Jeanne I[next]
+
+[0x8010][0x005A]EV14-2 Battle With Jeanne II[next]
+
+[0x8010][0x005A]Red [0x0151] Black[next]
+
+[0x8010][0x005A]EV14 Beast Within[next]
+
+[0x8010][0x005A]ST07 Ruins Of The Witches' Training Grounds[next]
+
+[0x8010][0x005A]EV12-2 Action![next]
+
+[0x8010][0x005A]EV16 Cereza[next]
+
+[0x8010][0x005A]EV17 Cunning[next]
+
+[0x8010][0x005A]EV12-1 In The Nick Of Time![next]
+
+[0x8010][0x005A]EV18 Temperantia Appears[next]
+
+[0x8010][0x005A]Temperantia - In Foregoing Pleasures[next]
+
+[0x8010][0x005A]EV19 Infiltrating The Highway[next]
+
+[0x8010][0x005A]Splash Wave (" Climax Mix)[next]
+
+[0x8010][0x005A]After Burner (" Climax Mix)[next]
+
+[0x8010][0x005A]Magnificent 7 (" Climax Mix)[next]
+
+[0x8010][0x005A]EV15 Sexy Battle[next]
+
+[0x8010][0x005A]First Love[next]
+
+[0x8010][0x005A]Heartbreak[next]
+
+[0x8010][0x005A]ST08 Paradiso - Graveyard Of Remembrance[next]
+
+[0x8010][0x005A]EV19 Sexy Battle[next]
+
+[0x8010][0x005A]EV20-1 Battleground Of Memories I[next]
+
+[0x8010][0x005A]EV20-2 Battleground Of Memories II[next]
+
+[0x8010][0x005A]EV19 Attack On The Battleground Of Memories[next]
+
+[0x8010][0x005A]ST09 Paradiso - Sea Of Stars[next]
+
+[0x8010][0x005A]EV20 Luka's Glimpse Of Bayonetta's Battle[next]
+
+[0x8010][0x005A]EV21-1 Iustitia Appears I[next]
+
+[0x8010][0x005A]EV21-2 Luka's Wild Idea I[next]
+
+[0x8010][0x005A]EV21-3 Iustitia Appears II[next]
+
+[0x8010][0x005A]EV22-4 Get Back Cheshire![next]
+
+[0x8010][0x005A]EV21-4 Iustitia Appears III[next]
+
+[0x8010][0x005A]Iustitia - In Giving Every Man His Due[next]
+
+[0x8010][0x005A]EV22-1 Luka's Story At The Airbase I[next]
+
+[0x8010][0x005A]EV22-2 The Eyes Of The World[next]
+
+[0x8010][0x005A]EV22-3 Luka's Story At The Airbase II[next]
+
+[0x8010][0x005A]EV22-4 Attack On The Airbase[next]
+
+[0x8010][0x005A]ST10 The Giant Military Transport - Valkyrie[next]
+
+[0x8010][0x005A]EV23-1 Battle With Jeanne III[next]
+
+[0x8010][0x005A]EV23-2 The Crashing Valkyrie[next]
+
+[0x8010][0x005A]ST11 Save Cereza![next]
+
+[0x8010][0x005A]EV24-1 Sapientia Appears I[next]
+
+[0x8010][0x005A]Sapientia - In The Choice Between Good And Evil[next]
+
+[0x8010][0x005A]EV25 Luka's Wild Idea II[next]
+
+[0x8010][0x005A]Space Harrier (" Climax Mix)[next]
+
+[0x8010][0x005A]Wiwi Jumbo (Heaven Sent Mix)[next]
+
+[0x8010][0x005A]EV26-1 Before The Final Battle With Jeanne I[next]
+
+[0x8010][0x005A]EV26-2 Before The Final Battle With Jeanne II[next]
+
+[0x8010][0x005A]Blood [0x0151] Darkness[next]
+
+[0x8010][0x005A]EV27-1 Jeanne I[next]
+
+[0x8010][0x005A]EV27-3 Jeanne II[next]
+
+[0x8010][0x005A]EV27-5 Bayonetta [0x0151] Luka[next]
+
+[0x8010][0x005A]EV24-2 Sapientia Appears II[next]
+
+[0x8010][0x005A]EV26-3 Before The Final Battle With Jeanne III[next]
+
+[0x8010][0x005A]EV27-4 Miraculous Return!?[next]
+
+[0x8010][0x005A]EV27-2 Truth[next]
+
+[0x8010][0x005A]EV28 To The Ithavoll Building[next]
+
+[0x8010][0x005A]ST12 Ithavoll Building - Lower Floors[next]
+
+[0x8010][0x005A]ST13 The Top Of The Ithavoll Building[next]
+
+[0x8010][0x005A]EV29-1 Balder's Speech I[next]
+
+[0x8010][0x005A]EV29-2 Balder's Speech II[next]
+
+[0x8010][0x005A]EV29-3 Balder's Speech III[next]
+
+[0x8010][0x005A]EV29-5 The Death Of Luka[next]
+
+[0x8010][0x005A]EV29-6 Balder[next]
+
+[0x8010][0x005A]You May Call Me Father[next]
+
+[0x8010][0x005A]EV30-1 End Of The Road[next]
+
+[0x8010][0x005A]EV31 Jeanne - To The Heavens[next]
+
+[0x8010][0x005A]Friendship[next]
+
+[0x8010][0x005A]EV32 The Death Of Jeanne[next]
+
+[0x8010][0x005A]The Greatest Jubilee[next]
+
+[0x8010][0x005A]EV33 The Demise?[next]
+
+[0x8010][0x005A]EV34 Luka Views The Stars[next]
+
+[0x8010][0x005A]EV35-1 Epilogue[next]
+
+[0x8010][0x005A]Let's Dance, Boys![next]
+
+[0x8010][0x005A]Fly Me To The Moon[next]
+
+[0x8010][0x005A]Memory[next]
+
+[0x8010][0x005A]EV29-4 Balder's Speech IV[next]
+
+[0x8010][0x005A]EV30-2 Bayonetta Seized By The Goddess[next]
+
+[0x8010][0x005A]EV35-2 Romance[next]
+
+[0x8010][0x005A]Magical Sound Shower / Out Run[next]
+
+[0x8010][0x005A]Splash Wave / Out Run[next]
+
+[0x8010][0x005A]After Burner / After Burner II[next]
+
+[0x8010][0x005A]After Burner With Melody Ver. / After Burner II[next]
+
+[0x8010][0x005A]Boss / Fantasy Zone[next]
+
+[0x8010][0x005A]Theme / Space Harrier[next]
+
+[0x8010][0x005A]GM03 Verse Result Jingle[next]
+
+[0x8010][0x005A]GM04 Gold Coin Jingle[next]
+
+[0x8010][0x005A]GM05 Platinum Coin Jingle[next]
+
+[0x8010][0x005A]GM04 Angel Attack[next]
+
+[0x8010][0x005A]2008 Tokyo Game Show Trailer[next]
+
+[0x8010][0x005A]After Burner / After Burner[next]
+
+[0x8010][0x005A]Hiroshi Yamaguchi[next]
+
+[0x8010][0x005A]Arrangement: Hiroshi Yamaguchi
+Vocal Performance: Helena Noguerra[next]
+
+[0x8010][0x005A]Hiroshi Yamaguchi
+Trumpet Performance: Yohei Ichikawa[next]
+
+[0x8010][0x005A]Hiro (SEGA)[next]
+
+[0x8010][0x005A]Original Composition: Hiro (SEGA)
+Arrangement: Hiro (SEGA)[next]
+
+[0x8010][0x005A]Original Composition: Hiro (SEGA)
+Arrangement: Masami Ueda[next]
+
+[0x8010][0x005A]Original Composition: Hiro (SEGA)
+Arrangement: Mitsuharu Fukuyama (SEGA)[next]
+
+[0x8010][0x005A]Masami Ueda[next]
+
+[0x8010][0x005A]Masami Ueda
+Vocal Performance: Helena Noguerra[next]
+
+[0x8010][0x005A]Naoto Tanaka[next]
+
+[0x8010][0x005A]GEM Impact[next]
+
+[0x8010][0x005A]Erina Niwa[next]
+
+[0x8010][0x005A]Rei Kondoh (T's MUSIC)[next]
+
+[0x8010][0x005A]Takayasu Sodeoka[next]
+
+[0x8010][0x005A]Vocal Performance: Brenda Lee[next]
+
+[0x8010][0x005A]Norihiko Hibino [0x1002]GEM Impact[0x1003][next]
+
+[0x8010][0x005A]Takahiro Izutani[0x1002]GEM Impact[0x1003][next]
+
+[0x8010][0x005A]Yoshitaka Suzuki [0x1002]GEM Impact[0x1003][next]
+
+[0x8010][0x005A]Daisuke Sakata
+Vocal Performance: Helena Noguerra[next]
+
+[0x8010][0x005A]Hiroshi Yamaguchi
+Takayasu Sodeoka[next]
+
+Exit Sound Jukebox?[next]

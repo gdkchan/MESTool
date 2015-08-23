@@ -1,0 +1,43 @@
+[0x8010][0x005A]Mantén pulsado [A] para que 
+tu salto dure más.
+Pulsa [A] para dar un doble salto.[next]
+
+[0x8010][0x005A]Mantén pulsado [RB] para
+fijar a tus enemigos.[next]
+
+¡Combina [X] y [Y] para desencadenar
+[red]innumerables combos[white]![next]
+
+[0x8010][0x0050]Pulsa [Y] para dar un
+puñetazo rápido.[next]
+
+[0x8010][0x0050]Pulsa [B] para dar una
+patada poderosa.[next]
+
+[0x8010][0x0050]¡Combina [Y] y [B] para
+realizar distintos combos![next]
+
+[0x8010][0x0050]¡Escapa de situaciones comprometidas
+esquivando con [RT]![next]
+
+[0x8010][0x0050]¡Esquiva en el útimo instante
+para activar el Tiempo brujo![next]
+
+[0x8010][0x0050]Para salir de un combo disparando
+mantén pulsados [Y] o [B].[next]
+
+[0x8010][0x0050]¡Gira el joystick izquierdo y pulsa [Y] o [B] 
+para disparar en todas direcciónes![next]
+
+[0x8010][0x0050]Mantén pulsado [RB] para fijar
+a tus enemigos.[next]
+
+Los enemigos se moverán a cámara lenta
+por un determinado periodo de tiempo.[next]
+
+No puedes usar el Tiempo brujo
+en el modo Clímax ".[next]
+
+(START)SIGUIENTE[next]
+
+(START)COMPLETADO[next]

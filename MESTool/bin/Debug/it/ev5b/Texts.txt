@@ -1,0 +1,2 @@
+[id=1][time=00:01.5630/00:02.9060]Cereza![next]
+[id=8][time=00:00.4060/00:03.4060]Non ancora. Non è ancora pronta.[next]

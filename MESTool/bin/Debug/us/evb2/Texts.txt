@@ -1,0 +1,10 @@
+[id=0][time=00:03.5000/00:04.4060][0x8F02]The "Eyes of the World"... 
+The two overseers[0x1002][next]
+[id=1][time=00:00.0000/00:02.0310][0x8F02]The "Eyes of the World"... 
+The two overseers[0x1002][next]
+[id=1][time=00:02.3440/00:03.0310][0x8F02]What once was held in the hands of the witch 
+clan shall now be held in ours![next]
+[id=2][time=00:00.0000/00:03.2190][0x8F02]What once was held in the hands of the witch 
+clan shall now be held in ours![next]
+[id=3][time=00:00.0000/00:00.7500][0x8F02]What once was held in the hands of the witch 
+clan shall now be held in ours![next]

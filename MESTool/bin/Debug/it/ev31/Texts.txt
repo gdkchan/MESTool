@@ -1,0 +1,32 @@
+[id=0][time=00:00.3440/00:02.6560]Wow! Hai visto![next]
+[id=0][time=00:03.1880/00:05.0630]Te l'avevo detto che non c'era niente di cui preoccuparsi![next]
+[id=1][time=00:00.0940/00:02.2190]Mamma! Mamma, ci hai salvato![next]
+[id=1][time=00:02.3750/00:03.0310]Cosa?![next]
+[id=2][time=00:00.0940/00:01.5000]Ciao, Cheshire.[next]
+[id=2][time=00:01.7190/00:02.4380]Merda![next]
+[id=4][time=00:00.0630/00:00.8440]Mamma![next]
+[id=4][time=00:01.1880/00:04.4690]Guidi peggio di come fai il giornalista.[next]
+[id=5][time=00:00.2190/00:03.7500]Ho pensato di precederti all'isola.
+Ma le guardie non erano d'accordo purtroppo.[next]
+[id=5][time=00:04.1560/00:05.6250]Un piano un po' debole, lo ammetto![next]
+[id=6][time=00:00.5310/00:03.4690]Pensi di saperla lunga, non è vero?[next]
+[id=7][time=00:00.3130/00:02.9060]Noi giornalisti dobbiamo essere
+un po' investigatori, non credi?[next]
+[id=7][time=00:03.2810/00:08.5940]Stai dando la caccia ad una pietra. Deve trovarsi
+nell'edificio del Gruppo Solstice. Anche io vado là.[next]
+[id=8][time=00:00.1560/00:04.1880]Che strano! Sembra che tu sappia
+dove vado anche prima di me, [next]
+[id=8][time=00:04.7500/00:08.0000]ma sei completamente incapace
+di guidare in modo normale...[next]
+[id=8][time=00:08.2190/00:09.9690]Non sono mica un autista...[next]
+[id=9][time=00:01.5630/00:06.9380]Cheshire, hai idea di cosa faccia
+quest'aria salmastra ai miei capelli?[next]
+[id=10][time=00:00.4690/00:03.1250]Cosa? Ti verranno tanto crespi da
+assomigliare ad un mostro?[next]
+[id=13][time=00:01.3130/00:02.6880]Piccola! Stai giù![next]
+[id=16][time=00:00.3130/00:04.3130]Premi quell'acceleratore, Cheshire.
+Ci penso io a quegli scarafaggi.[next]
+[id=16][time=00:05.0310/00:06.5940]Fantastico...[next]
+[id=19][time=00:01.0310/00:04.8440]Inizio a percepire l'impressione di non
+essere ben accetta su quell'isola.[next]
+[id=19][time=00:05.2500/00:08.8750]Ma mi piace quando giocano duro"[next]

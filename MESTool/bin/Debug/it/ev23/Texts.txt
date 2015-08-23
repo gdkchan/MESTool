@@ -1,0 +1,17 @@
+[id=0][time=00:04.3910/00:06.7190]Vigrid, ultima fermata.[next]
+[id=1][time=00:00.6410/00:03.1250]I viaggiatori devono esibire il Visto d'ingresso.[next]
+[id=2][time=00:00.0160/00:04.3750]Siete pregati d'esibire il Visto d'ingresso a Vigrid
+per l'ispezione al momento dello sbarco.[next]
+[id=2][time=00:04.4380/00:08.7500]Si ricorda ai signori passeggeri
+di ritirare il proprio bagaglio.[next]
+[id=2][time=00:09.2340/00:10.9380]Ripetiamo il messaggio...[next]
+[id=5][time=00:00.0000/00:06.7190][0x811E][next]
+[id=8][time=00:00.0160/00:03.4380]Finalmente sei arrivata, mia cara.[next]
+[id=8][time=00:04.5470/00:06.7190][0x01AF] giunto il tempo di risvegliare[next]
+[id=9][time=00:00.0160/00:03.2810]"Gli Occhi del Mondo".[next]
+[id=10][time=00:00.0160/00:02.6560]"Gli Occhi del Mondo".[next]
+[id=10][time=00:03.2970/00:05.3130]Sei diventata una ragazza di grande bellezza.[next]
+[id=11][time=00:00.0160/00:00.9380]Sei diventata una ragazza di grande bellezza.[next]
+[id=11][time=00:01.4220/00:05.6250]Non ti sarà fatto alcun male.[next]
+[id=14][time=00:05.6880/00:07.0940]Così...[next]
+[id=14][time=00:07.5160/00:10.3130]Questo è il Paradiso?[next]

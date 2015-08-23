@@ -1,0 +1,28 @@
+[id=1][time=00:00.8440/00:02.9690]Fancy bumping into you here. [next]
+[id=2][time=00:00.7500/00:03.6250]Out to find some answers 
+about your past, are we?[next]
+[id=3][time=00:01.5630/00:06.1880]You've quite the familiar face. 
+And using the same powers.[next]
+[id=3][time=00:06.2810/00:07.8750]But you'll have to forgive me,[next]
+[id=4][time=00:00.6250/00:02.2810]do we know each other?[next]
+[id=5][time=00:01.8750/00:03.0940]Same powers!?[next]
+[id=5][time=00:04.8130/00:05.9380]Don't make me laugh.[next]
+[id=5][time=00:07.2500/00:10.0630]Your little dip in that lake 
+has left you a bit rusty.[next]
+[id=6][time=00:01.7500/00:04.5630]I've been high and dry for 20 years now.[next]
+[id=6][time=00:05.2810/00:09.5310]The only rust on me is 
+from the lack of any real challenge.[next]
+[id=6][time=00:10.4380/00:12.9690]Perhaps you're up for the task.[next]
+[id=7][time=00:02.1880/00:03.4690]You've already disappointed me.[next]
+[id=8][time=00:00.0000/00:01.7500]You've already disappointed me.[next]
+[id=32][time=00:00.0630/00:03.0310]This is a moment I have long desired.[next]
+[id=32][time=00:03.6880/00:08.8440]But you've forgotten your destiny 
+and wasted the past 20 years.[next]
+[id=33][time=00:01.7810/00:02.6250]You're right, I do seem to be having trouble 
+remembering things of late.[next]
+[id=34][time=00:00.0000/00:03.7500]You're right, I do seem to be having trouble 
+remembering things of late.[next]
+[id=35][time=00:00.1250/00:03.1250]Would you be so kind as to 
+take it from the top?[next]
+[id=36][time=00:00.8440/00:04.7500]Two overseers... The Eyes of the World.[next]
+[id=36][time=00:05.0630/00:07.7500]They are the power behind everything.[next]

@@ -1,0 +1,329 @@
+
+
+[0x8010][0x005A]Titre[next]
+
+[0x8010][0x005A]Scène d'introduction[next]
+
+[0x8010][0x005A][0x01B4]tre unique[next]
+
+[0x8010][0x005A]Le début[next]
+
+[0x8010][0x005A]Début du chapitre[next]
+
+[0x8010][0x005A]Descente des anges I[next]
+
+[0x8010][0x005A]Thème de Bayonetta : Destinée mystérieuse[next]
+
+[0x8010][0x005A]Fly Me To The Moon (Mix Apothéose ")[next]
+
+[0x8010][0x005A]Chapitre terminé[next]
+
+[0x8010][0x005A]Conduire avec Enzo[next]
+
+[0x8010][0x005A]Jeanne apparaît[next]
+
+[0x8010][0x005A]Accident de l'avion de transport[next]
+
+[0x8010][0x005A]Danse avec Jeanne[next]
+
+[0x8010][0x005A]Les Portes de l'Enfer[next]
+
+[0x8010][0x005A]Arsenal démoniaque[next]
+
+[0x8010][0x005A]Quai de la gare de Vigrid[next]
+
+[0x8010][0x005A]L'ancienne ville de Vigrid[next]
+
+[0x8010][0x005A]Descente des anges II[next]
+
+[0x8010][0x005A]Bayonetta, prête à l'attaque I[next]
+
+[0x8010][0x005A]L'artillerie lourde[next]
+
+[0x8010][0x005A]Invocation du démon de l'Enfer[next]
+
+[0x8010][0x005A]Fortitudo - Risques du métier (mouv. 1)[next]
+
+[0x8010][0x005A]Prologue[next]
+
+[0x8010][0x005A]Les porteurs de lumière[next]
+
+[0x8010][0x005A]Jeanne - En moto I[next]
+
+[0x8010][0x005A]Jeanne - Moto II[next]
+
+[0x8010][0x005A]Berceau des souvenirs[next]
+
+[0x8010][0x005A]Combat pour le trône de l'Umbra[next]
+
+[0x8010][0x005A]Luka apparaît[next]
+
+[0x8010][0x005A]Conversation avec Luka I[next]
+
+[0x8010][0x005A]Conversation avec Luka II[next]
+
+[0x8010][0x005A]Descente des anges IV[next]
+
+[0x8010][0x005A]Bayonetta, prête à l'attaque II[next]
+
+[0x8010][0x005A]L'enfant mystérieuse, Cereza[next]
+
+[0x8010][0x005A]Apparition de Fortitudo[next]
+
+[0x8010][0x005A]Bavardage avec Fortitudo[next]
+
+[0x8010][0x005A]Une ville ensevelie sous la lave[next]
+
+[0x8010][0x005A]Les porteurs de lumière[next]
+
+[0x8010][0x005A]Les catacombes[next]
+
+[0x8010][0x005A]Hymnes angéliques I[next]
+
+[0x8010][0x005A]Hymnes angéliques II[next]
+
+[0x8010][0x005A]Retour de Fortitudo[next]
+
+[0x8010][0x005A]Fortitudo - Risques du métier[next]
+
+[0x8010][0x005A]Bataille épique[next]
+
+[0x8010][0x005A]L'heure de l'Apothéose ![next]
+
+[0x8010][0x005A]Descente des anges III[next]
+
+[0x8010][0x005A]En danger ![next]
+
+[0x8010][0x005A]Vallées du Croissant et de l'Aube[next]
+
+[0x8010][0x005A]Descente des anges IV[next]
+
+[0x8010][0x005A]Descente des anges V[next]
+
+[0x8010][0x005A]Combat avec Jeanne I[next]
+
+[0x8010][0x005A]Combat avec Jeanne II[next]
+
+[0x8010][0x005A]Le rouge et le noir[next]
+
+[0x8010][0x005A]Bestialité[next]
+
+[0x8010][0x005A]Ruines du terrain d'exercice des sorcières[next]
+
+[0x8010][0x005A]Action ![next]
+
+[0x8010][0x005A]Cereza[next]
+
+[0x8010][0x005A]Astuce[next]
+
+[0x8010][0x005A]Au bon moment ![next]
+
+[0x8010][0x005A]Temperantia apparaît[next]
+
+[0x8010][0x005A]Temperantia - Plaisirs cachés[next]
+
+[0x8010][0x005A]EV19 Infiltration de l'autoroute[next]
+
+[0x8010][0x005A]Splash Wave (Mix Apothéose ")[next]
+
+[0x8010][0x005A]After Burner (Mix Apothéose ")[next]
+
+[0x8010][0x005A]Magnificent 7 (Mix Apothéose ")[next]
+
+[0x8010][0x005A]Bataille de charme[next]
+
+[0x8010][0x005A]Premier amour[next]
+
+[0x8010][0x005A]Coeur brisé[next]
+
+[0x8010][0x005A]Paradis - Cimetière du souvenir[next]
+
+[0x8010][0x005A]Bataille de charme[next]
+
+[0x8010][0x005A]Berceau des souvenirs I[next]
+
+[0x8010][0x005A]Berceau des souvenirs II[next]
+
+[0x8010][0x005A]Assaut du Berceau des souvenirs[next]
+
+[0x8010][0x005A]Paradiso - Mer étoilée[next]
+
+[0x8010][0x005A]Luka entrevoit le combat de Bayonetta[next]
+
+[0x8010][0x005A]Iustitia apparaît I[next]
+
+[0x8010][0x005A]L'idée folle de Luka I[next]
+
+[0x8010][0x005A]Iustitia apparaît II[next]
+
+[0x8010][0x005A]Reviens Chouchou ![next]
+
+[0x8010][0x005A]Iustitia apparaît III[next]
+
+[0x8010][0x005A]Iustitia - Rendre à chacun son dû[next]
+
+[0x8010][0x005A]Luka à la base aérienne I[next]
+
+[0x8010][0x005A]Les Yeux du monde[next]
+
+[0x8010][0x005A]Luka à la base aérienne II[next]
+
+[0x8010][0x005A]Assaut de la base aérienne[next]
+
+[0x8010][0x005A]Transport militaire géant - Walkyrie[next]
+
+[0x8010][0x005A]Combat avec Jeanne III[next]
+
+[0x8010][0x005A]Walkyrie s'écrase[next]
+
+[0x8010][0x005A]Sauve Cereza ![next]
+
+[0x8010][0x005A]Sapientia apparaît I[next]
+
+[0x8010][0x005A]Sapientia - Entre le bien et le mal[next]
+
+[0x8010][0x005A]Idée folle de Luka II[next]
+
+[0x8010][0x005A]Space Harrier (Mix Apothéose ")[next]
+
+[0x8010][0x005A]Wiwi Jumbo (Mix du Paradis)[next]
+
+[0x8010][0x005A]Avant le combat ultime avec Jeanne I[next]
+
+[0x8010][0x005A]Avant le combat ultime avec Jeanne II[next]
+
+[0x8010][0x005A]Sang et Obscurité[next]
+
+[0x8010][0x005A]Jeanne I[next]
+
+[0x8010][0x005A]Jeanne II[next]
+
+[0x8010][0x005A]Bayonetta [0x0151] Luka[next]
+
+[0x8010][0x005A]Sapientia apparaît II[next]
+
+[0x8010][0x005A]Avant le combat ultime avec Jeanne III[next]
+
+[0x8010][0x005A]Un miracle !?[next]
+
+[0x8010][0x005A]Vérité[next]
+
+[0x8010][0x005A]Vers Ithavoll[next]
+
+[0x8010][0x005A]Ithavoll - Étages inférieurs[next]
+
+[0x8010][0x005A]Au sommet de l'édifice d'Ithavoll[next]
+
+[0x8010][0x005A]Discours de Balder I[next]
+
+[0x8010][0x005A]Discours de Balder II[next]
+
+[0x8010][0x005A]Discours de Balder III[next]
+
+[0x8010][0x005A]La mort de Luka[next]
+
+[0x8010][0x005A]Balder[next]
+
+[0x8010][0x005A]Appelle-moi père[next]
+
+[0x8010][0x005A]Point de non-retour[next]
+
+[0x8010][0x005A]Jeanne - Au paradis[next]
+
+[0x8010][0x005A]Amitié[next]
+
+[0x8010][0x005A]La mort de Jeanne[next]
+
+[0x8010][0x005A]Le Jubilé[next]
+
+[0x8010][0x005A]La fin ?[next]
+
+[0x8010][0x005A]Luka regarde les étoiles[next]
+
+[0x8010][0x005A]Épilogue[next]
+
+[0x8010][0x005A]Dansez, les garçons ![next]
+
+[0x8010][0x005A]Fly Me To The Moon[next]
+
+[0x8010][0x005A]Souvenir[next]
+
+[0x8010][0x005A]Discours de Balder IV[next]
+
+[0x8010][0x005A]Bayonetta sous le joug de la déesse[next]
+
+[0x8010][0x005A]Romance[next]
+
+[0x8010][0x005A]Magical Sound Shower / OutRun[next]
+
+[0x8010][0x005A]Splash Wave / OutRun[next]
+
+[0x8010][0x005A]After Burner / After Burner II[next]
+
+[0x8010][0x005A]After Burner (Mélodie) / After Burner II[next]
+
+[0x8010][0x005A]Boss / Fantasy Zone[next]
+
+[0x8010][0x005A]Thème de Space Harrier[next]
+
+[0x8010][0x005A]Jingle de résultat[next]
+
+[0x8010][0x005A]Jingle pièce d'or[next]
+
+[0x8010][0x005A]Jingle pièce de platine[next]
+
+[0x8010][0x005A]Attaque des anges[next]
+
+[0x8010][0x005A]Bande-annonce Tokyo Game Show 2008[next]
+
+[0x8010][0x005A]After Burner / After Burner[next]
+
+[0x8010][0x005A]Hiroshi Yamaguchi[next]
+
+[0x8010][0x005A]Accords : Hiroshi Yamaguchi
+Voix : Helena Noguerra[next]
+
+[0x8010][0x005A]Hiroshi Yamaguchi
+Trompette : Yohei Ichikawa[next]
+
+[0x8010][0x005A]Hiro (SEGA)[next]
+
+[0x8010][0x005A]Composition originale : Hiro (SEGA)
+Arrangement: Hiro (SEGA)[next]
+
+[0x8010][0x005A]Composition originale : Hiro (SEGA)
+Arrangement: Masami Ueda[next]
+
+[0x8010][0x005A]Composition originale : Hiro (SEGA)
+Accords : Mitsuharu Fukuyama (SEGA)[next]
+
+[0x8010][0x005A]Masami Ueda[next]
+
+[0x8010][0x005A]Masami Ueda
+Voix : Helena Noguerra[next]
+
+[0x8010][0x005A]Naoto Tanaka[next]
+
+[0x8010][0x005A]GEM Impact[next]
+
+[0x8010][0x005A]Erina Niwa[next]
+
+[0x8010][0x005A]Rei Kondoh (T's MUSIC)[next]
+
+[0x8010][0x005A]Takayasu Sodeoka[next]
+
+[0x8010][0x005A]Voix : Brenda Lee[next]
+
+[0x8010][0x005A]Norihiko Hibino &GEM Impact[0x1003][next]
+
+[0x8010][0x005A]Takahiro Izutani&GEM Impact[0x1003][next]
+
+[0x8010][0x005A]Yoshitaka Suzuki &GEM Impact[0x1003][next]
+
+[0x8010][0x005A]Daisuke Sakata
+Voix : Helena Noguerra[next]
+
+[0x8010][0x005A]Hiroshi Yamaguchi
+Takayasu Sodeoka[next]
+
+Quitter le Jukebox ?[next]

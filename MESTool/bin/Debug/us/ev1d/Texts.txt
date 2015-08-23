@@ -1,0 +1,49 @@
+[id=1][time=00:41.2500/00:43.7500]It looks like Humpty Dumpty's 
+taken his last fall. [next]
+[id=2][time=00:00.4060/00:04.3130]Even old Eggman the Destroyer 
+gets scrambled in the end, right?[next]
+[id=2][time=00:06.0310/00:10.0000]You know, I still don't get why the hell 
+you drag me out here for these things.[next]
+[id=2][time=00:10.7810/00:13.0310]I just drop off the merchandise.[next]
+[id=2][time=00:13.8750/00:14.1880]Hey, bet you can't guess what today is?[next]
+[id=3][time=00:00.0000/00:01.6880]Hey, bet you can't guess what today is?[next]
+[id=4][time=00:02.1560/00:02.5310]Readin' the good Lord's book ain't gonna do much.[next]
+[id=5][time=00:00.0000/00:02.0310]Readin' the good Lord's book ain't gonna do much.[next]
+[id=6][time=00:00.7500/00:03.3750]People been waiting for this asshole 
+to get whacked for ages.[next]
+[id=7][time=00:00.9380/00:05.2190]Hell, look around.
+There's no love lost for old Humpty Dumpty.[next]
+[id=8][time=00:01.4380/00:07.1560]But you gotta keep the outfit happy. 
+We don't take care of him, they take care of us,[next]
+[id=8][time=00:08.8750/00:09.2190]and I prefer my shoes made 
+out of rubber, not concrete.[next]
+[id=9][time=00:00.0000/00:02.8440]and I prefer my shoes made 
+out of rubber, not concrete.[next]
+[id=10][time=00:01.3130/00:03.3130]But hey, it's that kinda town.[next]
+[id=10][time=00:03.4380/00:04.5630]Without good hearted souls like us 
+to put these bastards six feet under,[next]
+[id=11][time=00:00.0000/00:02.4840]Without good hearted souls like us 
+to put these bastards six feet under,[next]
+[id=11][time=00:02.5630/00:04.1880]where'd society be?[next]
+[id=11][time=00:04.8750/00:06.5630]Course, the pay's not bad either.[next]
+[id=12][time=00:02.7190/00:04.8750]Jesus, you really get into this shit, dontcha?[next]
+[id=12][time=00:05.8130/00:09.3440]If it were me, I'd be praying he ends up barbecue...[next]
+[id=12][time=00:09.4060/00:10.8130]Or at least sunny side up![next]
+[id=13][time=00:04.9690/00:07.4690]You can keep praying, [next]
+[id=13][time=00:07.5310/00:08.8440]but the only way this guy's meeting the Lord[next]
+[id=13][time=00:08.9380/00:10.5940]is if God's hungry for breakfast![next]
+[id=16][time=00:00.6250/00:02.6560]Speaking of hungry, we done here?[next]
+[id=17][time=00:00.3130/00:02.7810]My kids are baking me a birthday cake tonight.[next]
+[id=17][time=00:02.8440/00:05.0310]Cute little fuckers, I tell ya what...[next]
+[id=18][time=00:01.1250/00:03.5310]Well then, adios![next]
+[id=21][time=00:03.0630/00:05.7190]What the fuck!? They're here!?[next]
+[id=21][time=00:05.7810/00:07.0310]For this douchebag!?[next]
+[id=22][time=00:02.1250/00:05.3750]I hate this damn light! I can't see a thing![next]
+[id=22][time=00:07.5000/00:10.5940]But they're there... Ain't they!?[next]
+[id=22][time=00:10.6560/00:12.5940]You hearin' me!? You can see them, can't you!?[next]
+[id=22][time=00:13.0000/00:16.0940]I see them. They are instruments of God,[next]
+[id=22][time=00:16.5000/00:18.8750]descending upon his heavenly rays to Earth.[next]
+[id=23][time=00:00.8750/00:03.0000]Oh... My... God...[next]
+[id=24][time=00:02.0630/00:08.3440]Dear Lord, grant us guidance and keep safe
+the souls of our loved ones for all eternity.[next]
+[id=37][time=00:05.9380/00:15.6090][0x8100][next]

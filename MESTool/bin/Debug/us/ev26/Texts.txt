@@ -1,0 +1,3 @@
+[id=0][time=00:03.0940/00:05.0940]No time for daydreaming.[next]
+[id=50][time=00:03.3440/00:06.0630]Those cretins fouled it all up again![next]
+[id=51][time=00:00.4060/00:03.5940]But perhaps this can be to my advantage. [next]

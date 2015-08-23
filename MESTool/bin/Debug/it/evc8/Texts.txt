@@ -1,0 +1,4 @@
+[id=1][time=00:00.2190/00:01.0940]Cheshire! [next]
+[id=4][time=00:00.2500/00:01.2500]Cereza...[next]
+[id=4][time=00:01.3750/00:07.0630]Bayonetta. Non abbiamo tempo.
+Non si può più aspettare![next]

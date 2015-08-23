@@ -1,0 +1,3 @@
+[id=30][time=00:01.4380/00:02.1880]You!?[next]
+[id=31][time=00:01.4060/00:03.1880]What's the matter, Bayonetta?[next]
+[id=32][time=00:01.0310/00:02.7190]All that sleeping made you soft?[next]

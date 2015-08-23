@@ -1,0 +1,33 @@
+[id=0][time=00:00.3440/00:02.6560]Youhou ! T'as vu ça !?[next]
+[id=0][time=00:03.1880/00:05.0630]Je t'avais bien dit de ne pas t'inquiéter ![next]
+[id=1][time=00:00.0940/00:02.2190]Maman ! C'est maman qui nous a sauvés ![next]
+[id=1][time=00:02.3750/00:03.0310]Hein !?[next]
+[id=2][time=00:00.0940/00:01.5000]Comme on se retrouve. Bonjour Chouchou ![next]
+[id=2][time=00:01.7190/00:02.4380]Merde ![next]
+[id=4][time=00:00.0630/00:00.8440]Maman ![next]
+[id=4][time=00:01.1880/00:04.4690]Dis donc, tes prouesses au volant valent
+bien tes talents de journaliste.[next]
+[id=5][time=00:00.2190/00:03.7500]Je pensais bien arriver sur l'île avant toi !
+Mais les gardes étaient moins coopératifs que prévu.[next]
+[id=5][time=00:04.1560/00:05.6250]En gros, je crois que mon plan a foiré.[next]
+[id=6][time=00:00.5310/00:03.4690]Tu crois savoir ce que je fais ici, hein ?[next]
+[id=7][time=00:00.3130/00:02.9060]Nous, les journalistes, nous sommes
+aussi un peu des détectives, tu sais.[next]
+[id=7][time=00:03.2810/00:08.5940]Tu recherches une pierre précieuse qui se trouve
+dans l'immeuble d'Ithavoll. C'est aussi là où je vais.[next]
+[id=8][time=00:00.1560/00:04.1880]Tiens donc. Tu as réussi à savoir avant moi
+où je dois aller [next]
+[id=8][time=00:04.7500/00:08.0000]et pourtant, t'es pas fichu de conduire une
+voiture sans faire d'embardées.[next]
+[id=8][time=00:08.2190/00:09.9690]Je ne suis pas ton chauffeur, que je sache.[next]
+[id=9][time=00:01.5630/00:06.9380]Chouchou, tu ne penses jamais que cet air
+salin pourrait être mauvais pour mes cheveux ?[next]
+[id=10][time=00:00.4690/00:03.1250]Ben, moi j'ai une pommade quand je vais
+à la plage.[next]
+[id=13][time=00:01.3130/00:02.6880]Petite ! Baisse-toi ![next]
+[id=16][time=00:00.3130/00:04.3130]Accélère, Chouchou.
+Ceux-là, je m'en occupe. [next]
+[id=16][time=00:05.0310/00:06.5940]Super...[next]
+[id=19][time=00:01.0310/00:04.8440]J'ai comme l'impression que je ne suis
+pas la bienvenue sur cette île !?[next]
+[id=19][time=00:05.2500/00:08.8750]Ah, j'adore quand on me résiste comme ça ![next]

@@ -1,0 +1,3 @@
+[id=1][time=00:00.5630/00:01.5000]Merda![next]
+[id=3][time=00:00.3440/00:02.2190]E che cazzo, così è troppo![next]
+[id=3][time=00:02.9690/00:05.3440]Destra! Gira a destra! Togliti dalla strada![next]

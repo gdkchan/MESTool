@@ -1,0 +1,68 @@
+[id=0][time=00:02.4380/00:03.7500]Excuse-moi, m'sieur, mais je peux ravoir mes lunettes ?[next]
+[id=1][time=00:00.0000/00:01.8130]Excuse-moi, m'sieur, mais je peux ravoir mes lunettes ?[next]
+[id=1][time=00:03.1250/00:05.0000]Hein ? Oh... oui...[next]
+[id=2][time=00:00.0000/00:01.0310]Tiens.[next]
+[id=3][time=00:01.0940/00:05.0000]Cereza, dis-moi, où est-ce que t'as trouvé
+des lunettes magiques comme ça ?[next]
+[id=3][time=00:01.0940/00:00.3440]Cereza, dis-moi, où est-ce que t'as trouvé
+des lunettes magiques comme ça ?[next]
+[id=4][time=00:02.1560/00:04.0310]Les lunettes sont pas magiques, voyons ![next]
+[id=4][time=00:04.0470/00:06.2500]Je peux voir les monstres sans elles ![next]
+[id=5][time=00:01.0940/00:03.4060]Enfin... C'est pas vraiment des monstres, tu sais.[next]
+[id=5][time=00:04.3130/00:07.8130]Mais cette, euh, Bayonetta, enfin, ta maman...[next]
+[id=5][time=00:07.9690/00:10.6560][0x01D4]a fait longtemps qu'elle se bat contre ces monstres ?[next]
+[id=6][time=00:00.0000/00:00.6560][0x01D4]a fait longtemps qu'elle se bat contre ces monstres ?[next]
+[id=6][time=00:01.2500/00:06.0310]Ma maman c'est une sorcière, et les sorcières,
+elles sont très fortes et elles protègent les gens.[next]
+[id=7][time=00:00.7810/00:03.2810]Quand je serai plus grande, moi aussi je serai
+forte et je protégerai ma maman ![next]
+[id=8][time=00:00.0000/00:01.0630]Quand je serai plus grande, moi aussi je serai
+forte et je protégerai ma maman ![next]
+[id=9][time=00:00.0000/00:02.1250]Attends... Tu penses que les sorcières font quoi !?[next]
+[id=9][time=00:03.4060/00:04.0630]Non... Oublie ça.[next]
+[id=10][time=00:00.0000/00:00.6250]Non... Oublie ça.[next]
+[id=10][time=00:01.1880/00:04.6560]C'est pas la peine de discuter avec une gamine.
+Je vais m'en tirer tout seul.[next]
+[id=10][time=00:05.4690/00:06.6880]J'en doute pas une seconde.[next]
+[id=13][time=00:00.6250/00:01.6560]Maman ![next]
+[id=14][time=00:00.6880/00:01.3750]Merde ![next]
+[id=14][time=00:03.3440/00:06.5000]Tu n'arrêteras jamais de me faire rire, Chouchou.[next]
+[id=15][time=00:00.2810/00:02.2190]Je suppose que c'est ton prochain objectif ?[next]
+[id=17][time=00:02.4690/00:03.1880]C'est à toi, petite.[next]
+[id=18][time=00:00.0000/00:00.6250]C'est à toi, petite.[next]
+[id=18][time=00:01.2810/00:03.6560]Tu n'as pas pleuré pendant que j'étais partie, hein ?[next]
+[id=20][time=00:00.3130/00:00.8750]Nan.[next]
+[id=21][time=00:00.0000/00:00.6250]Bien.[next]
+[id=22][time=00:00.3750/00:01.4690]Bayonetta... Je t'ai demandé de tellement
+de façons, et tellement de fois,[next]
+[id=23][time=00:00.0000/00:03.5940]Bayonetta... Je t'ai demandé de tellement
+de façons, et tellement de fois,[next]
+[id=24][time=00:00.3440/00:01.5310]mais tu me réponds toujours la même chose...[next]
+[id=24][time=00:01.6250/00:03.2190]Allons, mon chaton. Tu sais bien que c'était juste...[next]
+[id=24][time=00:03.2190/00:05.0000]... un malentendu. T'es vraiment têtue, tu savais ça ?[next]
+[id=25][time=00:00.0000/00:02.0630]... un malentendu. T'es vraiment têtue, tu savais ça ?[next]
+[id=26][time=00:00.5000/00:33.4060]Mon père... C'était un journaliste, lui aussi.[next]
+[id=28][time=00:00.2190/00:03.7190]En fait, c'était un type bien plus impressionnant
+que je ne pourrai jamais l'être.[next]
+[id=29][time=00:01.2190/00:04.0000]Il était obsédé par un dossier pendant
+toute sa carrière.[next]
+[id=29][time=00:04.4690/00:05.8750]Quelque chose de si bizarre qu'il y 
+a consacré toute sa vie. [next]
+[id=30][time=00:00.0000/00:01.0000]Quelque chose de si bizarre qu'il y 
+a consacré toute sa vie. [next]
+[id=30][time=00:00.0000/00:03.8130]Le genre de chose qu'on ne voit qu'à Hollywood.[next]
+[id=31][time=00:00.4380/00:02.1880]Les disciples des ténèbres, les sorcières de l'Umbra,
+et leurs homologues de la lumière, les sages de Lumen,[next]
+[id=32][time=00:00.0000/00:04.3130]Les disciples des ténèbres, les sorcières de l'Umbra,
+et leurs homologues de la lumière, les sages de Lumen,[next]
+[id=32][time=00:04.6880/00:08.7810]qui contrôlaient l'univers grâce à
+la puissance des "Yeux du monde". [next]
+[id=34][time=00:00.0000/00:05.5630]Et puis un jour, les deux clans ont disparu,
+dans l'Europe médiévale.[next]
+[id=34][time=00:06.4060/00:06.7500]Tu connais peut-être l'endroit où ça s'est passé...
+Puisque tu y es en ce moment.[next]
+[id=35][time=00:00.0000/00:02.9690]Tu connais peut-être l'endroit où ça s'est passé...
+Puisque tu y es en ce moment.[next]
+[id=36][time=00:00.6250/00:01.7500]Bienvenue à Vigrid. 500 ans plus tard.[next]
+[id=37][time=00:00.0000/00:02.2500]Bienvenue à Vigrid. 500 ans plus tard.[next]
+[id=38][time=00:01.5160/00:03.9060]500 ans...[next]

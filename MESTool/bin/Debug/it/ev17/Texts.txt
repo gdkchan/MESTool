@@ -1,0 +1,6 @@
+[id=4][time=00:00.5000/00:01.8750]Chi va là?![next]
+[id=17][time=00:00.0160/00:04.0940]Hai giocato abbastanza a nascondino,
+mio piccolo e lesto amico.[next]
+[id=19][time=00:00.9530/00:03.1560]Ma sei solo una bambina! [next]
+[id=20][time=00:00.4840/00:03.1880]Cosa ci fai in giro per Vigrid?[next]
+[id=20][time=00:03.2500/00:06.3440]E vestita così?[next]

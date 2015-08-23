@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextureMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="gdkchan/MESTool">
+  <Section1>
+    <ElementCount>1</ElementCount>
+    <Data>
+      <base64Binary>AAAAAD0AAAA8gAAAPtAAAD8oAAA=</base64Binary>
+    </Data>
+  </Section1>
+  <Section2>
+    <ElementCount>1</ElementCount>
+    <Data>
+      <base64Binary>AAAAAEFAAABCJAAAAQAAAA==</base64Binary>
+    </Data>
+  </Section2>
+</TextureMap>

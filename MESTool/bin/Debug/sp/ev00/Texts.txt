@@ -1,0 +1,12 @@
+[0x8F00][0x0000][0x8F01][0x0106][0x022A]Con tu maldad has violado
+los antiguos mandamientos[next]
+[0x8F00][0x0000][0x8F01][0x0238][0x02DE]y has amado a un ser de la luz.[next]
+[0x8F00][0x0000][0x8F01][0x02FE][0x0402]Nuestras leyes son claras. Nos
+obligan a encerrarte eternamente.[next]
+[0x8F00][0x0000][0x8F01][0x0414][0x0498]Por lo que respecta a esta niña impura,[next]
+[0x8F00][0x0000][0x8F01][0x04B0][0x05B0]deberá permanecer alejada del camino
+de las artes oscuras por siempre jamás.[next]
+[0x8F00][0x0000][0x8F01][0x09DA][0x0B5A]¡Levántate mi niña! ¡Levántate
+y descubre todo tu potencial![next]
+[0x8F00][0x0000][0x8F01][0x0B68][0x0CD4]¡Usa tu poder y abre
+"los Ojos del Mundo"![next]

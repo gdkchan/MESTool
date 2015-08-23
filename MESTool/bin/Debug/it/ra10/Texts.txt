@@ -1,0 +1,10 @@
+
+
+Tornare al menu dei capitoli?[next]
+
+Ripristinare i parametri predefiniti?[next]
+
+Selezionare questo costume?[next]
+
+Perderai tutti i progressi non salvati.
+Tornare alla schermata del titolo?[next]

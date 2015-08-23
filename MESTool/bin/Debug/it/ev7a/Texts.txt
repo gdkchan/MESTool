@@ -1,0 +1,29 @@
+[id=7][time=00:00.2190/00:02.3440]Ben svegliata, piccola.[next]
+[id=8][time=00:00.0000/00:00.0940]Ben svegliata, piccola.[next]
+[id=9][time=00:01.2500/00:03.3750]Mamma... dove siamo?[next]
+[id=9][time=00:04.5310/00:09.1560]Sembra che qualcuno ci stia aspettando... 
+che carino da parte loro stendere il tappeto rosso![next]
+[id=10][time=00:00.3130/00:03.8750]Sia chiara una cosa, Luka...[next]
+[id=11][time=00:00.4690/00:04.4840]Sì, sì... lo so... "Non posso proteggerti,
+perciò non fare casini".[next]
+[id=11][time=00:04.5000/00:05.9060]Tutto sotto controllo.[next]
+[id=12][time=00:00.5630/00:03.4690]Andiamo. Stammi vicina, piccola.[next]
+[id=13][time=00:00.3750/00:06.2500]Destati, figlia mia!
+Destati e scopri il tuo vero potere![next]
+[id=14][time=00:00.0000/00:00.0940]Destati, figlia mia!
+Destati e scopri il tuo vero potere![next]
+[id=14][time=00:00.5630/00:07.6250]Risveglia gli "Occhi del Mondo"! [next]
+[id=16][time=00:00.1560/00:01.0940]Papà...!?[next]
+[id=16][time=00:01.2500/00:01.8750]Cosa?[next]
+[id=17][time=00:00.1250/00:02.3440]Papà! [0x01AF] il mio papà![next]
+[id=18][time=00:00.4380/00:01.0940]Papà?[next]
+[id=18][time=00:01.4060/00:04.3750]Certo, mammina! Non lo senti?[next]
+[id=19][time=00:00.0000/00:00.0630]Certo, mammina! Non lo senti?[next]
+[id=20][time=00:00.0630/00:04.0630]D'accordo, papà, arrivo... 
+e porto la mamma con me.[next]
+[id=21][time=00:01.3440/00:03.0630]Piccola, aspetta![next]
+[id=22][time=00:00.1880/00:01.3750]Da questa parte, mamma![next]
+[id=23][time=00:00.0000/00:00.9380]Piccola,[next]
+[id=27][time=00:00.5630/00:01.5630]piccola![next]
+[id=30][time=00:00.2190/00:39.0310]Cerezina! Bayonetta!
+Dannazione![next]

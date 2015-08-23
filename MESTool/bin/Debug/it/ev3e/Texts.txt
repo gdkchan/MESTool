@@ -1,0 +1,23 @@
+[id=1][time=00:00.7500/00:05.4690]Non capisco proprio perché desideri
+questa pietra. Ti starebbe malissimo! [next]
+[id=2][time=00:00.0000/00:01.4380][0x01AF] troppo vistosa![next]
+[id=3][time=00:00.6560/00:05.0940][0x8F02]Pietra? Pensi che si tratti
+solo di un pezzo di roccia?[next]
+[id=4][time=00:00.2810/00:03.6250][0x8F02]La grazia di Jubileus la Creatrice sia con te.[next]
+[id=12][time=00:01.1250/00:02.4380]Benvenuto a bordo, Cheshire.[next]
+[id=13][time=00:00.1560/00:02.6560]Porca puttana![next]
+[id=13][time=00:03.0630/00:04.0940]Mamma![next]
+[id=14][time=00:00.1880/00:02.2810]T'avevo detto che tornavo subito.[next]
+[id=15][time=00:00.9380/00:04.0470]Non potresti pilotare questo aggeggio?[next]
+[id=15][time=00:04.0630/00:06.0630]Io sono un po' indaffarata in questo momento.[next]
+[id=19][time=00:00.5630/00:02.6880]E tanti saluti alla discrezione.[next]
+[id=19][time=00:02.9060/00:06.8750]Potevamo anche mettere degli altoparlanti
+e far risuonare la Cavalcate delle valchirie.[next]
+[id=20][time=00:00.0000/00:02.2190]Suvvia! Siamo dei VIP.[next]
+[id=20][time=00:02.6560/00:06.3130]Per la gente di successo come noi,
+avere un elicottero privato è il minimo.[next]
+[id=21][time=00:01.5630/00:05.5310]Benvenuti a bordo del volo 001 di Luka Airlines. [next]
+[id=21][time=00:05.8130/00:07.8130][0x01AF] il vostro capitano, LUKA, che vi parla. [next]
+[id=22][time=00:00.0000/00:00.3440][0x01AF] il vostro capitano, LUKA, che vi parla. [next]
+[id=22][time=00:00.5310/00:04.4060]Allacciate le cinture di sicurezza,
+sono previste delle perturbazioni.[next]

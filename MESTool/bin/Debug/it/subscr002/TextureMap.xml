@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<TextureMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="gdkchan/MESTool">
+  <Section1>
+    <ElementCount>5</ElementCount>
+    <Data>
+      <base64Binary>AAAAAD7wAAA8gAAAPygAAD8oAAA=</base64Binary>
+      <base64Binary>AAEAATyAAAA8gAAAPqgAAD8AAAA=</base64Binary>
+      <base64Binary>AAIAAD8wAAA+yAAAP0wAAD80AAA=</base64Binary>
+      <base64Binary>AAMAAD8wAAA8gAAAP1gAAD64AAA=</base64Binary>
+      <base64Binary>AAQAADyAAAA8gAAAPuAAAD8MAAA=</base64Binary>
+    </Data>
+  </Section1>
+  <Section2>
+    <ElementCount>5</ElementCount>
+    <Data>
+      <base64Binary>AAAAAEFAAABCJAAAAQAAAA==</base64Binary>
+      <base64Binary>AAEAAUGgAABB+AAAAQAAAA==</base64Binary>
+      <base64Binary>AAIAAEDgAABBoAAAAQAAAA==</base64Binary>
+      <base64Binary>AAMAAEEgAABBsAAAAQAAAA==</base64Binary>
+      <base64Binary>AAQAAEHYAABCCAAAAQAAAA==</base64Binary>
+    </Data>
+  </Section2>
+</TextureMap>

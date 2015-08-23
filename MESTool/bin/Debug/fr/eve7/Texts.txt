@@ -1,0 +1,17 @@
+[id=0][time=00:00.9380/00:01.5630]Encore ! [next]
+[id=10][time=00:00.0000/00:00.5000]Encore ! [next]
+[id=10][time=00:00.0000/00:00.1250]Encore ! [next]
+[id=13][time=00:00.2500/00:00.7500]Encore ! [next]
+[id=14][time=00:00.0000/00:00.1250]Encore ! [next]
+[id=14][time=00:01.1250/00:01.6250]Encore ! [next]
+[id=15][time=00:00.0000/00:00.1250]Encore ! [next]
+[id=26][time=00:01.4690/00:01.5630]Et vous deux, au lieu de regarder, 
+mettez-vous donc au travail ![next]
+[id=27][time=00:00.0000/00:02.8130]Et vous deux, au lieu de regarder, 
+mettez-vous donc au travail ![next]
+[id=36][time=00:02.5310/00:04.3440]C'était le dernier.[next]
+[id=36][time=00:04.4060/00:05.6560]J'en ai fini avec toi pour ce soir ![next]
+[id=49][time=00:00.6560/00:03.8750]Tant qu'il y aura de la musique,
+je continuerai à danser.[next]
+[id=50][time=00:00.0000/00:00.9690]Tant qu'il y aura de la musique,
+je continuerai à danser.[next]

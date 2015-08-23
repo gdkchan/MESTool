@@ -1,0 +1,3 @@
+[id=0][time=00:01.3130/00:02.8130]Mais où suis-je ?[next]
+[id=0][time=00:03.2810/00:06.4060]Ils feraient mieux de m'offrir la première
+classe, la prochaine fois.[next]

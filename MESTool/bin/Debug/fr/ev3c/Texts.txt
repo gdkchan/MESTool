@@ -1,0 +1,5 @@
+[id=0][time=00:00.6250/00:05.7500]L'esprit des clans plane encore,
+même après ces 500 ans.[next]
+[id=0][time=00:07.0940/00:11.7970]Mais qu'est-ce que mon père cherchait ?
+Pourquoi a-t-il donné sa vie pour le trouver ?[next]
+[id=0][time=00:12.4060/00:15.5310]Je dois découvrir la vérité par moi-même ?[next]

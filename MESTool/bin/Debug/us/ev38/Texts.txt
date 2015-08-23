@@ -1,0 +1,24 @@
+[id=4][time=00:00.9060/00:03.1250]How about now, kitty?[next]
+[id=4][time=00:03.7500/00:05.6250]Still not enough you say?[next]
+[id=5][time=00:00.0000/00:02.5630]You can go another round, can't you?[next]
+[id=6][time=00:00.0000/00:04.3750][0x8F02]It was as the Lumen Sage foretold.[next]
+[id=7][time=00:00.0000/00:04.3750][0x8F02]Your power is indeed magnificent. [next]
+[id=8][time=00:00.2810/00:02.4060]The Lumen Sage?[next]
+[id=8][time=00:02.4060/00:02.5940][0x8F02]Long have two eyes,
+one light and one dark,[next]
+[id=9][time=00:00.0000/00:05.8750][0x8F02]Long have two eyes,
+one light and one dark,[next]
+[id=10][time=00:00.0000/00:02.1880][0x8F02]watched over the world and its history.[next]
+[id=10][time=00:02.1880/00:06.5310][0x8F02]watched over the world and its history.[next]
+[id=10][time=00:06.8440/00:09.1250][0x8F02]It is this power that will allow the
+creator to start a new cycle of creation.[next]
+[id=11][time=00:00.0000/00:03.1880][0x8F02]It is this power that will allow the
+creator to start a new cycle of creation.[next]
+[id=11][time=00:03.4060/00:05.4690][0x8F02]Bayonetta, may Jubileus, the Creator, grace you![next]
+[id=12][time=00:00.0000/00:02.5940][0x8F02]Bayonetta, may Jubileus, the Creator, grace you![next]
+[id=13][time=00:00.0000/00:01.3750][0x8F02]Bayonetta, may Jubileus, the Creator, grace you![next]
+[id=19][time=00:01.6880/00:04.9380]Now where are my new best friends?[next]
+[id=19][time=00:05.4060/00:08.2810]I suppose one of them is an adult,
+so they should be ok.[next]
+[id=20][time=00:00.0000/00:00.2190]I suppose one of them is an adult,
+so they should be ok.[next]

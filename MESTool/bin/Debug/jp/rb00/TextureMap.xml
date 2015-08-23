@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<TextureMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="gdkchan/MESTool">
+  <UVTable Count="22">
+    <Entries>
+      <TextureMapUV Id="0">
+        <StartX>0.00390625</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.13671875</EndX>
+        <EndY>0.4765625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="1">
+        <StartX>0.28125</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.4140625</EndX>
+        <EndY>0.47265625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="2">
+        <StartX>0.74609375</StartX>
+        <StartY>0.00390625</StartY>
+        <EndX>0.8828125</EndX>
+        <EndY>0.15625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="3">
+        <StartX>0.421875</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.55078125</EndX>
+        <EndY>0.4765625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="4">
+        <StartX>0.8515625</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.984375</EndX>
+        <EndY>0.45703125</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="5">
+        <StartX>0.8515625</StartX>
+        <StartY>0.46484375</StartY>
+        <EndX>0.98046875</EndX>
+        <EndY>0.59765625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="6">
+        <StartX>0.00390625</StartX>
+        <StartY>0.00390625</StartY>
+        <EndX>0.14453125</EndX>
+        <EndY>0.15625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="7">
+        <StartX>0.15234375</StartX>
+        <StartY>0.00390625</StartY>
+        <EndX>0.29296875</EndX>
+        <EndY>0.15625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="8">
+        <StartX>0.00390625</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.140625</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="9">
+        <StartX>0.1484375</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.28515625</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="10">
+        <StartX>0.14453125</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.2734375</EndX>
+        <EndY>0.4765625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="11">
+        <StartX>0.30078125</StartX>
+        <StartY>0.00390625</StartY>
+        <EndX>0.44140625</EndX>
+        <EndY>0.15625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="12">
+        <StartX>0.70703125</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.84375</EndX>
+        <EndY>0.4609375</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="13">
+        <StartX>0.44921875</StartX>
+        <StartY>0.00390625</StartY>
+        <EndX>0.58984375</EndX>
+        <EndY>0.15625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="14">
+        <StartX>0.29296875</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.42578125</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="15">
+        <StartX>0.43359375</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.56640625</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="16">
+        <StartX>0.55859375</StartX>
+        <StartY>0.46484375</StartY>
+        <EndX>0.66796875</EndX>
+        <EndY>0.6171875</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="17">
+        <StartX>0.57421875</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.70703125</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="18">
+        <StartX>0.71484375</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.84765625</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="19">
+        <StartX>0.85546875</StartX>
+        <StartY>0.1640625</StartY>
+        <EndX>0.98828125</EndX>
+        <EndY>0.31640625</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="20">
+        <StartX>0.55859375</StartX>
+        <StartY>0.32421875</StartY>
+        <EndX>0.69921875</EndX>
+        <EndY>0.45703125</EndY>
+      </TextureMapUV>
+      <TextureMapUV Id="21">
+        <StartX>0.59765625</StartX>
+        <StartY>0.00390625</StartY>
+        <EndX>0.73828125</EndX>
+        <EndY>0.15625</EndY>
+      </TextureMapUV>
+    </Entries>
+  </UVTable>
+  <SizeTable Count="22">
+    <Entries>
+      <TextureMapSize Id="0">
+        <Width>34</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="1">
+        <Width>34</Width>
+        <Height>38</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="2">
+        <Width>35</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="3">
+        <Width>33</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="4">
+        <Width>34</Width>
+        <Height>34</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="5">
+        <Width>33</Width>
+        <Height>34</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="6">
+        <Width>36</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="7">
+        <Width>36</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="8">
+        <Width>35</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="9">
+        <Width>35</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="10">
+        <Width>33</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="11">
+        <Width>36</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="12">
+        <Width>35</Width>
+        <Height>35</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="13">
+        <Width>36</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="14">
+        <Width>34</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="15">
+        <Width>34</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="16">
+        <Width>28</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="17">
+        <Width>34</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="18">
+        <Width>34</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="19">
+        <Width>34</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="20">
+        <Width>36</Width>
+        <Height>34</Height>
+      </TextureMapSize>
+      <TextureMapSize Id="21">
+        <Width>36</Width>
+        <Height>39</Height>
+      </TextureMapSize>
+    </Entries>
+  </SizeTable>
+</TextureMap>

@@ -1,0 +1,340 @@
+Halo[next]
+
+Baked Gecko[next]
+
+Unicorn Horn[next]
+
+Mandragora Root[next]
+
+Green Laurel[next]
+
+Green Laurel[next]
+
+Green Laurel[next]
+
+Green Laurel[next]
+
+Purple Butterfly[next]
+
+Purple Butterfly[next]
+
+Bloody Rose Lollipop[next]
+
+Yellow Moon Lollipop[next]
+
+Green Herb Lollipop[next]
+
+Purple Magic Lollipop[next]
+
+Mega Bloody Rose Lollipop[next]
+
+Mega Yellow Moon Lollipop[next]
+
+Mega Green Herb Lollipop[next]
+
+Mega Purple Magic Lollipop[next]
+
+
+
+Angelic Hymns Gold LP
+"Military March"[next]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arcade Bullet[next]
+
+Witch Heart[next]
+
+Moon Pearl[next]
+
+Broken Witch Heart[next]
+
+Broken Moon Pearl[next]
+
+Red Hot Shot[next]
+
+Magic Flute[next]
+
+A very rare, spiritual metal containing the
+essence of an angel's life force. Used in
+business transactions within Inferno.[next]
+
+Cured within a crystallized block, Baked
+Gecko is a Concocting compound used by
+witches. It is useless by itself.[next]
+
+Cured via crystallization, Unicorn Horn is a
+Concocting compound used by witches.
+It is useless by itself.[next]
+
+Cured via crystallization, Mandragora Root is
+a Concocting compound used by witches. 
+It is useless by itself.[next]
+
+A laurel-shaped gem that contains vital
+essence in crystallized form. Revives
+one's vitality instantly when obtained.[next]
+
+A laurel-shaped gem that contains vital
+essence in crystallized form. Revives
+one's vitality instantly when obtained.[next]
+
+A laurel-shaped gem that contains vital
+essence in crystallized form. Revives
+one's vitality instantly when obtained.[next]
+
+A laurel-shaped gem that contains vital
+essence in crystallized form. Revives
+one's vitality instantly when obtained.[next]
+
+A butterfly-shaped gem that contains magical
+power in crystallized form. Revives one's
+magical power when obtained.[next]
+
+A butterfly-shaped gem that contains magical
+power in crystallized form. Revives one's
+magical power when obtained.[next]
+
+Candy containing an energy-increasing
+extract.
+Will temporarily raise one's attack power.[next]
+
+Candy that will wrap its user in a magical
+barrier. The barrier forms an impregnable
+shield for a short period of time.[next]
+
+Candy containing an extract with healing
+properties. While minimal, consuming this
+will recover one's vitality.[next]
+
+Candy containing an extract that increases
+one's alertness. While minimal, consuming
+this will recover one's magical power.[next]
+
+A giant candy lollipop with energy-increasing
+ability. Raises one's attack power for
+extended durations.[next]
+
+A giant candy lollipop capable of producing a
+magical barrier. The barrier forms an
+impregnable shield for extended durations.[next]
+
+A giant candy lollipop containing an extract
+with healing properties. Recovers vast
+amounts of vitality.[next]
+
+A giant candy lollipop containing an extract
+that increases one's alertness. Recovers
+vast amounts of magical power.[next]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bullets used to play Angel Attack.
+One pack contains three bullets for
+use during the game.[next]
+
+A witch's vitality in crystallized form.
+Obtaining this item will increase the
+limit of your vitality.[next]
+
+Contains the source of a witch's magical
+power, the power of the Moon. Obtaining this
+increases the limit of your magical power.[next]
+
+A piece of a Witch Heart. Gathering four of
+these will increase the limit of your
+vitality.[next]
+
+A piece of a Moon Pearl. Gathering two of
+these will increase the limit of your
+magical power.[next]
+
+A wondrous demonic medicine that can save a
+witch from the depths of mortality.
+Automatically used when vitality is depleted.[next]
+
+A Magical Flute said to have been played by the
+mythical sea beasts known as Sirens. Causes
+heavy damage to any nearby angels.[next]
+
+Angelic Hymns Gold LP
+"Trois Marches Militaires"[next]
+
+Angelic Hymns Gold LP
+"Quasi una Fantasia"[next]
+
+Gold LP Piece 1/2
+"Quasi una Fantasia"[next]
+
+Gold LP Piece 2/2
+"Quasi una Fantasia"[next]
+
+Angelic Hymns Gold LP
+"Fantaisie-Impromptu"[next]
+
+Gold LP Piece 1/2
+"Fantaisie-Impromptu"[next]
+
+Gold LP Piece 2/2
+"Fantaisie-Impromptu"[next]
+
+Angelic Hymns Gold LP
+"Sonate in D K. 448"[next]
+
+Gold LP Piece 1/3
+"Sonate in D K. 448"[next]
+
+Gold LP Piece 2/3
+"Sonate in D K. 448"[next]
+
+Gold LP Piece 3/3
+"Sonate in D K. 448"[next]
+
+Angelic Hymns Gold LP
+"Les P[0x01C9]tineurs Waltz op.183"[next]
+
+Gold LP Piece 1/3
+"Les P[0x01C9]tineurs Waltz op.183"[next]
+
+Gold LP Piece 2/3
+"Les P[0x01C9]tineurs Waltz op.183"[next]
+
+Gold LP Piece 3/3
+"Les P[0x01C9]tineurs Waltz op.183"[next]
+
+Angelic Hymns Gold LP
+"Walkürenritt"[next]
+
+Gold LP Piece 1/3
+"Walkürenritt"[next]
+
+Gold LP Piece 2/3
+"Walkürenritt"[next]
+
+Gold LP Piece 3/3
+"Walkürenritt"[next]
+
+Angelic Hymns Gold LP
+"Messiah, HWV. 56"[next]
+
+Angelic Hymns Gold LP
+"Jupiter, the Bringer of Jollity"[next]
+
+Angelic Hymns Gold LP
+"Mars, the Bringer of War"[next]
+
+Angelic Hymns Gold LP
+"Danse de la Fée Dragée"[next]
+
+
+
+A golden LP featuring the crystallized voices
+of angels. Some sort of silhouette is drawn
+upon the surface.[next]
+
+All the pieces fit together to form an
+Angelic Hymns Gold LP! Some sort of
+silhouette is drawn upon the surface.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is split cleanly in half.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+All the pieces fit together to form an
+Angelic Hymns Gold LP! Some sort of
+silhouette is drawn upon the surface.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is split cleanly in half.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+All the pieces fit together to form an
+Angelic Hymns Gold LP! Some sort of
+silhouette is drawn upon the surface.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+All the pieces fit together to form an
+Angelic Hymns Gold LP! Some sort of
+silhouette is drawn upon the surface.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+All the pieces fit together to form an
+Angelic Hymns Gold LP! Some sort of
+silhouette is drawn upon the surface.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A piece of an Angelic Hymns Gold LP.
+It is merely a piece of the full record.[next]
+
+A golden LP featuring the crystallized voices
+of angels. Some sort of silhouette is drawn
+upon the surface.[next]
+
+A golden LP featuring the crystallized voices
+of angels. Some sort of silhouette is drawn
+upon the surface.[next]
+
+A golden LP featuring the crystallized voices
+of angels. Some sort of silhouette is drawn
+upon the surface.[next]
+
+A golden LP featuring the crystallized voices
+of angels. Some sort of silhouette is drawn
+upon the surface.[next]

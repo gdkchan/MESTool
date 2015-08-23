@@ -1,0 +1,62 @@
+[0x8010][0x005A]Cuando la luna brilla en el cielo ponte
+enfrente de una pared y pulsa [A]
+para dar un Paseo brujo.[next]
+
+[0x8010][0x005A]Pulsa [LS_PRESS] mientras saltas para
+cancelar el Paseo brujo.[next]
+
+Pulsa [RS] para activar
+la vista en primera persona.[next]
+
+Mueve LEVEL[0x0185]R para echar un vistazo.
+Si pulsas [BACK] y seleccionas Opciones " Cámara
+podrás cambiar la configuración de la cámara.[next]
+
+En fin, no voy a poder usar las escaleras.
+No podré pasar por aquí...[next]A no ser que use mis
+[red]poderes brujos[white].[next]
+
+Parece que no tengo vía de escape.
+Aunque la verdad es que escapar
+tampoco tiene mucho sentido.[next]
+
+Basta con echar un vistazo a esta pared para
+ver que es imposible atravesarla.[next]Puede que usando algún tipo de
+[red]poder brujo temporal[white]
+se pueda hacer algo.[next]
+
+Esta pared es bastante compacta.[next]No creo que pueda hacer que se
+mueva, como ocurrió en el otro lado.[next]
+
+Esta parte de la ciudad ha sido declarada
+zona de interés histórico y cultural.[next]Parece que se preocupan bastante de los
+edificios y calles históricos.[next]
+
+Los coches que pasan por la calle hacen
+que se abra o se cierre esta puerta.[next]
+
+Han puesto teléfonos de los clásicos
+para no alterar el estilo de la zona.[next]
+
+Esta puerta está cerrada a cal y canto.
+Parece que hace mucho que no la usan.[next]
+
+Ésta es otra de esas paredes que puedo
+mover con mis poderes de bruja.[next]Parece que al otro lado hay un templo.[next]
+
+Creo que esto se convierte en un puente
+que comunica con la otra orilla.[next]Pero no permanece mucho tiempo con forma
+de puente. Si pudiera [red]moverme muy
+rápido[white]... [next]
+
+La puerta está cerrada. Parece que este
+pasaje no se ha usado en mucho tiempo.[next]La estatua de la bruja que hay al lado
+también ha sido destruida. Hay trozos por
+todas partes.[next]
+Siento que hay una especie de energía
+que quiere que se regenere, pero hay
+otra que lo impide...[next]
+
+El tranvía ha destruido
+este edificio.[next]Todo está cubierto de escombros.
+Va a ser imposible pasar por aquí.[next]

@@ -1,0 +1,8 @@
+[0x8010][0x005A]Attacca i nemici per riempire il
+tuo [red]Indicatore di magie[white]![next]
+
+[0x8010][0x005A]Se subisci dei danni, il tuo 
+[red]Indicatore di magie[white] diminuirà![next]
+
+[0x8010][0x005A]Avvicinati ai nemici e sterminali con dei
+letali [red]Attacchi torturanti[white]![next]

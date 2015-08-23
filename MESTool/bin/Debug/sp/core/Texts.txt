@@ -1,0 +1,34 @@
+¿Entrar en el Alfheim?[next]
+
+¿Entrar en las
+Puertas del Infierno?[next]
+
+¿Entrar en el Alfheim?[next]
+
+¿Crear datos
+guardados nuevos?[next]
+
+¿Sobrescribir los 
+datos guardados?[next]
+
+¿Borrar los datos
+guardados?[next]
+
+¿Cargar datos
+guardados?[next]
+
+No podrás continuar desde el punto
+de control guardado.
+¿Continuar de todos modos?[next]
+
+¿Guardar datos?[next]
+
+¿Continuar sin guardar?[next]
+
+Imposible cargar los
+datos guardados dañados.[next]
+
+
+
+Pulsa cualquier botón
+para volver.[next]

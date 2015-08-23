@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<TextureMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="gdkchan/MESTool">
+  <Section1>
+    <ElementCount>8</ElementCount>
+    <Data>
+      <base64Binary>AAAAAD7MAAA8gAAAPvQAAD8gAAA=</base64Binary>
+      <base64Binary>AAEAAD8mAAA/AAAAPzYAAD9QAAA=</base64Binary>
+      <base64Binary>AAIAAD5gAAA8gAAAPsQAAD8EAAA=</base64Binary>
+      <base64Binary>AAMAADwAAAA8gAAAPlAAAD8EAAA=</base64Binary>
+      <base64Binary>AAQAAD78AAA8gAAAPyIAAD7wAAA=</base64Binary>
+      <base64Binary>AAUAAD8mAAA8gAAAP0oAAD7wAAA=</base64Binary>
+      <base64Binary>AAYAAD9OAAA8gAAAP3IAAD7wAAA=</base64Binary>
+      <base64Binary>AAcAAD78AAA/AAAAPyIAAD90AAA=</base64Binary>
+    </Data>
+  </Section1>
+  <Section2>
+    <ElementCount>8</ElementCount>
+    <Data>
+      <base64Binary>AAAAAEEgAABCHAAAAQAAAA==</base64Binary>
+      <base64Binary>AAEAAEEAAABBoAAAAQAAAA==</base64Binary>
+      <base64Binary>AAIAAEGoAABCAAAAAQAAAA==</base64Binary>
+      <base64Binary>AAMAAEHIAABCAAAAAQAAAA==</base64Binary>
+      <base64Binary>AAQAAEGQAABB6AAAAQAAAA==</base64Binary>
+      <base64Binary>AAUAAEGQAABB6AAAAQAAAA==</base64Binary>
+      <base64Binary>AAYAAEGQAABB6AAAAQAAAA==</base64Binary>
+      <base64Binary>AAcAAEGQAABB6AAAAQAAAA==</base64Binary>
+    </Data>
+  </Section2>
+</TextureMap>

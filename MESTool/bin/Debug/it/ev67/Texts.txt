@@ -1,0 +1,3 @@
+[id=4][time=00:00.5630/00:03.2500]Dio mio... questo è...[next]
+[id=4][time=00:03.4060/00:06.5630]Non temere nulla, bambina mia.[next]
+[id=4][time=00:07.0310/00:11.1880]Io continuerò a vegliare su te... [next]

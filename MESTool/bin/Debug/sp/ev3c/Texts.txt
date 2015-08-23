@@ -1,0 +1,5 @@
+[0x8F00][0x0000][0x8F01][0x0028]JEl recuerdo de los clanes sigue muy vivo,
+aunque hayan pasado 500 años.[next]
+[0x8F00][0x0000][0x8F01][0x01C6][0x02F3]¿Qué estaba buscando mi padre?
+¿Por qué tuvo que morir por ello?[next]
+[0x8F00][0x0000][0x8F01][0x031A][0x03E2]Tengo que descubrir la verdad yo mismo.[next]

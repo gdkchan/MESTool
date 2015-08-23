@@ -1,0 +1,20 @@
+[id=1][time=00:00.5470/00:02.4380]C'est génial, maman ![next]
+[id=17][time=00:02.5000/00:05.2500]Bienvenue sur la Isla del Sol,[next]
+[id=18][time=00:01.9690/00:04.8440]paradis des gens riches et célèbres ![next]
+[id=19][time=00:01.1560/00:02.1560]Jeanne ![next]
+[id=20][time=00:00.3130/00:05.8750]Si tu t'es rendue jusqu'ici, ça devrait aller.
+Je commence à te reconnaître.[next]
+[id=21][time=00:00.0000/00:03.8750]C'est ici que nous devons finir ce qui a été
+commencé il y a si longtemps.[next]
+[id=23][time=00:00.4380/00:06.4380]Les amis de mes ennemis sont mes ennemis.
+Que ce soient des sages ou des sorcières.[next]
+[id=24][time=00:01.2500/00:06.4060]Les sages de Lumen...
+Ils nous faisaient contrepoids.[next]
+[id=26][time=00:00.3750/00:05.3130]Entre nous, il y avait une loi qui
+ne devait jamais être brisée. [next]
+[id=26][time=00:05.7500/00:11.5000]Elle disait que "le contact entre la lumière et
+l'obscurité apporterait la damnation sur Terre".[next]
+[id=27][time=00:00.4380/00:06.3440]Mais il y a 500 ans, la naissance d'un enfant
+a consacré une violation flagrante à cette loi.[next]
+[id=27][time=00:06.9060/00:09.5940]Cet enfant, c'était toi.[next]
+[id=29][time=00:01.3130/00:03.6880]Il y a 500 ans ![next]

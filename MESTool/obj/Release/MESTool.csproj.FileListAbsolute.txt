@@ -1,0 +1,8 @@
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\bin\Release\MESTool.exe.config
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\bin\Release\MESTool.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\bin\Release\MESTool.pdb
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\obj\Release\MESTool.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\obj\Release\MESTool.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\obj\Release\MESTool.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\MESTool\MESTool\obj\Release\MESTool.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\MESTool\MESTool\obj\Release\MESTool.csprojResolveAssemblyReference.cache

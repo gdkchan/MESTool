@@ -1,0 +1,18 @@
+[id=0][time=00:01.1250/00:01.8130]Non avrai creduto che mi fidassi di una strega![next]
+[id=1][time=00:00.0000/00:01.0310]Non avrai creduto che mi fidassi di una strega![next]
+[id=2][time=00:00.1250/00:03.5000]Con tutto il rispetto, Bayonetta, ma...[next]
+[id=3][time=00:05.3750/00:06.4380]Come sta la piccola?[next]
+[id=4][time=00:00.0310/00:02.3750]Stanca morta, ma per il resto tutto a posto.[next]
+[id=5][time=00:00.2810/00:01.2500]E tu invece?[next]
+[id=5][time=00:01.2660/00:05.3440]Non crederai che mi lasci vedere in giro
+con una ragazza in queste condizioni?[next]
+[id=8][time=00:00.3440/00:02.2810]Ho un aspetto orribile, vero?[next]
+[id=8][time=00:02.9690/00:06.0940]Dovrai imparare a toglierti quello
+stupido sguardo dagli occhi,[next]
+[id=9][time=00:00.1880/00:00.7190]altrimenti non ti permetterò più di
+inseguirmi in giro per il mondo![next]
+[id=10][time=00:00.0000/00:02.2500]altrimenti non ti permetterò più di
+inseguirmi in giro per il mondo![next]
+[id=11][time=00:00.0000/00:00.9380]Ricevuto,[next]
+[id=11][time=00:02.2810/00:03.2190]Luka?![next]
+[id=12][time=00:01.6880/00:03.0310]Ecco la Bayonetta di sempre![next]

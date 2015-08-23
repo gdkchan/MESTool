@@ -1,0 +1,49 @@
+Continue from your last saved checkpoint?[next]
+
+Begin tutorial?[next]
+
+Start a new game?[next]
+
+You will not be able to continue
+from your saved checkpoint.
+Proceed anyway?[next]
+
+Begin game.[next]
+
+Change game settings. [next]
+
+Connect to PlayStation[0x805E]Network
+and veiw Leaderboard data.[next]
+
+View the number of gathered 
+Umbran Tears of Blood, as well as 
+special extras for completing the game. [next]
+
+Start a new game. [next]
+
+Load save data and continue a previous game. [next]
+
+Begin game from last saved checkpoint. [next]
+
+View game concept materials and listen to
+in-game music. [next]
+
+View the number of gathered
+Umbran Tears of Blood. [next]
+
+Learn the basic controls of Bayonetta. [next]
+
+Play a portion of the Prologue. [next]
+
+Play a portion of Chapter One. [next]
+
+[red]Leaderboards are not available in the demo version.[white][next]
+
+Exit demo and return to the Xbox Dashboard?[next]
+
+Are you sure you want to exit?[next]
+
+[red]The selection is not available in the demo version.[white][next]
+
+This title uses an auto-save feature.
+Please do not turn off your PlayStation[0x805E]3 system while auto-saving.[next]

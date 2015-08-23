@@ -1,0 +1,49 @@
+Vuoi continuare dall'ultimo checkpoint?[next]
+
+Vuoi iniziare il tutorial?[next]
+
+Vuoi iniziare una nuova partita?[next]
+
+Impossibile continuare dall'ultimo
+checkpoint. Procedere comunque?[next]
+
+Inizia a giocare.[next]
+
+Cambia le impostazioni di gioco.[next]
+
+Connettiti a PlayStation[0x805E]Network
+e visualizza le classifiche.[next]
+
+Guarda il numero di Lacrime di sangue di Umbra
+ottenute e gli extra ottenuti al completamento
+del gioco.[next]
+
+Inizia una nuova partita.[next]
+
+Carica i dati di salvataggio e continua
+una partita precedentemente salvata.[next]
+
+Inizia a giocare dall'ultimo checkpoint.[next]
+
+Guarda bozze e schizzi e ascolta le
+musiche del gioco.[next]
+
+Guarda il numero di Lacrime di sangue di Umbra
+ottenute.[next]
+
+Impara i comandi di base di Bayonetta.[next]
+
+Gioca parte del Prologo.[next]
+
+Gioca parte del primo capitolo.[next]
+
+[red]Nella versione di prova le Classifiche non sono disponibili.[white][next]
+
+Desideri abbandonare la demo e tornare a Xbox Dashboard?[next]
+
+Sicuro di voler abbandonare?[next]
+
+[red]Questa azione non è consentita nella demo.[white][next]
+
+Questo gioco utilizza la funzione di Autosalvataggio.
+Non spegnere il sistema PlayStation[0x805E]3 durante l'Autosalvataggio.[next]

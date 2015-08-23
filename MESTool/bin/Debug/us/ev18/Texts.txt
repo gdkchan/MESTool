@@ -1,0 +1,31 @@
+[id=4][time=00:01.2500/00:04.7500][0x8F02]Are you the one to have awakened 
+me from my heavenly slumber,[next]
+[id=4][time=00:04.8130/00:10.5630][0x8F02]my world of light, and summoned
+me into this world of chaos?[next]
+[id=5][time=00:00.0310/00:03.6560][0x8F02]The taint of the dark world is upon you.[next]
+[id=6][time=00:00.0000/00:06.0000][0x8F02]Yet you have made but a pact with the darkness
+in exchange for the powers of a witch.[next]
+[id=7][time=00:00.0000/00:02.3440][0x8F02]It was said that one such pitiful creature
+survived the annihilation.[next]
+[id=7][time=00:02.4060/00:04.3130][0x8F02]Tell me, my child. What is your name?[next]
+[id=8][time=00:01.5630/00:05.0310]If I was your child, I'd be an awfully
+ugly witch, wouldn't I?[next]
+[id=9][time=00:00.0000/00:01.1880]If I was your child, I'd be an awfully
+ugly witch, wouldn't I?[next]
+[id=9][time=00:01.7500/00:05.7500]Yours is a face only a mother could love,
+and one I could never forget.[next]
+[id=10][time=00:00.7500/00:02.8130]If only I could remember where from"[next]
+[id=11][time=00:01.7810/00:05.5940][0x8F02]Well then. My apologies.[next]
+[id=12][time=00:00.0000/00:01.2190][0x8F02]Well then. My apologies.[next]
+[id=12][time=00:01.5000/00:03.6880][0x8F02]If you are not my awakener, 
+than you and I have no quarrel. [next]
+[id=13][time=00:00.0000/00:00.2340][0x8F02]If you are not my awakener, 
+than you and I have no quarrel. [next]
+[id=17][time=00:00.0000/00:01.4060]No quarrel?[next]
+[id=18][time=00:00.3440/00:02.8130]You're in no position to decide that.[next]
+[id=18][time=00:03.3750/00:04.7500]See, my infernal partners love my ability to
+eliminate your kind.[next]
+[id=19][time=00:00.0000/00:04.9380]See, my infernal partners love my ability to
+eliminate your kind.[next]
+[id=20][time=00:00.0000/00:03.2810]I figure your sacrifice would shut them up
+for a while.[next]

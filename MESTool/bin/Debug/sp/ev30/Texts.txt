@@ -1,0 +1,4 @@
+[0x8F00][0x0000][0x8F01][0x01EE][0x0272]A ver quién se cruza ese puente con los taconazos.[next]
+[0x8F00][0x0000][0x8F01][0x028E][0x0348]Si hubiera un taxi o algo así...[next]
+[0x8F00][0x0001][0x8F01][0x0004][0x0118]¡Atención todo el mundo!
+Viene un vehículo no identificado. ¡Cerrad la puerta![next]

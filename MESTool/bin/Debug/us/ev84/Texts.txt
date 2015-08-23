@@ -1,0 +1,18 @@
+[id=0][time=00:01.1250/00:01.8130]You didn't expect me to trust bitches...[next]
+[id=1][time=00:00.0000/00:01.0310]You didn't expect me to trust bitches...[next]
+[id=2][time=00:00.1250/00:03.5000]I mean witches, did you, Bayonetta!? [next]
+[id=3][time=00:05.3750/00:06.4380]How's the little one?[next]
+[id=4][time=00:00.0310/00:02.3750]Out like a light, but OK other than that.[next]
+[id=5][time=00:00.2810/00:01.2500]What about you?[next]
+[id=5][time=00:01.2660/00:05.3440]You really think I'm gonna let myself be seen
+in public with a girl looking all beat up like that?[next]
+[id=8][time=00:00.3440/00:02.2810]I look dreadful, do I?[next]
+[id=8][time=00:02.9690/00:06.0940]You'll have to learn to wipe
+that stupid look off your face[next]
+[id=9][time=00:00.1880/00:00.7190]or I'll never let you keep chasing
+me around this world.[next]
+[id=10][time=00:00.0000/00:02.2500]or I'll never let you keep chasing
+me around this world.[next]
+[id=11][time=00:00.0000/00:00.9380]Got that?[next]
+[id=11][time=00:02.2810/00:03.2190]Luka.[next]
+[id=12][time=00:01.6880/00:03.0310]Now that's more like it. [next]

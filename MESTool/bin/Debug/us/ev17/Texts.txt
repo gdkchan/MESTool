@@ -1,0 +1,6 @@
+[id=4][time=00:00.5000/00:01.8750]Who's there?[next]
+[id=17][time=00:00.0160/00:04.0940]You've played enough hide and seek, 
+my scurrying little friend.[next]
+[id=19][time=00:00.9530/00:03.1560]Just a child?[next]
+[id=20][time=00:00.4840/00:03.1880]What are you doing running around Vigrid?[next]
+[id=20][time=00:03.2500/00:06.3440]You're certainly not dressed in your Sunday best.[next]

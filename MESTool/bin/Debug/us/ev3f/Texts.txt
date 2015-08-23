@@ -1,0 +1,19 @@
+[id=1][time=00:02.5940/00:04.8440]You're really not going to like what comes next.[next]
+[id=2][time=00:00.0000/00:01.5000]I hope you know that. [next]
+[id=2][time=00:02.3130/00:08.0630]Don't tell me. Air Cheshire has awful in-flight
+entertainment and horrendous food? [next]
+[id=3][time=00:00.7810/00:01.8750]Think about it.[next]
+[id=3][time=00:03.7190/00:03.9690]Those things that downed the jet aren't
+just going to let us land on their island.[next]
+[id=4][time=00:00.0000/00:03.2500]Those things that downed the jet aren't
+just going to let us land on their island.[next]
+[id=4][time=00:03.7190/00:07.2190]You think we can just say "Hey, we're here!"
+and they'll bring us a cake?[next]
+[id=5][time=00:00.4060/00:03.0310]Things look good up from up here.[next]
+[id=6][time=00:00.0000/00:01.8130]But the further down you go[next]
+[id=7][time=00:00.0000/00:00.2810]But the further down you go[next]
+[id=7][time=00:00.9380/00:04.2340]the harder it is to not notice[next]
+[id=7][time=00:04.2500/00:06.1250]the reality... of things. [next]
+[id=8][time=00:00.1250/00:02.2190]Cheshire. Look.[next]
+[id=8][time=00:03.9690/00:07.2190]Oh... I'm lookin'. [next]
+[id=15][time=00:00.9380/00:02.2810]Oh, fuck me! [next]

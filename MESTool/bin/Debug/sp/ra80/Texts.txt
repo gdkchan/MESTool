@@ -1,0 +1,267 @@
+SPANISH[next]
+
+Bayonetta[next]
+
+Vieja[next]
+
+Hábito de monja[next]
+
+Niña[next]
+
+Demonios Infernales[next]
+
+Serio[next]
+
+Kulshedra[next]
+
+Odette[next]
+
+Durga (Fuego)[next]
+
+Durga (Rayo)[next]
+
+Kilgore[next]
+
+Sai Fung[next]
+
+Komachi de Umbra A[next]
+
+Komachi de Umbra B[next]
+
+Komachi de Umbra C[next]
+
+Uniforme E.F. A[next]
+
+Uniforme E.F. B[next]
+
+Uniforme E.F. C[next]
+
+d'Arc[next]
+
+Umbra[next]
+
+Varios A[next]
+
+Varios B[next]
+
+Varios C[next]
+
+Reina[next]
+
+Jeanne[next]
+
+Sombrero[next]
+
+Vieja[next]
+
+Monja[next]
+
+Niña[next]
+
+Demonio Infernal[next]
+
+Bella J[next]
+
+Uniforme[next]
+
+Komachi de Umbra A[next]
+
+Komachi de Umbra B[next]
+
+Komachi de Umbra C[next]
+
+Uniforme E.F. A[next]
+
+Uniforme E.F. B[next]
+
+Uniforme E.F. C[next]
+
+Umbra[next]
+
+Varios A[next]
+
+Varios B[next]
+
+Varios C[next]
+
+Reina[next]
+
+Luka[next]
+
+Cereza[next]
+
+Balder[next]
+
+Rodin[next]
+
+Enzo[next]
+
+Bruja de Umbra[next]
+
+Hombre de Vigrid A[next]
+
+Belleza Vigridiana en la calle[next]
+
+Mujer de Vigrid A[next]
+
+Mujer de Vigrid B[next]
+
+Hombre de la burguesía de Vigrid[next]
+
+Mujer de la burguesía de Vigrid[next]
+
+Hombre de clase alta de Vigrid[next]
+
+Mujer de clase alta de Vigrid[next]
+
+Agente de seguridad de Vigrid A[next]
+
+Agente de seguridad de Vigrid B[next]
+
+Seguridad de Ithavoll[next]
+
+Forma de pantera[next]
+
+Forma de cuervo[next]
+
+Forma de vampiro[next]
+
+Forma de lince[next]
+
+Forma de búho[next]
+
+Forma de polilla[next]
+
+Affinity A[next]
+
+Affinity B[next]
+
+Affinity C[next]
+
+Affinity D[next]
+
+Ardor B[next]
+
+Applaud A[next]
+
+Applaud B[next]
+
+Ardor A[next]
+
+Enchant[next]
+
+Decorations[next]
+
+Dear[next]
+
+Grace y Glory[next]
+
+Gracious y Glorious[next]
+
+Fearless[next]
+
+Fairness[next]
+
+Beloved A[next]
+
+Beloved B[next]
+
+Beloved D[next]
+
+Beloved C[next]
+
+Braves[next]
+
+Inspired A[next]
+
+Inspired B[next]
+
+Harmony [next]
+
+Joy[next]
+
+Golem[next]
+
+Golem - Dragón[next]
+
+Golem - Cuervo[next]
+
+Golem - Ciempiés[next]
+
+Golem - Araña[next]
+
+Kinship[next]
+
+Irenic[next]
+
+Glory[next]
+
+Grace[next]
+
+Gracious[next]
+
+Glorious[next]
+
+Golem - Brazo[next]
+
+Affinity E[next]
+
+Fortitudo[next]
+
+Temperantia[next]
+
+Iustitia[next]
+
+Sapienta[next]
+
+Padre Balder[next]
+
+Courage[next]
+
+Temperance[next]
+
+Justice[next]
+
+Prudence[next]
+
+Jubileus[next]
+
+Padre Rodin[next]
+
+Madama Butterfly Manos[next]
+
+Madama Butterfly Piernas[next]
+
+Gomorrah (Bayonetta)[next]
+
+Hekatoncheir (Bayonetta)[next]
+
+Phantasmaraneae (Bayonetta)[next]
+
+Malphas (Bayonetta)[next]
+
+Scolopendra (Bayonetta)[next]
+
+Madama Styx Manos[next]
+
+Madama Styx Piernas[next]
+
+Gomorrah (Jeanne)[next]
+
+Hekatoncheir (Jeanne)[next]
+
+Phantasmaraneae (Jeanne)[next]
+
+Malphas (Jeanne)[next]
+
+Scolopendra (Jeanne)[next]
+
+Queen Sheba[next]
+
+Diablillos (Bayonetta)[next]
+
+Diablillos (Jeanne)[next]
+
+Rey de los Diablillos ZERO[next]
+
+¿Salir de la visualización de modelos?[next]

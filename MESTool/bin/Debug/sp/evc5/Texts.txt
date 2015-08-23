@@ -1,0 +1,7 @@
+[0x8F00][0x0001][0x8F01][0x001E]:El desastre que originó todo aquello
+sumió a los clanes en una espiral de caos[next]
+[0x8F00][0x0002][0x8F01][0x002A][0x00F0]que aún hoy puede sentirse;[next]
+[0x8F00][0x0004][0x8F01][0x001E]Jy tú, mitad luz, mitad oscuridad,
+eres el centro de ese caos.[next]
+[0x8F00][0x0004][0x8F01]b[0x0306]Tu mera existencia entraña un peligro
+que no podemos permitir.[next]

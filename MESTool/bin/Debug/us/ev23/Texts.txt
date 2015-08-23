@@ -1,0 +1,17 @@
+[id=0][time=00:04.3910/00:06.7190]Welcome to Vigrid, our final stop.[next]
+[id=1][time=00:00.6410/00:03.1250]Entry Visas are required of all travelers.[next]
+[id=2][time=00:00.0160/00:04.3750]Please submit your Vigrid issued Entry Visa
+for inspection upon disembarking.[next]
+[id=2][time=00:04.4380/00:08.7500]Please make sure you take
+all your valuable belongings with you.[next]
+[id=2][time=00:09.2340/00:10.9380]Repeating this message...[next]
+[id=5][time=00:00.0000/00:06.7190][0x811E][next]
+[id=8][time=00:00.0160/00:03.4380]You have arrived at last, my dear.[next]
+[id=8][time=00:04.5470/00:06.7190]The time has come to awaken[next]
+[id=9][time=00:00.0160/00:03.2810]The Eyes of the World.[next]
+[id=10][time=00:00.0160/00:02.6560]Fear not, my dear child.[next]
+[id=10][time=00:03.2970/00:05.3130]Such a beautiful young lady you've become.[next]
+[id=11][time=00:00.0160/00:00.9380]Such a beautiful young lady you've become.[next]
+[id=11][time=00:01.4220/00:05.6250]I'll always see to it no harm comes to you.[next]
+[id=14][time=00:05.6880/00:07.0940]So...[next]
+[id=14][time=00:07.5160/00:10.3130]This is supposed to be paradise?[next]

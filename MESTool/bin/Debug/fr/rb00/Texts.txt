@@ -1,0 +1,19 @@
+
+
+[0x8010][0x005A]Élimine tous les ennemis ![next]
+
+[0x8010][0x005A]Fais des attaques sadiques ![next]
+
+[0x8010][0x005A]Coups de poing et pied limités ![next]
+
+[0x8010][0x005A]Utilise l'Arsenal angélique ![next]
+
+[0x8010][0x005A][0x01AE] court de coups ![next]
+
+[0x8010][0x005A]Fais des Incantations ![next]
+
+[0x8010][0x005A]Fais un Envoûtement ![next]
+
+[0x8010][0x005A]Envoûtement ![next]
+
+[0x8010][0x005A]Reste en l'air ![next]

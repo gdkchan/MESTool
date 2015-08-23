@@ -1,0 +1,20 @@
+[id=1][time=00:00.5470/00:02.4380]Che bello, mamma![next]
+[id=17][time=00:02.5000/00:05.2500]Benvenuta sulla Isla del Sol,[next]
+[id=18][time=00:01.9690/00:04.8440]isola di potere e ricchezze infiniti![next]
+[id=19][time=00:01.1560/00:02.1560]Jeanne! [next]
+[id=20][time=00:00.3130/00:05.8750]Se sei arrivata fin qui, vuol dire che sei pronta.
+Sei tornata a essere te stessa.[next]
+[id=21][time=00:00.0000/00:03.8750]Oggi finiremo il discorsetto che
+abbiamo iniziato tanto tempo fa.[next]
+[id=23][time=00:00.4380/00:06.4380]L'amico del mio nemico è mio nemico,
+che sia una strega o di un saggio.[next]
+[id=24][time=00:01.2500/00:06.4060]I Saggi di Lumen... 
+erano la nostra controparte come guardiani.[next]
+[id=26][time=00:00.3750/00:05.3130]Tra di noi vigeva una legge che non
+avrebbe mai dovuto essere infranta[next]
+[id=26][time=00:05.7500/00:11.5000]altrimenti "l'incrocio di luce e oscurità avrebbe
+causato incredibili calamità per la Terra".[next]
+[id=27][time=00:00.4380/00:06.3440]Ma 500 anni fa, in violazione di questo
+principio, nacque una bambina.[next]
+[id=27][time=00:06.9060/00:09.5940]Quella bambina eri tu.[next]
+[id=29][time=00:01.3130/00:03.6880]500 anni fa![next]

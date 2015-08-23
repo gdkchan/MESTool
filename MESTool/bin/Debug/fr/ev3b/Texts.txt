@@ -1,0 +1,24 @@
+[id=3][time=00:00.2190/00:03.5310][0x8F02]Pourquoi est-ce que tu t'obstines à perdre ton temps ?[next]
+[id=3][time=00:04.0630/00:08.4380][0x8F02]As-tu oublié la tâche qui t'a été confiée ?[next]
+[id=3][time=00:08.9060/00:11.4690][0x8F02]Dépêche-toi, car l'ère du Créateur approche ![next]
+[id=4][time=00:00.0000/00:01.4060][0x8F02]Dépêche-toi, car l'ère du Créateur approche ![next]
+[id=4][time=00:01.9690/00:03.7500]Je sais très bien ce que j'ai à faire ![next]
+[id=4][time=00:03.9060/00:07.1880]Mais tu as oublié que je n'ai pas
+besoin de ton aide ![next]
+[id=11][time=00:01.7500/00:02.5000]On dirait que ta petite camarade
+est partie pour de bon.[next]
+[id=12][time=00:00.0000/00:01.4060]On dirait que ta petite camarade
+est partie pour de bon.[next]
+[id=13][time=00:00.0000/00:01.5310]On dirait que ta petite camarade
+est partie pour de bon.[next]
+[id=27][time=00:00.1880/00:03.5310]Allez ! Laisse tes yeux se remplir de haine.[next]
+[id=27][time=00:03.7190/00:04.2190]Accepte la brutalité de ton destin, 
+accepte-la et gagne l'Oeil gauche ![next]
+[id=28][time=00:00.0000/00:04.5940]Accepte la brutalité de ton destin, 
+accepte-la et gagne l'Oeil gauche ![next]
+[id=28][time=00:05.0940/00:05.5310]Prouve que tu le mérites ![next]
+[id=29][time=00:00.0000/00:01.2810]Prouve que tu le mérites ![next]
+[id=30][time=00:00.1250/00:05.5630]N'aie crainte, mon enfant.
+Il ne t'arrivera rien.[next]
+[id=30][time=00:05.8130/00:12.3440]Je serai toujours là pour veiller sur toi...
+Ma tendre enfant.[next]

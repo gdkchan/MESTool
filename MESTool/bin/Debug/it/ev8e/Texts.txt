@@ -1,0 +1,32 @@
+[id=4][time=00:01.8440/00:03.0940]Lo sapevo.[next]
+[id=4][time=00:03.1560/00:05.8440]Questa città pullula di piccoli aiutanti celesti.[next]
+[id=4][time=00:06.1560/00:09.0940]I miei amici al piano di sotto si stanno innervosendo...[next]
+[id=5][time=00:01.3130/00:02.7190]Che vuoi dire?[next]
+[id=6][time=00:01.0310/00:04.7810]Ci sono posti nel mondo che sono
+più vicini al Paradiso o all'Inferno.[next]
+[id=7][time=00:00.9060/00:04.4060]Questo schifo di città dove
+viviamo è vicina ad entrambi,[next]
+[id=7][time=00:04.8750/00:07.7500]ma i Vigridiani hanno quell'aria strana...[next]
+[id=8][time=00:00.7500/00:03.1250]sono troppo vicini al Paradiso per i miei gusti...[next]
+[id=8][time=00:04.0780/00:06.7500]E questo mi spaventa.[next]
+[id=9][time=00:02.8750/00:06.3130]Eh eh... immagino che dovrò metter su un
+negozietto qui e farmi un po' di aureole.[next]
+[id=9][time=00:06.8130/00:09.3130]Queste cose valgono un sacco dalle mie parti.[next]
+[id=10][time=00:01.5940/00:03.8440]Visto che non vedi l'ora di combattere,[next]
+[id=10][time=00:04.3130/00:08.3440]se ne trovi qualcuna portamela
+e ti ricompenserò.[next]
+[id=11][time=00:02.1560/00:04.6560]Un altro che pensa a riempirsi le tasche...[next]
+[id=11][time=00:06.2190/00:08.9380]Ecco perché stai così
+simpatico a Enzo.[next]
+[id=12][time=00:00.7190/00:03.6560]Già. Senti, mettiamo in chiaro una cosa:[next]
+[id=12][time=00:04.2500/00:06.2190]i tuoi combattimenti sono solo tuoi.[next]
+[id=12][time=00:06.2810/00:09.1880]Io sono solo qua per vedere in azione le mie creazioni.[next]
+[id=12][time=00:09.6560/00:12.7810]Non farti venire strane idee, tipo
+venire da me in cerca di aiuto.[next]
+[id=13][time=00:01.0940/00:03.8750]No, senti tu:[next]
+[id=13][time=00:04.7500/00:09.1560]non me ne potrebbe fregare di meno
+che hai costruito tu queste armi.[next]
+[id=14][time=00:01.0940/00:04.9690]Se mi intralci in qualche modo, ti infilo
+una pallottola dove non batte il sole.[next]
+[id=14][time=00:05.9060/00:09.7810]Chiaro?[next]
+[id=15][time=00:01.0940/00:03.4380]Chiaro! Così mi piaci![next]

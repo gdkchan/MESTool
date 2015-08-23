@@ -1,0 +1,7 @@
+[id=9][time=00:00.0000/00:02.0310]Devo ammetterlo, Bayonetta...[next]
+[id=10][time=00:00.1250/00:02.1250]non smetti mai di stupirmi.[next]
+[id=12][time=00:00.0000/00:02.0630]E non hai visto ancora niente![next]
+[id=13][time=00:01.2500/00:02.7500]Ah! Mi basta quello che ho visto...[next]
+[id=15][time=00:02.9690/00:03.2810]... e con questo abbiamo finito, eh?[next]
+[id=16][time=00:00.0000/00:01.8750]... e con questo abbiamo finito, eh?[next]
+[id=18][time=00:01.3440/00:02.6560]Non ancora...[next]

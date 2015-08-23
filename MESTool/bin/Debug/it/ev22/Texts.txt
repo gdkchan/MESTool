@@ -1,0 +1,62 @@
+[id=0][time=00:09.2190/00:11.6560]Questi bastardi sì che sanno come attirare l'attenzione.[next]
+[id=0][time=00:12.0000/00:13.2810]Ne parla anche la gente giù a casa.[next]
+[id=1][time=00:00.0000/00:01.7190]Ne parla anche la gente giù a casa.[next]
+[id=2][time=00:00.8750/00:01.9690]Se lo dici tu.[next]
+[id=3][time=00:00.7500/00:03.5310]Sta diventando sempre più difficile distinguere i mondi.[next]
+[id=5][time=00:02.7190/00:03.7190]Mondo Umano,[next]
+[id=6][time=00:02.6560/00:02.9060]Inferno,[next]
+[id=7][time=00:00.0000/00:00.7810]Inferno,[next]
+[id=8][time=00:01.4380/00:02.0310]Paradiso...[next]
+[id=9][time=00:00.0000/00:02.5310]Come si fa?[next]
+[id=10][time=00:00.6560/00:04.4060][0x01AF] ancora più difficile nel mezzo,
+col Purgatorio.[next]
+[id=11][time=00:00.0000/00:02.1880]Se rimani troppo a lungo a combattere
+perdi la cognizione delle cose. [next]
+[id=12][time=00:00.3750/00:02.2810]Come mai questo interesse nella metafisica?[next]
+[id=12][time=00:02.8440/00:04.0000][0x01AF] una questione di equilibrio, giusto?[next]
+[id=12][time=00:04.6250/00:07.3440]Anche se a qualcuno piace
+stuzzicare gli umani,[next]
+[id=13][time=00:00.0000/00:02.5000]è nell'interesse generale lo status quo.[next]
+[id=13][time=00:03.0940/00:04.0000]Ma se la gente continua a far così,[next]
+[id=14][time=00:00.0000/00:01.2500]Ma se la gente continua a far così,[next]
+[id=14][time=00:01.4380/00:03.0630]il Libro della Rivelazione sembrerà
+un libro di favole.[next]
+[id=15][time=00:00.0000/00:01.5630]il Libro della Rivelazione sembrerà
+un libro di favole.[next]
+[id=15][time=00:02.0000/00:06.3130]L'Inferno e il Paradiso
+stanno esagerando.[next]
+[id=17][time=00:00.1880/00:03.7190]Il Paradiso e l'Inferno possono anche
+farsi a pezzi, per quanto mi riguarda.[next]
+[id=17][time=00:04.0630/00:06.2500]Ho già abbastanza problemi di mio.[next]
+[id=17][time=00:06.8130/00:07.5000]Sta succedendo qualcosa.[next]
+[id=18][time=00:00.0000/00:02.7190]Tutto era troppo in vista[next]
+[id=18][time=00:03.1250/00:05.1560]e il tempismo della soffiata di Enzo è sospetto.[next]
+[id=19][time=00:00.0000/00:02.7810]Puzza di trappola.[next]
+[id=20][time=00:00.3440/00:03.9060]Qualcuno dal tuo passato
+sta cercando di ingannarti.[next]
+[id=21][time=00:04.4690/00:05.2190]Ho un regalino per te.[next]
+[id=22][time=00:00.0000/00:02.2500]Ho un regalino per te.[next]
+[id=23][time=00:00.0000/00:01.6880]Questi gioiellini sono speciali.[next]
+[id=24][time=00:02.8130/00:03.8440]Sono stati costruiti con un metallo
+che farebbe gola perfino al diavolo.[next]
+[id=25][time=00:00.0000/00:02.5000]Sono stati costruiti con un metallo
+che farebbe gola perfino al diavolo.[next]
+[id=26][time=00:00.2190/00:03.1250]Non romperle, ok? Sono uniche al mondo.[next]
+[id=59][time=00:03.3750/00:04.8440]Una trappola?[next]
+[id=60][time=00:00.0000/00:03.2190]Mai un attimo di riposo![next]
+[id=60][time=00:03.7810/00:03.9380]Beh, a dir la verità sono stanca di quelle
+mezze cartucce che mi mandano contro.[next]
+[id=61][time=00:00.0000/00:05.1880]Beh, a dir la verità sono stanca di quelle
+mezze cartucce che mi mandano contro.[next]
+[id=61][time=00:05.7190/00:07.9690]Forse dovrei mirare a qualcosa di più...[next]
+[id=62][time=00:00.0000/00:03.4060]impegnativo.[next]
+[id=64][time=00:00.9690/00:02.8750]Ci stai dando dentro stasera, eh?[next]
+[id=64][time=00:03.9690/00:06.0940]Non per farmi i fatti tuoi,[next]
+[id=65][time=00:00.0000/00:01.9060]ma non hai un posto migliore dove andare?[next]
+[id=65][time=00:02.8750/00:06.4060]I tuoi nemici non sono gente che
+aspetta che tu finisca il tuo drink.[next]
+[id=66][time=00:00.0000/00:00.8750]I tuoi nemici non sono gente che
+aspetta che tu finisca il tuo drink.[next]
+[id=67][time=00:01.5940/00:05.1250]Enzo! I suoi drink sono sul tuo conto, amico. [next]
+[id=67][time=00:08.5310/00:09.6880]Brutto nullafacente di merda![next]
+[id=68][time=00:00.0000/00:00.9690]Brutto nullafacente di merda![next]

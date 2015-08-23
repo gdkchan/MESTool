@@ -1,0 +1,55 @@
+Continuer à partir du dernier checkpoint ?[next]
+
+Commencer le didacticiel ?[next]
+
+Commencer une nouvelle partie ?[next]
+
+Tu ne pourras pas reprendre à
+partir du checkpoint.
+Continuer quand même ?[next]
+
+Commencer la partie.[next]
+
+Changer les paramètres de jeu.[next]
+
+Connectez-vous à PlayStation[0x805E]Network
+pour consulter les Classements.[next]
+
+Voir combien de larmes de sang
+de l'Umbra ont été ramassées et
+les bonus pour avoir terminé le jeu.[next]
+
+Commencer une nouvelle partie.[next]
+
+Charger les données de jeu et
+continuer une partie précédente.[next]
+
+Commencer la partie à partir du
+dernier checkpoint sauvegardé.[next]
+
+Voir les croquis et écouter
+la musique du jeu.[next]
+
+Voir combien de larmes de sang
+de l'Umbra ont été ramassées.[next]
+
+Apprendre les commandes
+de base de Bayonetta[next]
+
+Jouer à une partie du
+Prologue.[next]
+
+Jouer à une partie du
+premier chapitre.[next]
+
+[red]Les classements ne sont pas disponibles dans la version démo.[white][next]
+
+Quitter la démo et retourner à l'Interface Xbox ?[next]
+
+Es-tu sûr de vouloir quitter ?[next]
+
+[red]Cette option n'est pas disponible dans la version démo.[white][next]
+
+Ce jeu dispose d'une sauvegarde automatique.
+Ne pas éteindre le système PlayStation[0x805E]3
+durant la sauvegarde automatique.[next]

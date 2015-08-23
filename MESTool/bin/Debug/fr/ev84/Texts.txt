@@ -1,0 +1,19 @@
+[id=0][time=00:01.1250/00:01.8130]Tu ne croyais quand même pas que
+j'allais faire confiance à une sale...[next]
+[id=1][time=00:00.0000/00:01.0310]Tu ne croyais quand même pas que
+j'allais faire confiance à une sale...[next]
+[id=2][time=00:00.1250/00:03.5000]Enfin, je veux dire une sorcière, hein Bayonetta ?[next]
+[id=3][time=00:05.3750/00:06.4380]Comment va la petite ?[next]
+[id=4][time=00:00.0310/00:02.3750]Elle dort comme un bébé, mais ça ira.[next]
+[id=5][time=00:00.2810/00:01.2500]Et toi... ?[next]
+[id=5][time=00:01.2660/00:05.3440]Je ne veux pas vraiment qu'on me voit en
+public avec une fille qui a l'air si mal en point...[next]
+[id=8][time=00:00.3440/00:02.2810]J'ai une sale gueule, hein ?[next]
+[id=8][time=00:02.9690/00:06.0940]Arrête de faire des yeux de merlan frit,[next]
+[id=9][time=00:00.1880/00:00.7190]sinon je ne te laisserai pas me suivre
+dans ce monde.[next]
+[id=10][time=00:00.0000/00:02.2500]sinon je ne te laisserai pas me suivre
+dans ce monde.[next]
+[id=11][time=00:00.0000/00:00.9380]C'est compris,[next]
+[id=11][time=00:02.2810/00:03.2190]Luka.[next]
+[id=12][time=00:01.6880/00:03.0310][0x01D4]a, j'aime.[next]

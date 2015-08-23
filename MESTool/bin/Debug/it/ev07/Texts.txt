@@ -1,0 +1,28 @@
+[id=1][time=00:00.8440/00:02.9690]Ma guarda un po' chi si vede.[next]
+[id=2][time=00:00.7500/00:03.6250]Sei in giro a cercare risposte
+sul tuo passato per caso?[next]
+[id=3][time=00:01.5630/00:06.1880]La tua faccia non mi è nuova.
+E usiamo gli stessi poteri...[next]
+[id=3][time=00:06.2810/00:07.8750]Mi spiace, non ricordo.[next]
+[id=4][time=00:00.6250/00:02.2810]Ci conosciamo?[next]
+[id=5][time=00:01.8750/00:03.0940]Gli stessi poteri?[next]
+[id=5][time=00:04.8130/00:05.9380]Non farmi ridere.[next]
+[id=5][time=00:07.2500/00:10.0630]Il tuo piccolo tuffo in quel
+lago ti ha arrugginita un po'.[next]
+[id=6][time=00:01.7500/00:04.5630]Son 20 anni che ne sono uscita oramai.[next]
+[id=6][time=00:05.2810/00:09.5310]L'unico motivo per cui sono arrugginita
+è la mancanza di sfide impegnative.[next]
+[id=6][time=00:10.4380/00:12.9690]Forse puoi rimediare tu?[next]
+[id=7][time=00:02.1880/00:03.4690]Mi hai già delusa.[next]
+[id=8][time=00:00.0000/00:01.7500]Mi hai già delusa.[next]
+[id=32][time=00:00.0630/00:03.0310][0x01AF] da tanto che aspetto questo momento.[next]
+[id=32][time=00:03.6880/00:08.8440]Ma tu hai dimenticato il tuo destino e
+sprecato gli ultimi 20 anni della tua vita.[next]
+[id=33][time=00:01.7810/00:02.6250]Hai ragione, ultimamente ho
+problemi a ricordare le cose.[next]
+[id=34][time=00:00.0000/00:03.7500]Hai ragione, ultimamente ho
+problemi a ricordare le cose.[next]
+[id=35][time=00:00.1250/00:03.1250]Saresti così gentile da
+farmi un riassunto?[next]
+[id=36][time=00:00.8440/00:04.7500]Due guardiani... "Gli Occhi del Mondo".[next]
+[id=36][time=00:05.0630/00:07.7500]Sono il potere dietro ad ogni cosa.[next]

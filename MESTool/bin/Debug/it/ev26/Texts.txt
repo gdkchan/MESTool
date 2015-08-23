@@ -1,0 +1,3 @@
+[id=0][time=00:03.0940/00:05.0940]Non c'è tempo per sognare a occhi aperti.[next]
+[id=50][time=00:03.3440/00:06.0630]Quei cretini hanno rovinato tutto di nuovo![next]
+[id=51][time=00:00.4060/00:03.5940]Ma forse potrebbe tornarmi utile.[next]

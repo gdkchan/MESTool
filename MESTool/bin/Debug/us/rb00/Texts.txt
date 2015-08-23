@@ -1,0 +1,19 @@
+1234567890123456789012345678901234567890123456[next]
+
+[0x8010][0x005A]Defeat All Enemies![next]
+
+[0x8010][0x005A]Use Torture Attacks![next]
+
+[0x8010][0x005A]Limited Kicks And Punches![next]
+
+[0x8010][0x005A]Use Angel Arms![next]
+
+[0x8010][0x005A]Out Of Body Battle![next]
+
+[0x8010][0x005A]Use Wicked Weaves![next]
+
+[0x8010][0x005A]Use Witch Time![next]
+
+[0x8010][0x005A]Witch Time Disabled![next]
+
+[0x8010][0x005A]Stay In The Air![next]

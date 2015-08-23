@@ -1,0 +1,59 @@
+[id=1][time=00:00.7500/00:02.9060]Quelle journée ! Je suis foutu ![next]
+[id=2][time=00:01.9690/00:02.5310]Je vais devoir débourser jusqu'au dernier sou
+que je viens de gagner pour réparer les dégâts...[next]
+[id=3][time=00:00.0000/00:03.5310]Je vais devoir débourser jusqu'au dernier sou
+que je viens de gagner pour réparer les dégâts...[next]
+[id=3][time=00:04.1250/00:04.7810]Je te le dis, si je trouve les sales cons qui
+ont fait ça à ma bagnole, ça va barder, bordel !!![next]
+[id=4][time=00:00.0000/00:05.2190]Je te le dis, si je trouve les sales cons qui
+ont fait ça à ma bagnole, ça va barder, bordel !!![next]
+[id=4][time=00:05.4060/00:06.6560]Euh, Enzo... regarde où tu vas, s'il te plaît ![next]
+[id=5][time=00:00.0000/00:02.4060]Fais un peu attention.[next]
+[id=5][time=00:03.3440/00:07.2190]Comment tu peux garder ton calme !?[next]
+[id=5][time=00:07.8440/00:10.4380]De tous les truands que je connais en ville,[next]
+[id=5][time=00:10.6560/00:10.8750]j'ai jamais vu quelqu'un devoir se battre comme
+ça contre des messagers de Dieu.[next]
+[id=6][time=00:00.0000/00:03.7500]j'ai jamais vu quelqu'un devoir se battre comme
+ça contre des messagers de Dieu.[next]
+[id=9][time=00:01.4380/00:02.9690]Et en tenue de bonne soeur, en plus...[next]
+[id=10][time=00:00.5000/00:04.1880]Le jour où tu vas passer dans l'au-delà,
+ça risque d'être sanglant ![next]
+[id=11][time=00:00.0940/00:03.1250]J'y peux rien si j'aime cette tenue.[next]
+[id=11][time=00:03.5310/00:05.6880]J'aime bien faire mumuse avec ces petits jouets, aussi.[next]
+[id=11][time=00:07.2810/00:07.7190]Dire qu'il y a 20 ans, tu t'es réveillée
+dans un cercueil au fond d'un lac[next]
+[id=12][time=00:00.0000/00:03.5940]Dire qu'il y a 20 ans, tu t'es réveillée
+dans un cercueil au fond d'un lac[next]
+[id=12][time=00:04.1880/00:05.2500]et que tout ce dont tu te souvenais,
+c'est que tu étais une sorcière.[next]
+[id=13][time=00:00.0000/00:01.5940]et que tout ce dont tu te souvenais,
+c'est que tu étais une sorcière.[next]
+[id=13][time=00:01.9380/00:03.3440][0x01AE] présent, tu dois liquider nos amis
+les anges quotidiennement[next]
+[id=14][time=00:00.0000/00:03.7810][0x01AE] présent, tu dois liquider nos amis
+les anges quotidiennement[next]
+[id=14][time=00:03.7810/00:06.0630]pour les empêcher de te renvoyer droit en enfer...[next]
+[id=14][time=00:06.4380/00:08.7500]Moi qui croyais avoir touché le fond.[next]
+[id=15][time=00:00.0000/00:02.3130]Au moins, je n'ai pas à buter de créatures
+ célestes pour rester en vie ![next]
+[id=15][time=00:02.6880/00:04.1560]Finalement, t'es encore plus foutue que moi ![next]
+[id=16][time=00:00.0000/00:00.1560]Finalement, t'es encore plus foutue que moi ![next]
+[id=16][time=00:00.8750/00:04.2810]Si j'avais besoin qu'on me fasse ma biographie,
+je viendrais pas te consulter.[next]
+[id=16][time=00:05.0310/00:05.8750]Je te prépare des petites funérailles,
+et tu me donnes les infos que je t'ai demandées.[next]
+[id=17][time=00:00.0000/00:03.1880]Je te prépare des petites funérailles,
+et tu me donnes les infos que je t'ai demandées.[next]
+[id=17][time=00:03.5000/00:04.7500]C'était notre marché.[next]
+[id=17][time=00:06.2500/00:07.1880]Allez, quoi ![next]
+[id=18][time=00:00.0000/00:00.3750]Allez, quoi ![next]
+[id=18][time=00:00.6560/00:04.8750]Vise un peu l'état de ma caisse ! Mes prochaines
+payes vont passer en frais de voiture... [next]
+[id=18][time=00:05.1250/00:08.9060]Paie-moi au moins un verre chez Rodin
+avant de me faire ton interrogatoire.[next]
+[id=19][time=00:00.4060/00:02.6880]Les infos que j'ai pour toi sont bonnes...[next]
+[id=20][time=00:00.4690/00:03.8750]Elles devraient te permettre d'avoir
+une piste sur la deuxième pierre,[next]
+[id=20][time=00:04.1250/00:05.5310]et de comprendre quelques trucs sur ton passé perdu.[next]
+[id=21][time=00:00.0000/00:01.5310]et de comprendre quelques trucs sur ton passé perdu.[next]
+[id=21][time=00:01.5940/00:02.5310]Je te le jure.[next]

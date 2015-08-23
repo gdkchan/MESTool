@@ -1,0 +1,58 @@
+[0x8F00][0x0001][0x8F01][0x0030][0x00BA]¡Vaya día! ¡Estoy hecho polvo![next]
+[0x8F00][0x0002][0x8F01][0x007E][0x00A2]Voy a tener que gastarme la pasta que me
+he llevado por este trabajito en arreglarlo... [next]
+[0x8F00][0x0003][0x8F01][0x0000][0x00E2]Voy a tener que gastarme la pasta que me
+he llevado por este trabajito en arreglarlo... [next]
+[0x8F00][0x0003][0x8F01][0x0108][0x0132]Como pille a los cabrones que le han hecho
+esto... para qué quieren más...[next]
+[0x8F00][0x0004][0x8F01][0x0000][0x014E]Como pille a los cabrones que le han hecho
+esto... para qué quieren más...[next]
+[0x8F00][0x0004][0x8F01]0Í¿Y si... miras a la carretera?[next]
+[0x8F00][0x0005][0x8F01][0x0000][0x009A]Presta atención, cariño.[next]
+[0x8F00][0x0005][0x8F01][0x00D6][0x01CE]¡¿Cómo puedes estar tan tranquila?!
+¡No te creas que te has librado![next]
+[0x8F00][0x0005][0x8F01][0x01F6][0x029C]Mira que hay gente con la mierda hasta 
+el cuello en esta ciudad,[next]
+[0x8F00][0x0005][0x8F01][0x02AA][0x02B8]pero pelearse contra los mensajeros 
+de Dios se lleva la palma...[next]
+[0x8F00][0x0006][0x8F01][0x0000][0x00F0]pero pelearse contra los mensajeros
+de Dios se lleva la palma...[next]
+[0x8F00][0x0009][0x8F01][0x005C][0x00BE]Y encima vestida de monja...[next]
+[0x8F00][0x000A][0x8F01][0x0020][0x010C]¡Ya te puedes buscar un buen abogado
+para el juicio final...![next]
+[0x8F00][0x000B][0x8F01][0x0006][0x00C8]Qué quieres que te diga, me gusta disfrazarme...[next]
+[0x8F00][0x000B][0x8F01][0x00E2]Fy los juguetes tampoco están mal...[next]
+[0x8F00][0x000B][0x8F01]ü[0x01EE]Hace 20 años, despertaste encerrada en un
+ataúd en el fondo de un lago.[next]
+[0x8F00][0x000C][0x8F01][0x0000][0x00E6]Hace 20 años, despertaste encerrada en un
+ataúd en el fondo de un lago.[next]
+[0x8F00][0x000C][0x8F01][0x010C][0x0150]Sólo recuerdas que eres una bruja...[next]
+[0x8F00][0x000D][0x8F01][0x0000][0x0066]Sólo recuerdas que eres una bruja...[next]
+[0x8F00][0x000D][0x8F01][0x007C][0x00D6]y que estás aquí y que tienes que cargarte a
+todo el que lleve un halo encima de la cabeza[next]
+[0x8F00][0x000E][0x8F01][0x0000][0x00F2]y que estás aquí y que tienes que cargarte a
+todo el que lleve un halo encima de la cabeza[next]
+[0x8F00][0x000E][0x8F01][0x00F2][0x0184]para que no te lleven de vuelta a Inferno...[next]
+[0x8F00][0x000E][0x8F01]v[0x0230]Y yo que pensaba que me estaban jodiendo la vida...[next]
+[0x8F00][0x000F][0x8F01][0x0000][0x0094]¡Que te obliguen a matar angelitos para ganarte la vida,[next]
+[0x8F00][0x000F][0x8F01][0x00AC][0x010A]eso sí que es una jugarreta![next]
+[0x8F00][0x0010][0x8F01][0x0000][0x000A]eso sí que es una jugarreta![next]
+[0x8F00][0x0010][0x8F01][0x0038][0x0112]Recuérdame que no te llame para que
+escribas mis memorias.[next]
+[0x8F00][0x0010][0x8F01][0x0142]RYo me encargo del funeral y tú me das
+la información que te pedí.[next]
+[0x8F00][0x0011][0x8F01][0x0000][0x00CC]Yo me encargo del funeral y tú me das
+la información que te pedí.[next]
+[0x8F00][0x0011][0x8F01][0x00E0][0x0130]El trato estaba claro.[next]
+[0x8F00][0x0011][0x8F01]j[0x01CC]¡Venga, joder![next]
+[0x8F00][0x0012][0x8F01][0x0000][0x0018]¡Venga, joder![next]
+[0x8F00][0x0012][0x8F01][0x002A][0x0138]¡Mira cómo me han dejado el coche!
+Estoy trabajando gratis.[next]
+[0x8F00][0x0012][0x8F01][0x0148][0x023A]Al menos podrías dejarme echar un trago en el garito
+de Rodin antes de empezar con el interrogatorio.[next]
+[0x8F00][0x0013][0x8F01][0x001A][0x00AC]La información merece la pena... [next]
+[0x8F00][0x0014][0x8F01][0x001E][0x00F8]Te va a ayudar a encontrar la piedra que te
+falta de las dos que hay...[next]
+[0x8F00][0x0014][0x8F01][0x0108]8y también algo de tu pasado.[next]
+[0x8F00][0x0015][0x8F01][0x0000][0x0062]y también algo de tu pasado.[next]
+[0x8F00][0x0015][0x8F01][0x0066][0x00A2]Te lo prometo. [next]

@@ -1,0 +1,21 @@
+[id=3][time=00:00.2190/00:03.5310][0x8F02]Per quale ragione continui a farci perdere tempo?[next]
+[id=3][time=00:04.0630/00:08.4380][0x8F02]Hai dimenticato il tuo compito?[next]
+[id=3][time=00:08.9060/00:11.4690][0x8F02]Mettiti dunque all'opera! L'era della Creatrice si avvicina![next]
+[id=4][time=00:00.0000/00:01.4060][0x8F02]Mettiti dunque all'opera! L'era della Creatrice si avvicina![next]
+[id=4][time=00:01.9690/00:03.7500]So bene qual è il mio compito![next]
+[id=4][time=00:03.9060/00:07.1880]Tu invece hai dimenticato che
+non mi occorre il tuo aiuto![next]
+[id=11][time=00:01.7500/00:02.5000]A quanto pare, la tua piccola è andata per sempre.[next]
+[id=12][time=00:00.0000/00:01.4060]A quanto pare, la tua piccola è andata per sempre.[next]
+[id=13][time=00:00.0000/00:01.5310]A quanto pare, la tua piccola è andata per sempre.[next]
+[id=27][time=00:00.1880/00:03.5310]Riempili! Riempi i tuoi occhi di odio.[next]
+[id=27][time=00:03.7190/00:04.2190]Accetta la violenza del tuo destino
+e ottieni l'occhio sinistro![next]
+[id=28][time=00:00.0000/00:04.5940]Accetta la violenza del tuo destino
+e ottieni l'occhio sinistro![next]
+[id=28][time=00:05.0940/00:05.5310]Dimostra di esserne degna![next]
+[id=29][time=00:00.0000/00:01.2810]Dimostra di esserne degna![next]
+[id=30][time=00:00.1250/00:05.5630]Non temere nulla, bambina mia,
+non ti sarà fatto del male.[next]
+[id=30][time=00:05.8130/00:12.3440]Io continuerò a vegliare su te...
+mio piccolo, dolce tesoro.[next]

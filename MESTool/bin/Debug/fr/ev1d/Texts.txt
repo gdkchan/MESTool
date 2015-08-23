@@ -1,0 +1,57 @@
+[id=1][time=00:41.2500/00:43.7500]On dirait bien que cette fois,
+Humpty Dumpty ne reviendra plus.[next]
+[id=2][time=00:00.4060/00:04.3130]Même ce vieux Crâne d'œuf le Destructeur
+s'est fait buter pour de bon, hein ?[next]
+[id=2][time=00:06.0310/00:10.0000]Tu sais, je vois vraiment pas pourquoi tu
+m'as fait venir pour ce genre de trucs.[next]
+[id=2][time=00:10.7810/00:13.0310]Moi, je ne fais que livrer la marchandise.[next]
+[id=2][time=00:13.8750/00:14.1880]Hé, tu sais quel jour on est, hein ?[next]
+[id=3][time=00:00.0000/00:01.6880]Hé, tu sais quel jour on est, hein ?[next]
+[id=4][time=00:02.1560/00:02.5310]C'est pas ton bouquin de prières
+qui va arranger les choses.[next]
+[id=5][time=00:00.0000/00:02.0310]C'est pas ton bouquin de prières
+qui va arranger les choses.[next]
+[id=6][time=00:00.7500/00:03.3750][0x01D4]a fait des lustres que les gens attendaient
+qu'il crève, ce couillon. [next]
+[id=7][time=00:00.9380/00:05.2190]Putain, regarde autour de toi...
+Humpty Dumpty ne va manquer à personne.[next]
+[id=8][time=00:01.4380/00:07.1560]Mais faut quand même faire plaisir à la famille. On
+s'occupe de lui, ou c'est eux qui s'occupent de nous,[next]
+[id=8][time=00:08.8750/00:09.2190]et moi, j'aime encore mieux avoir ces vieilles pompes
+aux pieds que des blocs de ciment, tu vois ?[next]
+[id=9][time=00:00.0000/00:02.8440]et moi, j'aime encore mieux avoir ces vieilles pompes
+aux pieds que des blocs de ciment, tu vois ?[next]
+[id=10][time=00:01.3130/00:03.3130][0x01D4]a se passe comme ça ici.[next]
+[id=10][time=00:03.4380/00:04.5630]Sans des âmes bienveillantes comme nous
+pour débarrasser la société de ces salopards,[next]
+[id=11][time=00:00.0000/00:02.4840]Sans des âmes bienveillantes comme nous
+pour débarrasser la société de ces salopards,[next]
+[id=11][time=00:02.5630/00:04.1880]il deviendrait quoi, le monde ?[next]
+[id=11][time=00:04.8750/00:06.5630]Et puis, la paye est pas mauvaise non plus.[next]
+[id=12][time=00:02.7190/00:04.8750]Putain, t'y crois à fond à ces
+bondieuseries-là, hein ? [next]
+[id=12][time=00:05.8130/00:09.3440]Si ça ne tenait qu'à moi, je prierais pour
+qu'il finisse à la fournaise...[next]
+[id=12][time=00:09.4060/00:10.8130]Ou au moins, bien rôti ![next]
+[id=13][time=00:04.9690/00:07.4690]Tu peux continuer à prier,[next]
+[id=13][time=00:07.5310/00:08.8440]mais la seule façon pour que ce mec rencontre Dieu,[next]
+[id=13][time=00:08.9380/00:10.5940]c'est de le lui offrir au petit-déj' ![next]
+[id=16][time=00:00.6250/00:02.6560]Parlant de bouffe,
+t'as pas bientôt fini ?[next]
+[id=17][time=00:00.3130/00:02.7810]Mes gosses me préparent un gâteau
+d'anniversaire pour ce soir.[next]
+[id=17][time=00:02.8440/00:05.0310]S'ils sont pas mignons, ces mioches.[next]
+[id=18][time=00:01.1250/00:03.5310]Bon allez, je me casse ![next]
+[id=21][time=00:03.0630/00:05.7190]Putain, c'est quoi !? Ils sont venus !? [next]
+[id=21][time=00:05.7810/00:07.0310]Pour ce merdeux !?[next]
+[id=22][time=00:02.1250/00:05.3750]Je supporte pas cette lumière de merde !
+J'y vois rien ! [next]
+[id=22][time=00:07.5000/00:10.5940]Mais ils sont là... hein !?[next]
+[id=22][time=00:10.6560/00:12.5940]Tu m'écoutes !? Tu peux les voir, quand même, non !?[next]
+[id=22][time=00:13.0000/00:16.0940]Je les vois. Ce sont les instruments de Dieu, [next]
+[id=22][time=00:16.5000/00:18.8750]flottant dans sa lumière divine pour
+descendre sur Terre.[next]
+[id=23][time=00:00.8750/00:03.0000]Oh... Bon... Sang...![next]
+[id=24][time=00:02.0630/00:08.3440]Seigneur, aide-nous et protège les âmes de ceux
+qui nous sont chers, pour les siècles des siècles.[next]
+[id=37][time=00:05.9380/00:15.6090][0x8100][next]

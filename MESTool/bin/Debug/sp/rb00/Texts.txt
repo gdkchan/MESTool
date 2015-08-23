@@ -1,0 +1,19 @@
+
+
+[0x8010][0x005A]¡Vence a todos los enemigos![next]
+
+[0x8010][0x005A]¡Usa Ataques tortura![next]
+
+[0x8010][0x005A]¡Patadas y puñetazos limitados![next]
+
+[0x8010][0x005A]¡Usa las Armas angelicales![next]
+
+[0x8010][0x005A]¡Batalla astral![next]
+
+[0x8010][0x005A]¡Usa el Ataque maleficio![next]
+
+[0x8010][0x005A]¡Usa el Tiempo brujo![next]
+
+[0x8010][0x005A]¡Tiempo brujo desactivado![next]
+
+[0x8010][0x005A]¡Mantente en el aire![next]

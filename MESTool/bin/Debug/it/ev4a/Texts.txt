@@ -1,0 +1,6 @@
+[id=5][time=00:04.2810/00:05.3130]Incredibile.[next]
+[id=5][time=00:05.3750/00:06.4060]Siamo riuscite a fermare quell'abominio,[next]
+[id=6][time=00:00.0000/00:01.7810]Siamo riuscite a fermare quell'abominio,[next]
+[id=6][time=00:01.8440/00:02.7810]ma il mondo sarà distrutto comunque![next]
+[id=7][time=00:00.0000/00:01.2500]ma il mondo sarà distrutto comunque![next]
+[id=7][time=00:01.5310/00:02.3130]Jeanne! [next]

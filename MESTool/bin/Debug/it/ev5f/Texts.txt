@@ -1,0 +1,6 @@
+[id=4][time=00:00.6410/00:01.5630]Aaaaah![next]
+[id=4][time=00:01.8750/00:03.0310]Dannazione!
+Chi è stato? [next]
+[id=5][time=00:00.0000/00:01.2500]L'ho appena comprata![next]
+[id=10][time=00:00.7970/00:02.6560]Non l'avete ancora capito?[next]
+[id=11][time=00:00.0000/00:02.5000]Non c'è posto per voi in questo mondo![next]

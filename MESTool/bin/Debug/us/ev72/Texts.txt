@@ -1,0 +1,18 @@
+[id=1][time=00:00.2810/00:03.2500]That's why I haven't given up my chase for it.[next]
+[id=1][time=00:03.3130/00:04.2190]Or you.[next]
+[id=2][time=00:00.3750/00:04.3750]The head of the Ithavoll Group, 
+the multi-national that dominates Vigrid, [next]
+[id=3][time=00:00.2500/00:03.6250]recently tried to sell an enormous 
+gem stone on the black market.[next]
+[id=4][time=00:00.1250/00:02.3750]If he isn't selling out in the open, it means[next]
+[id=5][time=00:00.0630/00:02.0310]we're going to have to acquire it by other means.[next]
+[id=6][time=00:00.0000/00:00.4690]we're going to have to acquire it by other means.[next]
+[id=6][time=00:01.0940/00:04.2500]And that starts by sneaking on to that jet.[next]
+[id=13][time=00:02.8130/00:05.6250]Mummy, are you looking for something? [next]
+[id=14][time=00:00.9380/00:01.8440]I am.[next]
+[id=14][time=00:02.6880/00:04.0630]How did you lose it? [next]
+[id=14][time=00:06.4060/00:07.2190]Little one,[next]
+[id=15][time=00:00.5940/00:03.0000]do you have anything you really like?[next]
+[id=15][time=00:03.9690/00:06.0940]Something really important to you? [next]
+[id=17][time=00:05.0000/00:06.2810]Yes! This! I love it.[next]
+[id=18][time=00:00.0000/00:00.8130]Yes! This! I love it.[next]

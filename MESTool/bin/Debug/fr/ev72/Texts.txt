@@ -1,0 +1,20 @@
+[id=1][time=00:00.2810/00:03.2500]C'est pourquoi je n'ai jamais arrêté de chercher,[next]
+[id=1][time=00:03.3130/00:04.2190]de te chercher.[next]
+[id=2][time=00:00.3750/00:04.3750]Il n'y a pas très longtemps, le chef d'Ithavoll,
+la multinationale qui domine Vigrid,[next]
+[id=3][time=00:00.2500/00:03.6250]a essayé de vendre une énorme gemme
+sur le marché noir.[next]
+[id=4][time=00:00.1250/00:02.3750]S'il refuse de la vendre légalement,[next]
+[id=5][time=00:00.0630/00:02.0310]nous devrons l'acquérir autrement.[next]
+[id=6][time=00:00.0000/00:00.4690]nous devrons l'acquérir autrement.[next]
+[id=6][time=00:01.0940/00:04.2500]Et la première étape, c'est de se
+faufiler à bord de cet avion.[next]
+[id=13][time=00:02.8130/00:05.6250]Maman, tu cherches quelque chose ?[next]
+[id=14][time=00:00.9380/00:01.8440]Oui...[next]
+[id=14][time=00:02.6880/00:04.0630]Comment tu l'as perdu ?[next]
+[id=14][time=00:06.4060/00:07.2190]Dis-moi, petite,[next]
+[id=15][time=00:00.5940/00:03.0000]est-ce que tu possèdes quelque chose
+que tu aimes beaucoup ?[next]
+[id=15][time=00:03.9690/00:06.0940]Quelque chose qui t'est très précieux ?[next]
+[id=17][time=00:05.0000/00:06.2810]Oui ! [0x01D4]a ! Je l'adore.[next]
+[id=18][time=00:00.0000/00:00.8130]Oui ! [0x01D4]a ! Je l'adore.[next]

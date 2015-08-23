@@ -1,0 +1,3 @@
+[id=1][time=00:00.5630/00:01.5000]Holy crap![next]
+[id=3][time=00:00.3440/00:02.2190]For fuck's sake, that's overdoing it![next]
+[id=3][time=00:02.9690/00:05.3440]Right! Turn Right! Get off the road![next]

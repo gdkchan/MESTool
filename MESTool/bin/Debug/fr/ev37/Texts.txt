@@ -1,0 +1,12 @@
+[id=3][time=00:00.2500/00:01.0940]Oh putain ![next]
+[id=10][time=00:01.3440/00:02.4690]OH NON ![next]
+[id=19][time=00:00.8440/00:02.5000]Mais qu'est-ce que c'est que c'te truc !?[next]
+[id=19][time=00:02.9380/00:03.4690]Maman ![next]
+[id=20][time=00:00.5940/00:02.9380]Cerezita, non ! C'est trop dangereux ![next]
+[id=25][time=00:00.0940/00:01.0940]Chouchou ![next]
+[id=42][time=00:00.4380/00:03.6250]Dis-moi, chaton, qu'est-ce
+qu'on devrait faire, maintenant ?[next]
+[id=42][time=00:05.3130/00:07.1880]Oh, il t'a fait mal, tu dis ?[next]
+[id=42][time=00:07.8750/00:10.5310]Alors on va pas le laisser faire, hein ?[next]
+[id=46][time=00:04.4380/00:15.6090][0x8111][next]
+[id=50][time=00:00.4380/00:02.1560]Bougez-moi vos petites ailes, les potes ![next]

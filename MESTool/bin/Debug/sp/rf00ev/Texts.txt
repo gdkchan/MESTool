@@ -1,0 +1,108 @@
+
+
+[0x8F00][0x0005][0x8F01][0x0000][0x03E7][0x8118][next]
+
+[0x8F00][0x0001][0x8F01][0x0096][0x0140]¿Estás aquí por negocios o por placer?[next]
+[0x8F00][0x0001][0x8F01][0x014E][0x01CE]Sea lo que sea, yo soy tu hombre.[next]
+
+[0x8F00][0x0001][0x8F01][0x00A0][0x0130]¿De verdad quieres hacer un pacto con el diablo?[next]
+[0x8F00][0x0001][0x8F01]Á[0x024C]Tranquila, estoy de broma.[next]
+
+[0x8F00][0x0001][0x8F01][0x003C][0x00A6]Trata bien a mis niñas, ¿vale?[next]
+[0x8F00][0x0001][0x8F01][0x00B4][0x01B0] Algunos se vuelven locos por las del 45,[next]
+[0x8F00][0x0001][0x8F01][0x01B4][0x0246]pero comparadas con ellas, éstas
+son verdaderas obras de arte.[next]
+
+[0x8F00][0x0001][0x8F01][0x009E]HEh, mira lo que tengo. ¿Qué quieres comprar?[next]
+[0x8F00][0x0001][0x8F01][0x01EC][0x0260]Eso lo decían en un juego.[next]
+
+[0x8F00][0x0001][0x8F01][0x003C],Si me traes bastantes halos, a lo mejor
+puedo comprarme un billete al espacio.[next]
+[0x8F00][0x0001][0x8F01]?[0x020E]Siempre quise ser un marine espacial calvo.[next]
+[0x8F00][0x0001][0x8F01][0x0258][0x02CA]En fin, ¿en qué puedo ayudarte?[next]
+
+[0x8F00][0x0001][0x8F01][0x0096][0x020E]Que no insistas, que no te pongo una
+motosierra en el brazo. A ver, ¿qué quieres?[next]
+
+[0x8F00][0x0000][0x8F01][0x0000][0x010A]Hoombreee... Un disco de oro de
+Himnos Angélicos... [next]
+[0x8F00][0x0000][0x8F01][0x0120]ñEsto sí que no se ve todos los días.[next]
+[0x8F00][0x0000][0x8F01][0x01E7][0x02F2]Es el cebo perfecto para atraer a
+los diablillos.[next]
+[0x8F00][0x0001][0x8F01][0x0000]FApenas oyen una nota, salen de
+Inferno como posesos.[next]
+[0x8F00][0x0001][0x8F01]d[0x0314]Luego podré usarlos para lo que sé hacer
+mejor... armas de destrucción masiva. [next]
+[0x8F00][0x0002][0x8F01][0x0000][0x00B0] Mira, si me das ese disco,[next]
+[0x8F00][0x0002][0x8F01][0x00B4]!te hago un aparatejo tan potente que los
+ángeles se pondrán a llorar sólo con verlo.[next]
+[0x8F00][0x0002][0x8F01][0x01BC][0x02DA]Voy a tener que pasarme un momento
+por el trópico, así que ponte cómoda.[next]
+[0x8F00][0x0003][0x8F01][0x008C][0x01EF]Ya está. Es un poco basto, pero lo
+compensa con su encanto.[next]
+[0x8F00][0x0003][0x8F01][0x01F0][0x026C]Trátale bien, ¿vale?[next]
+
+[0x8F00][0x0001][0x8F01][0x0000][0x00EA]¿Otro LP? Joder, me estás haciendo currar...[next]
+[0x8F00][0x0001][0x8F01][0x00F8]úQué le vamos a hacer... La verdad es
+que estaba empezando a aburrirme.[next]
+[0x8F00][0x0001][0x8F01][0x01D6][0x0286]Voy a fabricarte algo.[next]
+
+[0x8F00][0x0001][0x8F01][0x003C][0x00D6]Otro disco angélico, ¿eh?[next]
+[0x8F00][0x0001][0x8F01][0x00EA][0x022C]Trae para acá, anda. Te voy a traer algo
+guapo, que me has pillado de buen humor...[next]
+
+[0x8F00][0x0000][0x8F01][0x0000][0x0146]Me ha costado Dios y ayuda hacerlo,
+pero me ha quedado bien.[next]
+[0x8F00][0x0000][0x8F01]2[0x022E]¡Úsalo cuando puedas, que para eso está![next]
+
+[0x8F00][0x0000][0x8F01][0x0000],¡Joder! ¡No me haces caso!
+Casi te retuerzo el cuello.[next]
+[0x8F00][0x0000][0x8F01]?[0x01D8] ¡Venga,  a currar![next]
+
+[0x8F00][0x0000][0x8F01][0x0000][0x00AF]Ha faltado poco...[next]
+[0x8F00][0x0000][0x8F01][0x00B4][0x0244]Puede que te cueste un poco
+dominarlo... Cuídate.[next]
+
+[0x8F00][0x0000][0x8F01][0x003C][0x008C]Me ha hecho sudar.[next]
+[0x8F00][0x0000][0x8F01][0x00A0][0x01D6]Tengo que admitirlo, con los del
+trópico te diviertes un rato...[next]
+[0x8F00][0x0000][0x8F01][0x01E0][0x02D0]Hasta te he traído uno y todo, ¡para
+que luego digas que no te trato bien![next]
+
+[0x8F00][0x0000][0x8F01][0x0000][0x00A4]Esta vez me he pillado uno de los buenos.[next]
+[0x8F00][0x0000][0x8F01][0x00E6]úÉste no se ve todos los días; te lo digo yo...[next]
+
+[0x8F00][0x0001][0x8F01][0x0000][0x0068]Inferno es enorme...[next]
+[0x8F00][0x0001][0x8F01][0x0088]RQuién diría que te puedes encontrar
+cosas así.[next]
+[0x8F00][0x0001][0x8F01][0x01C4][0x0306]No te prometo que esta cosa sea
+segura, pero sí que es fácil de usar.[next]
+[0x8F00][0x0001][0x8F01][0x035A][0x03CC]¡Anda, pruébala![next]
+
+[0x8F00][0x0000][0x8F01][0x0000][0x012E]Madre mía... Ese disco de oro
+que tienes ahí es rarísimo.[next]
+[0x8F00][0x0000][0x8F01][0x0142][0x02AC]No me puedo creer que lo hayas conseguido.
+Con esto me voy a poder pillar algo muy valioso.[next]
+[0x8F00][0x0000][0x8F01][0x02AD][0x0398]Voy a tener que currármelo,[next]
+[0x8F00][0x0000][0x8F01][0x03B8][0x04BC]pero bueno, ya iba siendo hora
+de trabajar un poco.[next]
+[0x8F00][0x0001][0x8F01][0x0044][0x00F6]Es la primera vez que llegó hasta
+aquí luchando contra uno.[next]
+[0x8F00][0x0001][0x8F01][0x010A][0x01EA]Ha merecido la pena, nunca se sabe
+cuando vas a volver a ver algo así.[next]
+[0x8F00][0x0001][0x8F01][0x0216][0x02D2]Por armas tan perfectas como
+ésta hay que darlo todo.[next]
+[0x8F00][0x0001][0x8F01][0x0320][0x0372]Cuídala muchísimo.[next]
+
+[0x8F00][0x0001][0x8F01][0x0000]:Eh, si tienes halos de sobra y quieres
+hacer algo por el prójimo...[next]
+[0x8F00][0x0001][0x8F01];[0x02CC]a mí me vendrían bien unos cuantos, así
+podré volver a ser el mismo de siempre.[next]
+[0x8F00][0x0001][0x8F01][0x02DC][0x03DE]Venga, que empiece la fiesta...
+Esto se va a poner al rojo vivo. [next]
+
+[0x8F00][0x0001][0x8F01][0x0048][0x0150]Tengo que reconocerlo, contigo me divierto.[next]
+[0x8F00][0x0001][0x8F01]8[0x0234]Nunca creí que una piba me pudiera
+patear el culo de esta manera.[next]
+[0x8F00][0x0001][0x8F01][0x0248][0x0314]Hasta me gustado y todo.[next]
+[0x8F00][0x0001][0x8F01][0x032C][0x03F6] Esta vez ganas tú, muñeca.[next]

@@ -1,0 +1,75 @@
+[id=0][time=00:01.8750/00:05.7810][0x8122][next]
+[id=0][time=00:09.6560/00:11.9380]Eh bien, pas de repos pour les pervers.[next]
+[id=1][time=00:00.5630/00:04.3130]Mais au moins elle dort en paix,
+dans la boîte d'où elle vient.[next]
+[id=1][time=00:04.5310/00:08.0000]Et je vais donc devoir trouver
+une autre source de revenus.[next]
+[id=1][time=00:08.4060/00:11.5000]Pas de prime pour le vieil Enzo cette fois.[next]
+[id=1][time=00:11.5630/00:13.0630]Comme d'hab'...[next]
+[id=1][time=00:13.2500/00:15.6250]Tu sais comment ça se passe
+avec les sorcières, Enzo.[next]
+[id=1][time=00:15.8130/00:17.9380]Elles font un pacte avec le diable,[next]
+[id=2][time=00:00.0000/00:02.6250]et quand elles meurent, le diable prend
+ce qui lui revient de droit.[next]
+[id=2][time=00:02.8130/00:03.5310]Tu pars tout droit en enfer,[next]
+[id=3][time=00:00.0000/00:00.9380]Tu pars tout droit en enfer,[next]
+[id=3][time=00:01.0000/00:03.9690]alors il faut pas s'étonner d'errer dans la peur
+pour l'éternité...[next]
+[id=3][time=00:04.3130/00:06.0310]ça fait partie du charme de l'endroit.[next]
+[id=3][time=00:06.1880/00:07.5310]Arrête de dire ça, putain ![next]
+[id=3][time=00:08.0310/00:08.7500]Si on se prend la tête à rester ici et à prier, c'est
+bien pour que son âme puisse reposer en paix, non !?[next]
+[id=4][time=00:00.0000/00:03.6880]Si on se prend la tête à rester ici et à prier, c'est
+bien pour que son âme puisse reposer en paix, non !?[next]
+[id=4][time=00:03.7810/00:05.4060]Me dis pas que je me pèle de froid pour rien[next]
+[id=5][time=00:00.0000/00:01.4690]Me dis pas que je me pèle de froid pour rien[next]
+[id=6][time=00:00.0000/00:01.5310]et que nos prières sont inutiles ![next]
+[id=8][time=00:00.0940/00:03.2500][0x01D4]a te réconforte de penser que tes
+prières sont utiles, hein ?[next]
+[id=8][time=00:03.4380/00:05.0310]Tu t'es fait tellement de blé
+en l'exploitant.[next]
+[id=9][time=00:00.0000/00:02.5000]En fait, si elle se sent seule,[next]
+[id=9][time=00:02.7500/00:05.6250]il se pourrait bien qu'elle revienne...[next]
+[id=9][time=00:05.6880/00:06.0310]juste pour te hanter ![next]
+[id=10][time=00:00.0000/00:00.8440]juste pour te hanter ![next]
+[id=11][time=00:00.5940/00:03.3440]Me hanter !? Merde, qu'elle reste
+en enfer dans ce cas ![next]
+[id=15][time=00:03.8440/00:05.9380]Je disais que je continuerais toujours
+à te traquer...[next]
+[id=15][time=00:05.9380/00:08.9690]Mais je ne pensais pas que ça finirait
+comme ça.[next]
+[id=16][time=00:05.1880/00:06.3440]Le Romarin.[next]
+[id=16][time=00:07.5310/00:11.9380]Tu m'as dit que ça repoussait les démons, hein ?
+Il t'aidera peut-être là où tu es à présent...[next]
+[id=19][time=00:01.2190/00:03.3750]Hé... Hé ![next]
+[id=20][time=00:00.1250/00:04.4690]Attends un peu !? Pourquoi ils
+viennent la chercher !?[next]
+[id=21][time=00:01.3130/00:03.0310]Ils viennent sûrement chercher[next]
+[id=22][time=00:00.0000/00:01.8750]ce qu'ils cherchent depuis le début...[next]
+[id=22][time=00:02.2810/00:04.1880]Bon sang... Tu...[next]
+[id=37][time=00:00.1880/00:29.0310]J'ai l'air ridicule comme ça ![next]
+[id=39][time=00:00.5630/00:03.2810]Franchement, c'est la dernière fois
+que je me déguise.[next]
+[id=47][time=00:00.1560/00:02.5310]Hé, t'as entendu !? C'est à toi de jouer ![next]
+[id=50][time=00:01.1560/00:02.0780]Tu vas te grouiller un peu ![next]
+[id=50][time=00:02.0940/00:03.9690]Ne me dis pas que tu t'es encore
+assoupie là-dedans ![next]
+[id=51][time=00:00.0000/00:00.9690]Ne me dis pas que tu t'es encore
+assoupie là-dedans ![next]
+[id=52][time=00:00.0000/00:04.2810]Hé ! Mais... Vous vous foutez de ma gueule, là...[next]
+[id=53][time=00:00.8440/00:02.3440]Elle n'est quand même pas...[next]
+[id=59][time=00:00.2190/00:04.6560]Putain ! J'y crois pas ![next]
+[id=63][time=00:00.3130/00:02.5630]Bonjour, bonjour ![next]
+[id=64][time=00:00.2810/00:03.1880]C'est quoi l'idée de m'enterrer
+dans ce cercueil immonde !?[next]
+[id=64][time=00:03.6560/00:04.8750]La prochaine fois, faites
+au moins des trous d'air.[next]
+[id=65][time=00:00.0000/00:03.1560]Et moins de vers, ce serait bien aussi.[next]
+[id=65][time=00:03.2500/00:04.6250]Épargne-nous ton petit discours.[next]
+[id=66][time=00:00.0000/00:01.6880]On a du boulot qui nous attend.[next]
+[id=84][time=00:06.5940/00:08.0310]Ce parfum ?[next]
+[id=85][time=00:01.9380/00:08.0940]Il contient un peu de romarin. Dans le langage
+des fleurs, le romarin s'associe à la mémoire...[next]
+[id=86][time=00:00.4690/00:01.2500]Donc il me va très bien, à présent,[next]
+[id=87][time=00:00.0000/00:01.1560]pas vrai ?[next]
+[id=88][time=00:00.9380/00:02.9690]Et c'est reparti pour un tour ![next]

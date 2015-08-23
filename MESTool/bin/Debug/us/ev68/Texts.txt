@@ -1,0 +1,4 @@
+[id=3][time=00:00.6250/00:04.6250]You only run away so fast because you've got
+something to run from...[next]
+[id=3][time=00:04.6880/00:05.4690]Me![next]
+[id=4][time=00:00.1250/00:02.2190]But you can't escape me forever![next]

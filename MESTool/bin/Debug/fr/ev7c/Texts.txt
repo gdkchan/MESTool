@@ -1,0 +1,42 @@
+[id=0][time=00:01.2500/00:05.8750]Jamais l'homme qui a permis un tel cauchemar
+ne sera un père pour moi ![next]
+[id=2][time=00:01.5000/00:02.9380]Joli discours, bibendum ![next]
+[id=3][time=00:00.3130/00:01.0310]Luka.[next]
+[id=4][time=00:00.0000/00:00.3130]Luka.[next]
+[id=5][time=00:01.3440/00:05.0940]Alors, comme ça, on essaie de prendre de l'avance,
+monsieur le grand chef d'Ithavoll...[next]
+[id=6][time=00:00.0000/00:01.4380]Alors, comme ça, on essaie de prendre de l'avance,
+monsieur le grand chef d'Ithavoll...[next]
+[id=6][time=00:02.5940/00:05.6560]Le salut, la lumière...[next]
+[id=6][time=00:05.9380/00:08.1250]C'est vraiment du sérieux, pour toi,
+la philosophie d'entreprise, hein?[next]
+[id=7][time=00:00.0000/00:01.4380]C'est vraiment du sérieux, pour toi,
+la philosophie d'entreprise, hein?[next]
+[id=8][time=00:00.2500/00:03.5630]Mais c'est de la bouillie pour les chats,
+si tu veux mon avis.[next]
+[id=8][time=00:04.4380/00:08.5310]Les cimetières sont pleins d'illustres
+despotes comme toi...[next]
+[id=8][time=00:09.6880/00:13.9060]Ou de minables despotes, c'est selon...[next]
+[id=9][time=00:00.0000/00:00.1880]Ou de minables despotes, c'est selon...[next]
+[id=9][time=00:00.7190/00:05.3750]Tu dois être le fameux journaliste Luka.[next]
+[id=10][time=00:00.3750/00:05.1560]Je dois dire que je suis très impressionné
+que tu sois parvenu jusqu'ici, mon enfant.[next]
+[id=10][time=00:05.6560/00:08.3750]Tel père, tel fils, j'imagine.[next]
+[id=11][time=00:00.0000/00:00.6250]Tel père, tel fils, j'imagine.[next]
+[id=11][time=00:01.0940/00:02.0310]Hein ?[next]
+[id=12][time=00:00.0940/00:02.1560]Luka, Luka, Luka...[next]
+[id=12][time=00:02.6250/00:04.3130]Ton père était contre mes
+doctrines philosophiques.[next]
+[id=13][time=00:00.0000/00:03.1250]Ton père était contre mes
+doctrines philosophiques.[next]
+[id=13][time=00:03.8130/00:05.3750]Ses recherches ne me gênaient pas,[next]
+[id=14][time=00:00.0000/00:00.4690]Ses recherches ne me gênaient pas,[next]
+[id=14][time=00:01.6880/00:05.3750]mais quand il a commencé à faire circuler
+des rumeurs calomnieuses sur moi,[next]
+[id=15][time=00:00.0000/00:02.9060]j'ai dû mettre un terme à tout cela.[next]
+[id=16][time=00:00.6560/00:07.5940]Lorsqu'il m'a confirmé que ma petite
+Cereza se trouvait au fond d'un lac,[next]
+[id=16][time=00:08.0000/00:11.1560]j'ai exaucé son dernier souhait[next]
+[id=16][time=00:11.2190/00:14.1560]en acceptant qu'il prenne une retraite éternelle.[next]
+[id=17][time=00:00.0000/00:01.6560]en acceptant qu'il prenne une retraite éternelle.[next]
+[id=17][time=00:02.2190/00:03.2810]Espèce de salopard ![next]

@@ -1,0 +1,20 @@
+[id=1][time=00:02.5940/00:04.8440]Je sens que tu ne vas pas apprécier la suite.[next]
+[id=2][time=00:00.0000/00:01.5000]J'espère que tu le sais.[next]
+[id=2][time=00:02.3130/00:08.0630]Laisse-moi deviner. Air Chouchou n'a que des
+films ringards et la bouffe est dégueulasse ?[next]
+[id=3][time=00:00.7810/00:01.8750]Penses-y un peu...[next]
+[id=3][time=00:03.7190/00:03.9690]Ces trucs qui ont descendu l'avion ne vont
+pas nous laisser atterrir sur leur île.[next]
+[id=4][time=00:00.0000/00:03.2500]Ces trucs qui ont descendu l'avion ne vont
+pas nous laisser atterrir sur leur île.[next]
+[id=4][time=00:03.7190/00:07.2190]Tu crois qu'on peut dire "Coucou, c'est nous"
+et qu'ils vont nous donner une part de gâteau ? [next]
+[id=5][time=00:00.4060/00:03.0310]D'ici, ça a encore l'air sympa,[next]
+[id=6][time=00:00.0000/00:01.8130]mais attends un peu qu'on descende...[next]
+[id=7][time=00:00.0000/00:00.2810]mais attends un peu qu'on descende...[next]
+[id=7][time=00:00.9380/00:04.2340]ça deviendra plus difficile de ne
+pas se rendre compte[next]
+[id=7][time=00:04.2500/00:06.1250]de... la réalité... des choses.[next]
+[id=8][time=00:00.1250/00:02.2190]Chouchou, regarde ![next]
+[id=8][time=00:03.9690/00:07.2190]Oh, je regarde, je regarde.[next]
+[id=15][time=00:00.9380/00:02.2810]Oh merde ![next]

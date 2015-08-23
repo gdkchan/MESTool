@@ -1,0 +1,26 @@
+[id=12][time=00:00.3440/00:01.2810]Vous avez l'air crevés.[next]
+[id=12][time=00:01.3440/00:02.4380]Je peux vous chanter une berceuse, si vous voulez.[next]
+[id=20][time=00:01.0940/00:04.6560]Oh, merde ! Allez, quoi !
+C'est mon putain d'anniversaire ![next]
+[id=24][time=00:04.3750/00:04.6250]Nom de Dieu ![next]
+[id=25][time=00:00.0000/00:01.0940]Nom de Dieu ![next]
+[id=27][time=00:00.0000/00:02.3130]Je pensais pas ce que j'ai dit sur Humpty Dumpty,
+je te le jure ![next]
+[id=28][time=00:00.0000/00:01.1250]Je pensais pas ce que j'ai dit sur Humpty Dumpty,
+je te le jure ![next]
+[id=34][time=00:00.0000/00:01.9380]La prochaine fois que tu veux poser tes sales pattes sur moi,[next]
+[id=34][time=00:02.1880/00:03.6250]assure-toi d'abord que je suis bien mort.[next]
+[id=35][time=00:00.2190/00:01.2810]Maintenant, écarte-toi de mon chemin.[next]
+[id=37][time=00:00.0310/00:00.5940]Ouste !!![next]
+[id=38][time=00:00.0000/00:00.5940]Ouste !!![next]
+[id=39][time=00:00.0000/00:00.5940]Ouste !!![next]
+[id=41][time=00:00.5000/00:02.4380]Ro-Ro-Rodin ?[next]
+[id=42][time=00:01.1560/00:03.0630]Si c'est pas mon vieil ami Enzo.[next]
+[id=42][time=00:03.7500/00:05.7190]Casse-toi donc de là, OK ?[next]
+[id=42][time=00:10.4690/00:10.9060]Si tu meurs, je vais devoir retourner dans ce trou
+à rats pour récupérer l'argent que tu me dois.[next]
+[id=43][time=00:00.0000/00:03.8440]Si tu meurs, je vais devoir retourner dans ce trou
+à rats pour récupérer l'argent que tu me dois.[next]
+[id=49][time=00:00.4380/00:03.5000]Même les anges, ont besoin d'un petit coup de pied
+au cul de temps de temps, pas vrai ?[next]
+[id=53][time=00:01.5940/00:02.5940]Joli.[next]

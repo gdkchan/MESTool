@@ -1,0 +1,29 @@
+Enter the Alfheim?[next]
+
+Enter the 
+Gates of Hell?[next]
+
+Enter the Alfheim?
+(Previously Completed)[next]
+
+Create new save data?[next]
+
+Overwrite save data?[next]
+
+Delete save data?[next]
+
+Load save data?[next]
+
+You will not be able to continue
+from your saved checkpoint.
+Proceed anyway?[next]
+
+Save data?[next]
+
+Continue without saving?[next]
+
+Unable to load corrupt save data. [next]
+
+
+
+Press any button to return.[next]

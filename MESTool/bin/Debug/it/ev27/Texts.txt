@@ -1,0 +1,6 @@
+[id=1][time=00:01.2500/00:05.2190]Cosa succede dolcezza,
+hai paura?[next]
+[id=2][time=00:00.4060/00:03.3130]Paura, io?[next]
+[id=2][time=00:03.7500/00:05.5940]Sto perdendo tempo. [next]
+[id=2][time=00:05.6560/00:07.7810]Non sei ancora pronta.[next]
+[id=3][time=00:00.0000/00:00.0940]Non sei ancora pronta.[next]

@@ -1,0 +1,13 @@
+[id=13][time=00:00.7810/00:04.0630]Maman... Papa...[next]
+[id=14][time=00:00.9690/00:04.8440]Ne t'inquiète pas, petite.
+Le cauchemar est terminé.[next]
+[id=14][time=00:05.3440/00:06.8130]Tout ça n'était qu'un mauvais rêve... [next]
+[id=15][time=00:00.8440/00:06.0630]T'es une petite fille très courageuse.
+Tout ira bien.[next]
+[id=16][time=00:01.0630/00:02.2500]Maman... [next]
+[id=16][time=00:03.1880/00:07.0630]Tu as trouvé, dis ?
+Tu as trouvé ce que tu cherchais... ?[next]
+[id=17][time=00:01.0630/00:03.6560]Oui, je l'ai trouvé.[next]
+[id=17][time=00:03.8440/00:08.5310]Ne t'inquiète pas.
+Toi aussi, fais bien attention à ton petit trésor.[next]
+[id=19][time=00:00.7810/00:03.1560]Fais de beaux rêves, petite.[next]

@@ -1,0 +1,38 @@
+[id=0][time=00:01.3440/00:04.0000]Rodin devrait me payer pour
+toucher à ces joujoux.[next]
+[id=1][time=00:00.3440/00:02.6250]Tu sais combien ça va coûter
+de faire réparer ça, hein ? [next]
+[id=1][time=00:03.4380/00:05.9690]Pourquoi je me retrouve toujours
+mêlé à ces conneries ?[next]
+[id=4][time=00:00.8130/00:03.0940]Le moteur ronronne encore parfaitement.[next]
+[id=4][time=00:03.5940/00:08.0000]Au fait Enzo, tu te rappelles de ce truc
+que je voulais que tu vérifies pour moi ?[next]
+[id=4][time=00:08.2190/00:10.7500]J'aimerais qu'on en parle...[next]
+[id=5][time=00:00.0940/00:03.0000]Et c'est reparti ! Moi qui
+voulais rentrer chez moi ! [next]
+[id=5][time=00:03.2500/00:06.8440]Je viens de me faire embarquer
+dans les airs par des trucs invisibles... [next]
+[id=5][time=00:07.0000/00:11.5310]et toi, tu veux un rapport ?
+[0x01D4]a n'en finit jamais avec toi.[next]
+[id=6][time=00:00.3750/00:04.7810]Si tu continues comme ça, tu vas finir
+par ressusciter Crâne d'œuf d'entre les morts.[next]
+[id=6][time=00:05.0310/00:07.3130]Et je pense pas que ce soit une
+très bonne idée, pas vrai ?[next]
+[id=7][time=00:00.3130/00:01.7500]On se reverra plus tard, Bayonetta.[next]
+[id=7][time=00:02.1560/00:05.9060]Mon petit doigt me dit que tu vas avoir besoin
+d'un coup de main pour notre petit projet.[next]
+[id=7][time=00:06.3130/00:08.1560]Avant que tout parte en vrille...[next]
+[id=8][time=00:00.1250/00:01.5000]Attends ! Rodin ![next]
+[id=8][time=00:02.5000/00:03.8750]Et pour Crâne d'œuf !?[next]
+[id=8][time=00:04.2190/00:06.0310]Y a pas à dire, ce mec a la cote.[next]
+[id=8][time=00:06.5310/00:09.7810]Je suis sûre qu'ici-bas, les gens le détestent
+autant que toi quand il se trouvait là-haut.[next]
+[id=8][time=00:10.5630/00:15.0000]On doit juste s'assurer qu'il ne va pas
+revenir en rampant quand ils l'auront viré.[next]
+[id=9][time=00:01.4380/00:04.6880]Dans ces cas-là, un coup de pelle s'impose.
+Faut s'y mettre.[next]
+[id=11][time=00:00.2500/00:01.5310]Tu as entendu le monsieur.[next]
+[id=11][time=00:01.8440/00:06.5630]Fais ça en 5 minutes ou tu rentreras
+à pied manger ton gâteau.[next]
+[id=11][time=00:06.8750/00:07.8130]Hein !?[next]
+[id=12][time=00:00.3440/00:02.3440]Ne me laisse pas ici ![next]

@@ -1,0 +1,341 @@
+Auréole[next]
+
+Gecko rôti[next]
+
+Corne de licorne[next]
+
+Racine de mandragore[next]
+
+Laurier vert[next]
+
+Laurier vert[next]
+
+Laurier vert[next]
+
+Laurier vert[next]
+
+Papillon mauve[next]
+
+Papillon mauve[next]
+
+Sucette rose sang[next]
+
+Sucette lunaire jaune[next]
+
+Sucette herbale verte[next]
+
+Sucette magique mauve[next]
+
+Méga sucette rose sang[next]
+
+Méga sucette lunaire jaune[next]
+
+Méga sucette herbale verte[next]
+
+Méga sucette magique mauve[next]
+
+
+
+Disque d'or des hymnes angéliques
+"Trois marches militaires"[next]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balle d'arcade[next]
+
+Cœur de sorcière[next]
+
+Perle lunaire[next]
+
+Cœur de sorcière brisé[next]
+
+Perle lunaire brisée[next]
+
+Seringue écarlate[next]
+
+Flûte magique[next]
+
+Métal précieux contenant l'essence
+de la vitalité des anges.
+Il sert de monnaie en Enfer.[next]
+
+Le gecko rôti cristallisé est un ingrédient
+de base pour les sorcières. Il est inutile
+utilisé seul.[next]
+
+La corne de licorne cristallisée est un
+ingrédient de base pour les sorcières.
+Elle est inutile utilisée seule.[next]
+
+La racine de mandragore cristallisée est un
+ingrédient de base pour les sorcières.
+Elle est inutile utilisée seule.[next]
+
+Joyau en forme de laurier qui contient
+une essence vitale cristallisée.
+Restaure la santé instantanément.[next]
+
+Joyau en forme de laurier qui contient
+une essence vitale cristallisée.
+Restaure la santé instantanément.[next]
+
+Joyau en forme de laurier qui contient
+une essence vitale cristallisée.
+Restaure la santé instantanément.[next]
+
+Joyau en forme de laurier qui contient
+une essence vitale cristallisée.
+Restaure la santé instantanément.[next]
+
+Joyau en forme de papillon qui contient
+une essence magique cristallisée.
+Restaure la magie instantanément.[next]
+
+Joyau en forme de papillon qui contient
+une essence magique cristallisée.
+Restaure la magie instantanément.[next]
+
+Bonbon contenant un extrait énergétique qui
+améliore momentanément la puissance
+d'attaque.[next]
+
+Bonbon qui enveloppe son utilisateur d'une
+barrière magique, formant un bouclier
+impénétrable momentanément.[next]
+
+Bonbon contenant un extrait guérisseur.
+Celui qui le mange regagnera une petite
+portion de sa santé.[next]
+
+Bonbon contenant un extrait qui améliore la
+vigilance. Celui qui le mange regagnera une
+petite portion de ses pouvoirs magiques.[next]
+
+Bonbon géant qui redonne de l'énergie à
+celui qui le mange. Améliore la puissance
+d'attaque pour une durée plus longue.[next]
+
+Bonbon géant qui crée une barrière magique
+protégeant celui qui le mange pour une
+durée plus longue.[next]
+
+Bonbon géant contenant un extrait guérisseur,
+qui redonne beaucoup de santé à celui qui
+le mange.[next]
+
+Bonbon géant contenant un extrait améliorant
+la vigilance. Il redonne beaucoup de pouvoirs
+magiques à celui qui le mange.[next]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balles servant à jouer à L'Attaque des anges.
+Un paquet contient trois balles à utiliser
+dans une partie.[next]
+
+Cœur cristallisé d'une sorcière.
+L'obtention de cet objet permet d'améliorer
+la limite maximale de santé.[next]
+
+Cet objet contient la source du pouvoir
+magique d'une sorcière, celui de la lune.
+Permet d'améliorer la limite max. de magie.[next]
+
+Morceau du cœur d'une sorcière. Quatre
+de ces morceaux amélioreront la santé
+maximale de celui qui les possède.[next]
+
+Fragment de perle lunaire. En ramassant 
+deux de ces fragments, la limite de tes 
+pouvoirs magiques sera repoussée.
+[next]
+
+Remède démoniaque qui permet aux sorcières
+d'échapper à la mort. Utilisé automatiquement
+lorsque tu n'as plus de santé.[next]
+
+On dit que les sirènes jouaient de ces flûtes
+magiques. Elles causent des dégâts aux anges
+qui se trouvent à proximité.[next]
+
+Disque d'or des hymnes angéliques
+"Trois marches militaires"[next]
+
+Disque d'or des hymnes angéliques
+"Sonate au clair de lune"[next]
+
+Hymes angéliques, pièce 1/2
+"Sonate au clair de lune"[next]
+
+Hymes angéliques, pièce 2/2
+"Sonate au clair de lune"[next]
+
+Disque d'or des hymnes angéliques
+"Fantaisie-Impromptu"[next]
+
+Hymes angéliques, pièce 1/2
+"Fantaisie-Impromptu"[next]
+
+Hymes angéliques, pièce 2/2
+"Fantaisie-Impromptu"[next]
+
+Disque d'or des hymnes angéliques
+"Sonate en Ré K. 448"[next]
+
+Hymes angéliques, pièce 1/3
+"Sonate en Ré K. 448"[next]
+
+Hymes angéliques, pièce 2/3
+"Sonate en Ré K. 448"[next]
+
+Hymes angéliques, pièce 3/3
+"Sonate en Ré K. 448"[next]
+
+Disque d'or des hymnes angéliques
+"Les Patineurs - Valse op.183"[next]
+
+Hymes angéliques, pièce 1/3
+"Les Patineurs - Valse op.183"[next]
+
+Hymes angéliques, pièce 2/3
+"Les Patineurs - Valse op.183"[next]
+
+Hymes angéliques, pièce 3/3
+"Les Patineurs - Valse op.183"[next]
+
+Disque d'or des hymnes angéliques
+"Chevauchée des Walkyries"[next]
+
+Hymes angéliques, pièce 1/3
+"Chevauchée des Walkyries"[next]
+
+Hymes angéliques, pièce 2/3
+"Chevauchée des Walkyries"[next]
+
+Hymes angéliques, pièce 3/3
+"Chevauchée des Walkyries"[next]
+
+Disque d'or des hymnes angéliques
+"Le Messie, HWV. 56"[next]
+
+Disque d'or des hymnes angéliques
+"Jupiter, celui qui apporte la gaieté"[next]
+
+Disque d'or des hymnes angéliques
+"Mars, celui qui apporte la guerre"[next]
+
+Disque d'or des hymnes angéliques
+"Danse de la fée Dragée"[next]
+
+
+
+Disque d'or capturant les voix
+cristallines des anges. Une
+silhouette est dessinée dessus.[next]
+
+Les morceaux s'assemblent et forment
+un disque d'hymnes angéliques ! Une
+silhouette est dessinée dessus.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+C'est exactement la moitié du disque.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Les morceaux s'assemblent et forment
+un disque d'hymnes angéliques ! Une
+silhouette est dessinée dessus.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+C'est exactement la moitié du disque.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Les morceaux s'assemblent et forment
+un disque d'hymnes angéliques ! Une
+silhouette est dessinée dessus.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Les morceaux s'assemblent et forment
+un disque d'hymnes angéliques ! Une
+silhouette est dessinée dessus.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Les morceaux s'assemblent et forment
+un disque d'hymnes angéliques ! Une
+silhouette est dessinée dessus.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Pièce d'un disque d'hymnes angéliques.
+Ce n'est qu'un morceau du disque complet.[next]
+
+Disque d'or capturant les voix
+cristallines des anges. Une
+silhouette est dessinée dessus.[next]
+
+Disque d'or capturant les voix
+cristallines des anges. Une
+silhouette est dessinée dessus.[next]
+
+Disque d'or capturant les voix
+cristallines des anges. Une
+silhouette est dessinée dessus.[next]
+
+Disque d'or capturant les voix
+cristallines des anges. Une
+silhouette est dessinée dessus.[next]

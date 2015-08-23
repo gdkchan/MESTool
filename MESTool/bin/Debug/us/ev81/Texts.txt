@@ -1,0 +1,13 @@
+[id=13][time=00:00.7810/00:04.0630]Mummy... Daddy... [next]
+[id=14][time=00:00.9690/00:04.8440]No need to be afraid, little one. 
+The nightmare is over.[next]
+[id=14][time=00:05.3440/00:06.8130]Everything was just a dream.[next]
+[id=15][time=00:00.8440/00:06.0630]You're a strong little girl.
+There is nothing you cannot overcome.[next]
+[id=16][time=00:01.0630/00:02.2500]Mummy...[next]
+[id=16][time=00:03.1880/00:07.0630]Did you find it? 
+What you were looking for? [next]
+[id=17][time=00:01.0630/00:03.6560]Yes, I found it.[next]
+[id=17][time=00:03.8440/00:08.5310]So don't you worry anymore.
+You just keep your treasure safe too.[next]
+[id=19][time=00:00.7810/00:03.1560]Sweet dreams, little one. [next]

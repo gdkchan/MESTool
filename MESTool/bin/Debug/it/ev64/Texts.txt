@@ -1,0 +1,55 @@
+[id=3][time=00:00.0630/00:02.0000]Eh? Il mio rossetto?[next]
+[id=9][time=00:01.1880/00:03.0630]Niente! Dannazione...[next]
+[id=11][time=00:00.0310/00:00.5940]Che diavolo?[next]
+[id=11][time=00:01.4690/00:05.3750]Ho visto spesso donne senza rossetto,
+ma un rossetto senza donna mi è nuovo![next]
+[id=11][time=00:06.0000/00:08.1880]Strano, vero Cheshire?[next]
+[id=11][time=00:08.9690/00:13.4690]E strano anche come un bambino come
+te se la sia cavata finora in questa città.[next]
+[id=12][time=00:01.2810/00:03.6250]Mi chiamo[next]
+[id=13][time=00:00.1250/00:00.9380]Luka![next]
+[id=14][time=00:00.6250/00:02.6250]E strano è il fatto che ora tu ti[next]
+[id=14][time=00:02.6880/00:04.0000]preoccupi della mia incolumità.[next]
+[id=15][time=00:00.1880/00:02.7500][0x01AF] la festa della risurrezione. La sicurezza è alta.[next]
+[id=15][time=00:03.3440/00:06.4380]Succede una volta ogni 500
+anni; come dar loro torto?[next]
+[id=15][time=00:07.3750/00:07.5000]Comunque, quando sei bello come
+me, questo non è un problema.[next]
+[id=16][time=00:00.0000/00:03.4690]Comunque, quando sei bello come
+me, questo non è un problema.[next]
+[id=16][time=00:04.0310/00:06.1560]Un assassina abile come te, d'altra parte...[next]
+[id=16][time=00:06.2500/00:08.3130]sono sicuro che tu abbia trovato il modo.[next]
+[id=17][time=00:00.3750/00:03.8440]Quella ragazzina... l'ho già vista da qualche parte...[next]
+[id=17][time=00:04.7810/00:07.5000]Bambina mia,[next]
+[id=18][time=00:00.8750/00:03.2810]lei è la chiave del tuo futuro.[next]
+[id=18][time=00:03.9380/00:07.8130]Per salvarti, dovrai anche salvare quella bambina.[next]
+[id=19][time=00:01.6880/00:03.4060]Ehi, che ti prende?[next]
+[id=19][time=00:03.4690/00:06.2500]Sappiamo entrambi che sei venuta qui per un motivo.[next]
+[id=20][time=00:00.5630/00:03.4380]Quello che non sai è che più t'accosti a ciò che cerchi,[next]
+[id=20][time=00:03.5000/00:07.0940]più difficile sarà per te sfuggirmi.
+Dovrai confessare e pagare[next]
+[id=21][time=00:00.5630/00:02.0310]per quello che hai fatto![next]
+[id=21][time=00:03.0630/00:07.3440]Ah... non vedo l'ora che tu metta
+le mani su ciò che cerchi.[next]
+[id=22][time=00:00.2500/00:03.7500]Fammi indovinare, ne vuoi una parte?[next]
+[id=22][time=00:03.8130/00:09.1880]Bene, se sarai ancora vivo, forse
+potrai appellarti alla mia generosità.[next]
+[id=23][time=00:00.4380/00:01.4690]Ancora vivo?[next]
+[id=23][time=00:01.5310/00:03.5940]Tu sarai anche qua di fronte a me,[next]
+[id=23][time=00:03.6560/00:05.6250]ma sicuramente non sei viva nella realtà.[next]
+[id=24][time=00:00.6560/00:05.8440]Ed è un peccato, visto che
+la verità resta la stessa.[next]
+[id=25][time=00:00.4690/00:05.3440]Quello che vedo quando
+ti guardo è la verità.[next]
+[id=26][time=00:00.8440/00:03.4380]E la verità è che tu hai ucciso mio padre.[next]
+[id=26][time=00:04.1250/00:07.5000]Non m'importa che la gente mi creda
+o meno, nessuno può rifiutare la verità.[next]
+[id=27][time=00:00.6880/00:04.6880]Sarà questa a cancellare la macchia
+con la quale hai segnato la mia vita.[next]
+[id=28][time=00:00.0000/00:00.3750]Sarà questa a cancellare la macchia
+con la quale hai segnato la mia vita.[next]
+[id=28][time=00:01.0630/00:04.6880]Farò sapere al mondo
+della tua esistenza;[next]
+[id=28][time=00:00.0000/00:00.2810]Farò sapere al mondo
+della tua esistenza;[next]
+[id=29][time=00:00.8440/00:03.4060]solo allora avrò vinto.[next]

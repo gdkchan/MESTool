@@ -1,0 +1,12 @@
+[id=5][time=00:00.1250/00:00.8440]Hé ![next]
+[id=7][time=00:01.3130/00:03.4380]J'imagine que c'est comme ça que
+tu as réussi à te perdre, hein ?[next]
+[id=14][time=00:00.0000/00:03.7500]Ne t'inquiète pas, ils font toujours
+peur à voir la première fois.[next]
+[id=15][time=00:00.4690/00:02.2190]Bon, j'en étais où ?[next]
+[id=16][time=00:00.3750/00:02.4060]Ah oui. Votre invitation. [next]
+[id=17][time=00:00.0000/00:00.7970]Ah oui. Votre invitation. [next]
+[id=17][time=00:00.8590/00:03.2500]J'espère qu'il y aura du dessert.[next]
+[id=32][time=00:00.2190/00:04.4380]Quelle jolie petite réunion ! En plus,
+il y a une danse ![next]
+[id=33][time=00:00.0000/00:03.2810]Cereza, ma puce, observe et retiens la leçon ![next]

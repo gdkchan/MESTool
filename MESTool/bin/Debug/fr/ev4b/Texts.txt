@@ -1,0 +1,5 @@
+[id=0][time=00:20.1880/00:21.8130]OK... [0x01D4]a devient ridicule ![next]
+[id=0][time=00:21.8750/00:25.3440]Comment tu fais pour survivre à tout ça !?[next]
+[id=0][time=00:26.3440/00:28.6880]Je suis sûr que tu vas bientôt essayer
+de t'approcher de moi en douce...[next]
+[id=0][time=00:29.5000/00:31.7500]Pas vrai, Bayonetta !?[next]

@@ -1,0 +1,8 @@
+[id=0][time=00:00.2810/00:02.8440]Back to your old self, are we?[next]
+[id=2][time=00:01.2190/00:05.4060]Why so glum? Something troubling you?[next]
+[id=3][time=00:00.5000/00:04.3130]Only your constant fretting over my state of affairs.[next]
+[id=3][time=00:04.7190/00:07.2500]I've no time to play games with you.[next]
+[id=4][time=00:00.8750/00:03.2810]No need to take out your stress on me, Bayonetta.[next]
+[id=5][time=00:00.0000/00:00.8750]No need to take out your stress on me, Bayonetta.[next]
+[id=5][time=00:00.6250/00:03.4060]It's clear you're worried for the girl.[next]
+[id=6][time=00:00.0000/00:00.9380]It's clear you're worried for the girl.[next]

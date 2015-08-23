@@ -1,0 +1,3 @@
+[id=0][time=00:01.3130/00:02.8130]Dove diavolo sono?[next]
+[id=0][time=00:03.2810/00:06.4060]Mi sembra di aver fatto
+il giro del mondo...[next]

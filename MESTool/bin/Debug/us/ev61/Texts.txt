@@ -1,0 +1,15 @@
+[id=2][time=00:00.6560/00:03.0630][0x8F02]What is the meaning of this?[next]
+[id=4][time=00:01.0000/00:06.3440][0x8F02]This is now not once, but twice.
+Explain this meddling in our affairs! [next]
+[id=5][time=00:00.5310/00:03.5000]The only ones meddling are your hapless minions.[next]
+[id=6][time=00:00.4380/00:03.3130]This will be taken care of in the manner I see fit.[next]
+[id=7][time=00:01.5630/00:03.5000]Your assistance is not required. [next]
+[id=10][time=00:01.0000/00:04.1880]I suppose coming here has given you a second wind.[next]
+[id=10][time=00:04.4690/00:06.1880]Feeling better, Bayonetta?[next]
+[id=11][time=00:01.2500/00:02.4060]Who are you?[next]
+[id=11][time=00:03.0630/00:06.9060]And don't you dare say my long lost sister.[next]
+[id=12][time=00:00.7810/00:04.4060]Sister!? You've quite the active imagination.[next]
+[id=12][time=00:04.9060/00:08.7810]You and I once fought for the jewel
+upon the crown of the Umbra throne.[next]
+[id=13][time=00:01.0310/00:03.9380]And now that you've returned, my sleeping beauty,[next]
+[id=14][time=00:01.0630/00:02.9060]it is time to finish that fight.[next]

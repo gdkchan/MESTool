@@ -1,0 +1,11 @@
+[id=5][time=00:00.1250/00:00.8440]Ehi![next]
+[id=7][time=00:01.3130/00:03.4380]Ah! Devi esserti persa così anche prima![next]
+[id=14][time=00:00.0000/00:03.7500]Non preoccuparti, fanno paura
+solo la prima volta che li vedi.[next]
+[id=15][time=00:00.4690/00:02.2190]Allora, dov'ero rimasta?[next]
+[id=16][time=00:00.3750/00:02.4060]Ah già, il tuo gentile invito.[next]
+[id=17][time=00:00.0000/00:00.7970]Ah già, il tuo gentile invito.[next]
+[id=17][time=00:00.8590/00:03.2500]Spero ci siano anche dei pasticcini...[next]
+[id=32][time=00:00.2190/00:04.4380]Oh, che bella festa!
+Si balla anche![next]
+[id=33][time=00:00.0000/00:03.2810]Cereza, mia cara, guarda e impara![next]

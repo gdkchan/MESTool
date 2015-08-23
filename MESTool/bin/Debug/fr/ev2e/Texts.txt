@@ -1,0 +1,43 @@
+[id=2][time=00:03.6560/00:08.2810][0x8F02]Ah, voilà la charmante Bayonetta[next]
+[id=2][time=00:08.6880/00:11.1880][0x8F02]avec ses beaux yeux...[next]
+[id=2][time=00:11.5310/00:17.4060][0x8F02]Même après toutes ces années, tu as
+gardé ta fierté de gardien, n'est-ce pas ?[next]
+[id=2][time=00:20.0310/00:24.9060][0x8110][next]
+[id=3][time=00:00.5310/00:02.7500]Je me sens comme une putain
+ de célébrité dans cette ville![next]
+[id=4][time=00:00.0000/00:01.3130]Je me sens comme une putain
+ de célébrité dans cette ville![next]
+[id=5][time=00:05.0630/00:07.0000]Tu vois ça !?[next]
+[id=6][time=00:00.0000/00:03.1880]Ils se jettent sur moi comme
+des fans hystériques.[next]
+[id=6][time=00:03.2500/00:05.3130]Les gens ont du mal à comprendre[next]
+[id=7][time=00:00.0000/00:01.9380]que je ne donne pas d'autographes ![next]
+[id=7][time=00:02.8130/00:05.7810][0x8F02]Bien avant la création de l'univers,[next]
+[id=7][time=00:05.8440/00:06.7500][0x8F02]le premier Armageddon sépara la réalité
+entre la lumière, les ténèbres et le chaos.[next]
+[id=8][time=00:00.0000/00:01.2810][0x8F02]le premier Armageddon sépara la réalité
+entre la lumière, les ténèbres et le chaos.[next]
+[id=9][time=00:00.0000/00:01.7500][0x8F02]le premier Armageddon sépara la réalité
+entre la lumière, les ténèbres et le chaos.[next]
+[id=10][time=00:00.0000/00:01.5310][0x8F02]le premier Armageddon sépara la réalité
+entre la lumière, les ténèbres et le chaos.[next]
+[id=11][time=00:00.0000/00:00.2190][0x8F02]le premier Armageddon sépara la réalité
+entre la lumière, les ténèbres et le chaos.[next]
+[id=11][time=00:00.2810/00:03.2810][0x8F02]Ce fut lors de cette bataille que
+ceux qui se révoltèrent [next]
+[id=12][time=00:00.0000/00:03.0000][0x8F02]contre la lumière formèrent le monde des[next]
+[id=13][time=00:00.0000/00:01.5000][0x8F02]ténèbres.[next]
+[id=13][time=00:02.1560/00:06.9380][0x8F02]Nous voulons ressusciter Jubileus
+pour qu'elle réunisse la Trinité des réalités.[next]
+[id=13][time=00:07.0000/00:07.3750][0x8F02]Et ton sacrifice y contribuera ![next]
+[id=14][time=00:00.0000/00:02.8750][0x8F02]Et ton sacrifice y contribuera ![next]
+[id=14][time=00:03.5630/00:06.0940]J'aime pas trop les mecs qui
+me baratinent, tu sais.[next]
+[id=15][time=00:00.0000/00:03.2810]Pourquoi on passe pas tout
+de suite à l'action ?[next]
+[id=15][time=00:03.7500/00:04.5630]C'est bien ce que tu voulais, non ?[next]
+[id=16][time=00:00.0000/00:02.0000]C'est bien ce que tu voulais, non ?[next]
+[id=16][time=00:02.2190/00:02.7190]On aura tout le temps de parler
+après l'effort.[next]
+[id=17][time=00:00.0000/00:04.0940]On aura tout le temps de parler
+après l'effort.[next]

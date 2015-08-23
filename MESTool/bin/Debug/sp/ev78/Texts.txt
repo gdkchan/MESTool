@@ -1,0 +1,8 @@
+[0x8F00][0x0000][0x8F01][0x001C][0x0116]¡Por eso, el Ojo Izquierdo, nuestro preciado
+Ojo Izquierdo,[next]
+[0x8F00][0x0000][0x8F01][0x0120][0x01B4]no caerá jamás en manos ajenas![next]
+[0x8F00][0x0000][0x8F01]ñ[0x034C]No me doblegaré ante la estúpida ambición de un
+Sabio de Lumen traidor[next]
+[0x8F00][0x0000][0x8F01][0x034D][0x04A6]que rompió nuestro viejo equilibrio.[next]
+[0x8F00][0x0000][0x8F01][0x0888][0x09A6]No temas tu destino.
+Levántate... Cereza.[next]

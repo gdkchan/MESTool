@@ -1,0 +1,17 @@
+[id=0][time=00:01.0940/00:03.1880]Je sais tout sur ton espèce.[next]
+[id=1][time=00:00.0000/00:02.8440]Mes collègues se moquent de moi en disant
+que je crois toujours aux contes de fées...[next]
+[id=2][time=00:00.5310/00:01.6880]entre autres...[next]
+[id=2][time=00:02.7810/00:04.6560]mais je sais que c'est vrai ![next]
+[id=2][time=00:04.7190/00:05.7500]Je connais la vérité ![next]
+[id=8][time=00:00.7500/00:01.9060]Cette odeur...[next]
+[id=9][time=00:00.1880/00:01.8440]C'est la même que j'ai sentie[next]
+[id=9][time=00:01.9060/00:03.9060]le jour où mon père s'est fait tuer.[next]
+[id=10][time=00:01.8750/00:04.6560]Alors je ne vais pas te lâcher de sitôt,[next]
+[id=10][time=00:04.7190/00:05.3130]Bayonetta ![next]
+[id=15][time=00:00.1880/00:02.7810]Je vais te faire part d'un petit secret, Chouchou.[next]
+[id=16][time=00:00.5000/00:01.2810]Je te l'ai déjà dit. Je m'appelle Luka.[next]
+[id=22][time=00:02.0000/00:04.9060]Tu ferais mieux d'améliorer ton sens de l'odorat,
+mon cher.[next]
+[id=23][time=00:00.0000/00:02.7500]Il n'y a pas de romarin dans mon parfum.[next]
+[id=23][time=00:04.2190/00:07.3130]N'oublie pas que le romarin repousse les démons.[next]
