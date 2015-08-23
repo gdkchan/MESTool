@@ -1,6 +1,0 @@
-[id=4][time=00:00.6410/00:01.5630]Ahhhh!![next]
-[id=4][time=00:01.8750/00:03.0310]Damn it!
-Who did that!?[next]
-[id=5][time=00:00.0000/00:01.2500]I just bought the damn thing![next]
-[id=10][time=00:00.7970/00:02.6560]Haven't you figured it out yet!?[next]
-[id=11][time=00:00.0000/00:02.5000]There's no quarter for you in this world![next]

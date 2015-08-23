@@ -1,9 +1,0 @@
-[id=1][time=00:00.8130/00:02.5000]Ah... Jeanne.[next]
-[id=1][time=00:02.9690/00:06.0940]Tu m'as donné tant de bonheur.[next]
-[id=1][time=00:06.2810/00:10.0000]Le seul et unique, l'authentique Oeil gauche.[next]
-[id=2][time=00:01.0630/00:04.2190]Sa seule vue doit te faire bouillir de jalousie. [next]
-[id=2][time=00:04.5310/00:09.9380]Ton corps doit frémir à l'idée d'être
-enveloppée par un nouvel univers.[next]
-[id=2][time=00:10.7500/00:14.4060]Je n'ai absolument pas l'intention
-de contempler l'Oeil gauche.[next]
-[id=2][time=00:14.9060/00:18.6560]Je suis venue chercher ma soeur de l'Umbra.[next]

@@ -1,8 +1,0 @@
-[0x8010][0x005A]¡Ataca a tus enemigos para llenar la
-[red]Barra mágica[white]![next]
-
-[0x8010][0x005A]¡Si sufres daños, bajará la 
-[red]Barra mágica[white]![next]
-
-[0x8010][0x005A]¡Acércate a tus enemigos y acaba con ellos
-con letales [red]Ataques tortura[white]![next]

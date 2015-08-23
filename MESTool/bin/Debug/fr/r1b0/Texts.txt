@@ -1,8 +1,0 @@
-[0x8010][0x005A]Attaque les ennemis pour
-remplir ta [red]jauge de magie[white] ![next]
-
-[0x8010][0x005A]Si tu te fais blesser, ta
-[red]jauge de magie[white] diminuera ![next]
-
-[0x8010][0x005A]Rapproche-toi des ennemis et
-achève-les avec des [red]attaques sadiques[white] ![next]

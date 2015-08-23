@@ -1,2 +1,0 @@
-[id=0][time=00:08.7500/00:11.3130]Welcome to my fantasy zone. [next]
-[id=0][time=00:12.8130/00:14.0310]Get ready![next]

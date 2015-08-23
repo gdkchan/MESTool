@@ -1,4 +1,0 @@
-[id=3][time=00:00.6250/00:04.6250]C'est ça ! Va-t'en ! Je sais très bien
-qui tu essaies de fuir...[next]
-[id=3][time=00:04.6880/00:05.4690]C'est moi ![next]
-[id=4][time=00:00.1250/00:02.2190]Mais tu ne pourras pas t'enfuir éternellement ! [next]

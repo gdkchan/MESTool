@@ -1,4 +1,0 @@
-[id=0][time=00:02.0940/00:02.5000]Jeanne ![next]
-[id=1][time=00:00.0000/00:00.2340]Jeanne ![next]
-[id=1][time=00:00.8130/00:01.7500][0x01D4]a va ![next]
-[id=2][time=00:02.9060/00:05.0000]On y va ! Reste près de moi ![next]

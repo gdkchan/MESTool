@@ -1,4 +1,0 @@
-[id=2][time=00:00.5310/00:02.7190]I'm not afraid anymore, Mummy[next]
-[id=3][time=00:00.4060/00:01.4380]No matter what"[next]
-[id=4][time=00:00.0000/00:00.1880]No matter what"[next]
-[id=4][time=00:01.4060/00:03.4690]there's nothing I cannot do[next]

@@ -1,8 +1,0 @@
-Attack enemies to fill your
-[red]Magic Gauge[white]![next]
-
-If you take damage, your 
-[red]Magic Gauge[white] will decrease![next]
-
-Close in on enemies and finish them
-off with deadly [red]Torture Attacks[white]![next]

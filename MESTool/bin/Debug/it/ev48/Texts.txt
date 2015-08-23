@@ -1,8 +1,0 @@
-[id=1][time=00:00.8130/00:02.5000]Aaah... Jeanne.[next]
-[id=1][time=00:02.9690/00:06.0940]I tuoi servigi sono stati un benedizione.[next]
-[id=1][time=00:06.2810/00:10.0000]Mi spiace che la gelosia si agiti dentro te[next]
-[id=2][time=00:01.0630/00:04.2190]di fronte al solo e unico "occhio sinistro".[next]
-[id=2][time=00:04.5310/00:09.9380]Lo stesso tuo corpo
-deve bramarne il potere.[next]
-[id=2][time=00:10.7500/00:14.4060]Il mio obiettivo non è affatto l'occhio sinistro.[next]
-[id=2][time=00:14.9060/00:18.6560]Sono qui per salvare una sorella del mio clan.[next]

@@ -1,7 +1,0 @@
-[id=1][time=00:00.4690/00:05.5630]Le désastre engendré a entraîné
-la chute des deux clans vers le chaos.[next]
-[id=2][time=00:00.6560/00:03.7500]Une chute qui se fait encore ressentir à ce jour.[next]
-[id=4][time=00:00.4690/00:05.7500]C'est toi, la bâtarde de l'ombre et de la lumière,
-qui est à l'origine de ce chaos.[next]
-[id=4][time=00:06.1250/00:12.0940]Tant qu'on te laissera vivre,
-ce danger sera présent.[next]

@@ -1,6 +1,0 @@
-[id=4][time=00:00.0630/00:01.5630]Hé ![next]
-[id=5][time=00:00.0000/00:01.7190]Je suis pas encore mort ![next]
-[id=6][time=00:01.5630/00:02.4060]Vous pouvez pas m'enlever comme ça ![next]
-[id=7][time=00:00.0000/00:01.2810]Vous pouvez pas m'enlever comme ça ![next]
-[id=8][time=00:00.0000/00:01.1880]C'est contre le règlement, bordel ![next]
-[id=9][time=00:00.0000/00:02.3440]C'est contre le règlement, bordel ![next]

@@ -1,5 +1,0 @@
-[id=10][time=00:00.9060/00:01.9060]Bayonetta![next]
-[id=45][time=00:00.2810/00:01.9060]Now this is cheeky, throwing me these cheap toys![next]
-[id=46][time=00:00.0000/00:02.8130]Now this is cheeky, throwing me these cheap toys![next]
-[id=47][time=00:01.0310/00:02.9380]Don't worry about quality.[next]
-[id=47][time=00:03.0000/00:04.2190]I've got quantity![next]

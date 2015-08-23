@@ -1,8 +1,0 @@
-[id=9][time=00:00.0000/00:02.0310]Alors là, Bayonetta...[next]
-[id=10][time=00:00.1250/00:02.1250]Je dois reconnaître que tu m'impressionnes
-de plus en plus.[next]
-[id=12][time=00:00.0000/00:02.0630]Et tu n'as encore rien vu.[next]
-[id=13][time=00:01.2500/00:02.7500]Oh, je crois que j'en ai assez vu...[next]
-[id=15][time=00:02.9690/00:03.2810]Eh bien, tout est fini maintenant ?[next]
-[id=16][time=00:00.0000/00:01.8750]Eh bien, tout est fini maintenant ?[next]
-[id=18][time=00:01.3440/00:02.6560]Pas encore...[next]

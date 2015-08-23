@@ -1,3 +1,0 @@
-[id=1][time=00:00.6560/00:05.5310]I know you don't want me here, but you 
-really could have been more subtle about it.[next]
-[id=2][time=00:08.9690/00:15.6090][0x810C][next]

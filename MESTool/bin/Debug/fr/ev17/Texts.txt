@@ -1,7 +1,0 @@
-[id=4][time=00:00.5000/00:01.8750]Qui est là !?[next]
-[id=17][time=00:00.0160/00:04.0940]On arrête de jouer à cache-cache,
-petite souris.[next]
-[id=19][time=00:00.9530/00:03.1560]Un enfant ?[next]
-[id=20][time=00:00.4840/00:03.1880]Mais que fais-tu à Vigrid ?[next]
-[id=20][time=00:03.2500/00:06.3440]On ne peut pas dire que tu te
-sois habillée pour l'occasion. [next]

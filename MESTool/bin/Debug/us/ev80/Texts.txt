@@ -1,7 +1,0 @@
-[id=9][time=00:00.0000/00:02.0310]I've got to give you credit, Bayonetta.[next]
-[id=10][time=00:00.1250/00:02.1250]You never cease to impress. [next]
-[id=12][time=00:00.0000/00:02.0630]You haven't seen the half of it.[next]
-[id=13][time=00:01.2500/00:02.7500]Oh, I've seen enough...[next]
-[id=15][time=00:02.9690/00:03.2810]Well, that about wraps it up, huh? [next]
-[id=16][time=00:00.0000/00:01.8750]Well, that about wraps it up, huh? [next]
-[id=18][time=00:01.3440/00:02.6560]Not yet.[next]

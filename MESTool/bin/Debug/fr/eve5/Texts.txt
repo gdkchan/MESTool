@@ -1,6 +1,0 @@
-[id=0][time=00:07.1250/00:10.4690]Quand tu aimes quelque chose, ne le perds jamais.[next]
-[id=0][time=00:10.9060/00:12.7500]Tu m'entends, petite ?[next]
-[id=0][time=00:13.2190/00:17.0940]Tu dois le garder précieusement, près de ton cœur.[next]
-[id=0][time=00:20.3750/00:22.6560]Je n'ai plus peur, maman.[next]
-[id=0][time=00:23.1560/00:24.5630]Peu importe ce qui se passe..[next]
-[id=0][time=00:25.8130/00:28.0000]Je peux surmonter n'importe quel obstacle.[next]

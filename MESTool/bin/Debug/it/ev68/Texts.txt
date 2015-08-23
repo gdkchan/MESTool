@@ -1,3 +1,0 @@
-[id=3][time=00:00.6250/00:04.6250]Sei veloce a scappare,[next]
-[id=3][time=00:04.6880/00:05.4690]ma [next]
-[id=4][time=00:00.1250/00:02.2190]non puoi sfuggirmi per sempre![next]

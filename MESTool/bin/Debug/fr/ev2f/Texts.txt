@@ -1,7 +1,0 @@
-[id=11][time=00:00.0310/00:01.0310]On a fini de jouer ?[next]
-[id=12][time=00:00.0000/00:02.1250]Dans ce cas, je te rends ça, alors ![next]
-[id=13][time=00:00.0000/00:00.5940]Dans ce cas, je te rends ça, alors ![next]
-[id=21][time=00:02.5940/00:05.6250][0x8F02]Il avait raison ! Tellement raison ![next]
-[id=21][time=00:05.8750/00:09.6880][0x8F02]Tes yeux...[next]
-[id=34][time=00:00.5000/00:05.0000][0x8F02]Que la grâce de Jubileus le Créateur
-soit avec toi ![next]
