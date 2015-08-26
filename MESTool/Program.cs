@@ -9,6 +9,13 @@ namespace MESTool
 {
     public class Program
     {
+        private enum VGConsole
+        {
+            PS3,
+            X360
+        }
+        static VGConsole Platform = VGConsole.PS3;
+
         const string TimeFormat = @"mm\:ss\.ffff";
         static string[] Table = new string[0xffff];
         static ushort[] InvTable = new ushort[0xffff];
@@ -48,7 +55,7 @@ namespace MESTool
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Bayonetta *.mes Text Dumper/Creator by gdkchan");
-            Console.WriteLine("Version 0.2.2");
+            Console.WriteLine("Version 0.3.0");
             Console.CursorTop++;
             Console.ResetColor();
 
@@ -65,10 +72,25 @@ namespace MESTool
                 {
                     FileName = args[1];
                 }
+                else if (args.Length == 3)
+                {
+                    switch (args[1])
+                    {
+                        case "-ps3": Platform = VGConsole.PS3; break;
+                        case "-x360": Platform = VGConsole.X360; break;
+                        default:
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("Error: Invalid platform specified!");
+                            Console.CursorTop++;
+                            PrintUsage();
+                            return;
+                    }
+                    FileName = args[2];
+                }
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Error: Invalid number of parameters!");
+                    Console.WriteLine("Error: Invalid number of arguments!");
                     Console.CursorTop++;
                     PrintUsage();
                     return;
@@ -151,7 +173,7 @@ namespace MESTool
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Usage:");
             Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine("MESTool.exe [operation] [file|-all]");
+            Console.WriteLine("MESTool.exe [operation] [platform] [file|-all]");
             Console.CursorTop++;
             Console.WriteLine("[operation]");
             Console.WriteLine("-d  Dumps a *.mes file to a folder");
@@ -160,7 +182,11 @@ namespace MESTool
             Console.WriteLine("-ci  Creates a *.idd file from a folder");
             Console.WriteLine("-dt  Dumps a *.wtb file to a *.dds texture");
             Console.WriteLine("-ct  Creates a *.wtb file from a *.dds texture");
-
+            Console.CursorTop++;
+            Console.WriteLine("[platform]");
+            Console.WriteLine("-ps3  For the PS3 version of the game (default)");
+            Console.WriteLine("-x360  For the Xbox 360 version of the game");
+            Console.WriteLine("Note: This argument is only necessary when creating files");
             Console.CursorTop++;
             Console.WriteLine("-all  Manipulate all the files on the work directory");
             Console.CursorTop++;
@@ -480,6 +506,9 @@ namespace MESTool
 
         private static void DumpWTB(EndianBinaryReader Reader, string OutFileName)
         {
+            FileStream DDSOut = new FileStream(OutFileName, FileMode.Create);
+            BinaryWriter DDS = new BinaryWriter(DDSOut);
+
             uint WTBOffset = (uint)Reader.BaseStream.Position;
             uint WTBSignature = Reader.ReadUInt32();
             Reader.ReadUInt32();
@@ -491,78 +520,144 @@ namespace MESTool
             Reader.Seek(GTFPointerOffset, SeekOrigin.Begin);
             Reader.Seek(Reader.ReadUInt32() + WTBOffset, SeekOrigin.Begin);
 
-            #region "Texture parsing and DDS generation"
-            uint GTFVersion = Reader.ReadUInt32();
-            uint GTFLength = Reader.ReadUInt32();
-            uint GTFTextureCount = Reader.ReadUInt32();
-            uint GTFId = Reader.ReadUInt32();
-            uint GTFTextureDataOffset = Reader.ReadUInt32();
-            uint GTFTextureDataLength = Reader.ReadUInt32();
-            byte GTFTextureFormat = Reader.ReadByte();
-            byte GTFMipmaps = Reader.ReadByte();
-            byte GTFDimension = Reader.ReadByte();
-            byte GTFCubemaps = Reader.ReadByte();
-            uint GTFRemap = Reader.ReadUInt32();
-            ushort GTFTextureWidth = Reader.ReadUInt16();
-            ushort GTFTextureHeight = Reader.ReadUInt16();
-            ushort GTFDepth = Reader.ReadUInt16();
-            ushort GTFPitch = Reader.ReadUInt16();
-            ushort GTFLocation = Reader.ReadUInt16();
-            ushort GTFTextureOffset = Reader.ReadUInt16();
-            Reader.Seek(8, SeekOrigin.Current);
+            uint Signature = Reader.ReadUInt32();
 
-            bool isSwizzle = (GTFTextureFormat & 0x20) == 0;
-            bool isNormalized = (GTFTextureFormat & 0x40) == 0;
-            GTFTextureFormat = (byte)(GTFTextureFormat & ~0x60);
-
-            byte[] TextureData = new byte[GTFTextureDataLength];
-            Reader.Read(TextureData, 0, TextureData.Length);
-
-            FileStream DDSOut = new FileStream(OutFileName, FileMode.Create);
-            BinaryWriter DDS = new BinaryWriter(DDSOut);
-
-            DDS.Write(0x20534444); //DDS Signature
-            DDS.Write((uint)0x7c); //Header size (without the signature)
-            DDS.Write((uint)0x00021007); //DDS Flags
-            DDS.Write((uint)GTFTextureHeight);
-            DDS.Write((uint)GTFTextureWidth);
-            DDS.Write((uint)GTFPitch);
-            DDS.Write((uint)GTFDepth);
-            DDS.Write((uint)GTFMipmaps);
-            DDSOut.Seek(0x2c, SeekOrigin.Current); //Reserved space for future use
-            DDS.Write((uint)0x20); //PixelFormat structure size (32 bytes)
-
-            uint PixelFlags = 0;
-            if (GTFTextureFormat >= 0x86 && GTFTextureFormat <= 0x88) PixelFlags = 4; //Is DXT Compressed
-            else PixelFlags = 0x40; //Isn't compressed
-            DDS.Write(PixelFlags);
-
-            switch (GTFTextureFormat)
+            if (!(Signature == 3)) //PS3
             {
-                case 0x86: DDS.Write(Encoding.ASCII.GetBytes("DXT1")); break;
-                case 0x87: DDS.Write(Encoding.ASCII.GetBytes("DXT3")); break;
-                case 0x88: DDS.Write(Encoding.ASCII.GetBytes("DXT5")); break;
-                default:
-                    DDS.Write((uint)0);
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("Warning: Unsupported GTF format!");
-                    Console.ResetColor();
-                    break;
-            }
-            DDSOut.Seek(20, SeekOrigin.Current);
+                uint GTFLength = Reader.ReadUInt32();
+                uint GTFTextureCount = Reader.ReadUInt32();
+                uint GTFId = Reader.ReadUInt32();
+                uint GTFTextureDataOffset = Reader.ReadUInt32();
+                uint GTFTextureDataLength = Reader.ReadUInt32();
+                byte GTFTextureFormat = Reader.ReadByte();
+                byte GTFMipmaps = Reader.ReadByte();
+                byte GTFDimension = Reader.ReadByte();
+                byte GTFCubemaps = Reader.ReadByte();
+                uint GTFRemap = Reader.ReadUInt32();
+                ushort GTFTextureWidth = Reader.ReadUInt16();
+                ushort GTFTextureHeight = Reader.ReadUInt16();
+                ushort GTFDepth = Reader.ReadUInt16();
+                ushort GTFPitch = Reader.ReadUInt16();
+                ushort GTFLocation = Reader.ReadUInt16();
+                ushort GTFTextureOffset = Reader.ReadUInt16();
+                Reader.Seek(8, SeekOrigin.Current);
 
-            DDS.Write((uint)0x400000); //Caps 1
-            if (GTFCubemaps > 0) DDS.Write((uint)0x200); else DDS.Write((uint)0); //Caps 2
-            DDS.Write((uint)0); //Unused stuff
-            DDS.Write((uint)0);
-            DDS.Write((uint)0);
-            DDS.Write(TextureData);
+                bool isSwizzle = (GTFTextureFormat & 0x20) == 0;
+                bool isNormalized = (GTFTextureFormat & 0x40) == 0;
+                GTFTextureFormat = (byte)(GTFTextureFormat & ~0x60);
+
+                byte[] TextureData = new byte[GTFTextureDataLength];
+                Reader.Read(TextureData, 0, TextureData.Length);
+
+                DDS.Write(0x20534444); //DDS Signature
+                DDS.Write((uint)0x7c); //Header size (without the signature)
+                DDS.Write((uint)0x00021007); //DDS Flags
+                DDS.Write((uint)GTFTextureHeight);
+                DDS.Write((uint)GTFTextureWidth);
+                DDS.Write((uint)GTFPitch);
+                DDS.Write((uint)GTFDepth);
+                DDS.Write((uint)GTFMipmaps);
+                DDSOut.Seek(0x2c, SeekOrigin.Current); //Reserved space for future use
+                DDS.Write((uint)0x20); //PixelFormat structure size (32 bytes)
+
+                uint PixelFlags = 0;
+                if (GTFTextureFormat >= 0x86 && GTFTextureFormat <= 0x88) PixelFlags = 4; //Is DXT Compressed
+                else PixelFlags = 0x40; //Isn't compressed
+                DDS.Write(PixelFlags);
+
+                switch (GTFTextureFormat)
+                {
+                    case 0x86: DDS.Write(Encoding.ASCII.GetBytes("DXT1")); break;
+                    case 0x87: DDS.Write(Encoding.ASCII.GetBytes("DXT3")); break;
+                    case 0x88: DDS.Write(Encoding.ASCII.GetBytes("DXT5")); break;
+                    default:
+                        DDS.Write((uint)0);
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.WriteLine("Warning: Unsupported GTF format!");
+                        Console.ResetColor();
+                        break;
+                }
+                DDSOut.Seek(20, SeekOrigin.Current);
+
+                DDS.Write((uint)0x400000); //Caps 1
+                if (GTFCubemaps > 0) DDS.Write((uint)0x200); else DDS.Write((uint)0); //Caps 2
+                DDS.Write((uint)0); //Unused stuff
+                DDS.Write((uint)0);
+                DDS.Write((uint)0);
+                DDS.Write(TextureData);
+            }
+            else //Xbox 360
+            {
+                uint Count = Reader.ReadUInt32();
+                Reader.Seek(0xc, SeekOrigin.Current);
+                Reader.ReadUInt32(); //0xFFFF0000
+                Reader.ReadUInt32(); //0xFFFF0000
+                Reader.ReadUInt32(); //0x81000002
+                uint TextureFormat = Reader.ReadUInt32();
+                uint TextureDescriptor = Reader.ReadUInt32();
+                Reader.ReadUInt32(); //0xD10
+                uint Mipmaps = (Reader.ReadUInt32() >> 6) & 7;
+                uint Length = Reader.ReadUInt32();
+
+                uint Width = (TextureDescriptor & 0x1fff) + 1;
+                uint Height = ((TextureDescriptor >> 13) & 0x1fff) + 1;
+
+                byte[] TextureData = new byte[Length];
+                Reader.Read(TextureData, 0, TextureData.Length);
+                TextureData = XEndian16(TextureData);
+                TextureData = XTextureScramble(TextureData, Width, Height, (DXTType)TextureFormat);
+
+                DDS.Write(0x20534444); //DDS Signature
+                DDS.Write((uint)0x7c); //Header size (without the signature)
+                DDS.Write((uint)0x00021007); //DDS Flags
+                DDS.Write(Height);
+                DDS.Write(Width);
+                DDS.Write((uint)0);
+                DDS.Write((uint)0);
+                DDS.Write((uint)Mipmaps);
+                DDSOut.Seek(0x2c, SeekOrigin.Current); //Reserved space for future use
+                DDS.Write((uint)0x20); //PixelFormat structure size (32 bytes)
+
+                uint PixelFlags = 0;
+                if (TextureFormat >= 0x52 && TextureFormat <= 0x54) PixelFlags = 4; //Is DXT Compressed
+                else PixelFlags = 0x40; //Isn't compressed
+                DDS.Write(PixelFlags);
+
+                switch (TextureFormat)
+                {
+                    case 0x52: DDS.Write(Encoding.ASCII.GetBytes("DXT1")); break;
+                    case 0x53: DDS.Write(Encoding.ASCII.GetBytes("DXT3")); break;
+                    case 0x54: DDS.Write(Encoding.ASCII.GetBytes("DXT5")); break;
+                    default:
+                        DDS.Write((uint)0);
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.WriteLine("Warning: Unsupported X360 texture format!");
+                        Console.ResetColor();
+                        break;
+                }
+                DDSOut.Seek(20, SeekOrigin.Current);
+
+                DDS.Write((uint)0x400000); //Caps 1
+                DDS.Write((uint)0); //Caps 2
+                DDS.Write((uint)0); //Unused stuff
+                DDS.Write((uint)0);
+                DDS.Write((uint)0);
+                DDS.Write(TextureData);
+            }
+
             DDS.Close();
-            #endregion
         }
 
         private static void Create(string Folder)
         {
+            if (!Directory.Exists(Folder))
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Error: Folder " + Path.GetFileName(Folder) + " not found!");
+                Console.ResetColor();
+                return;
+            }
+
             string TextsFile = Path.Combine(Folder, "Texts.txt");
             string TexMapFile = Path.Combine(Folder, "TextureMap.xml");
             string TextureFile = Path.Combine(Folder, "Texture.dds");
@@ -893,10 +988,6 @@ namespace MESTool
             Writer.Write((uint)0x20);
             Writer.Write((uint)0x40);
             Writer.Write((uint)0x60);
-            Writer.Seek(WTBOffset + 0x20, SeekOrigin.Begin);
-            Writer.Write((uint)0xcc);
-            Writer.Seek(WTBOffset + 0x60, SeekOrigin.Begin);
-            Writer.Write((uint)0x40000000);
 
             FileStream DDSIn = new FileStream(TextureFile, FileMode.Open);
             BinaryReader DDS = new BinaryReader(DDSIn);
@@ -904,13 +995,6 @@ namespace MESTool
             uint DDSLength = (uint)(DDSIn.Length - 0x80);
             uint DDSPaddedLength = DDSLength;
             while ((DDSPaddedLength & 0x7f) != 0) DDSPaddedLength++;
-            Writer.Seek(WTBOffset + 0xcc, SeekOrigin.Begin);
-            Writer.Write((uint)0x1040100);
-            Writer.Write(DDSPaddedLength);
-            Writer.Write((uint)1);
-            Writer.Write((uint)0);
-            Writer.Write((uint)0x80);
-            Writer.Write(DDSLength);
 
             DDSIn.Seek(0xc, SeekOrigin.Begin);
             uint Height = DDS.ReadUInt32();
@@ -923,38 +1007,213 @@ namespace MESTool
             byte[] FCC = new byte[4];
             DDS.Read(FCC, 0, FCC.Length);
             string FourCC = Encoding.ASCII.GetString(FCC);
-            switch (FourCC)
-            {
-                case "DXT1": Writer.Write((byte)0x86); break;
-                case "DXT3": Writer.Write((byte)0x87); break;
-                case "DXT5": Writer.Write((byte)0x88); break;
-                default:
-                    Writer.Write((byte)0);
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("Warning: Unsupported DDS format!");
-                    Console.ResetColor();
-                    break;
-            }
-            Writer.Write((byte)Mipmaps);
-            Writer.Write((byte)2);
-            Writer.Write((byte)0);
-            Writer.Write((uint)0xAAE4);
-            Writer.Write((ushort)Width);
-            Writer.Write((ushort)Height);
-            Writer.Write((ushort)1);
-            Writer.Seek(0xe, SeekOrigin.Current);
 
             DDSIn.Seek(0x80, SeekOrigin.Begin);
             byte[] TextureData = new byte[DDSIn.Length - 0x80];
             DDS.Read(TextureData, 0, TextureData.Length);
-            Writer.Write(TextureData);
-            while (((Writer.BaseStream.Position - BaseOffset) & 0x7f) != 0) Writer.Write((byte)0xee);
-    
-            DDSIn.Close();
+            uint Length;
 
-            uint Length = (uint)(Writer.BaseStream.Position - WTBOffset);
-            Writer.Seek(WTBOffset + 0x40, SeekOrigin.Begin);
-            Writer.Write(Length);
+            switch (Platform)
+            {
+                case VGConsole.PS3:
+                    Writer.Seek(WTBOffset + 0x20, SeekOrigin.Begin);
+                    Writer.Write((uint)0xcc);
+                    Writer.Seek(WTBOffset + 0x60, SeekOrigin.Begin);
+                    Writer.Write((uint)0x40000000);
+
+                    Writer.Seek(WTBOffset + 0xcc, SeekOrigin.Begin);
+                    Writer.Write((uint)0x1040100);
+                    Writer.Write(DDSPaddedLength);
+                    Writer.Write((uint)1);
+                    Writer.Write((uint)0);
+                    Writer.Write((uint)0x80);
+                    Writer.Write(DDSLength);
+
+                    switch (FourCC)
+                    {
+                        case "DXT1": Writer.Write((byte)0x86); break;
+                        case "DXT3": Writer.Write((byte)0x87); break;
+                        case "DXT5": Writer.Write((byte)0x88); break;
+                        default:
+                            Writer.Write((byte)0);
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.WriteLine("Warning: Unsupported DDS format!");
+                            Console.ResetColor();
+                            break;
+                    }
+                    Writer.Write((byte)Mipmaps);
+                    Writer.Write((byte)2);
+                    Writer.Write((byte)0);
+                    Writer.Write((uint)0xAAE4);
+                    Writer.Write((ushort)Width);
+                    Writer.Write((ushort)Height);
+                    Writer.Write((ushort)1);
+                    Writer.Seek(0xe, SeekOrigin.Current);
+
+                    Writer.Write(TextureData);
+                    while (((Writer.BaseStream.Position - BaseOffset) & 0x7f) != 0) Writer.Write((byte)0xee);
+
+                    DDSIn.Close();
+
+                    Length = (uint)(Writer.BaseStream.Position - WTBOffset);
+                    Writer.Seek(WTBOffset + 0x40, SeekOrigin.Begin);
+                    Writer.Write(Length);
+
+                    break;
+                case VGConsole.X360:
+                    Writer.Seek(WTBOffset + 0x20, SeekOrigin.Begin);
+                    Writer.Write((uint)0xfcc);
+                    Writer.Seek(WTBOffset + 0x60, SeekOrigin.Begin);
+                    Writer.Write((uint)0x40000000);
+                    Writer.Write((uint)0x40000000);
+
+                    Writer.Seek(WTBOffset + 0xfcc, SeekOrigin.Begin);
+                    Writer.Write((uint)3);
+                    Writer.Write((uint)1);
+                    Writer.Write((uint)0);
+                    Writer.Write((uint)0);
+                    Writer.Write((uint)0);
+                    Writer.Write(0xffff0000);
+                    Writer.Write(0xffff0000);
+                    Writer.Write(0x81000002);
+
+                    DXTType Type = DXTType.DXT1;
+                    switch (FourCC)
+                    {
+                        case "DXT1":
+                            Writer.Write((uint)0x52);
+                            Type = DXTType.DXT1;
+                            break;
+                        case "DXT3":
+                            Writer.Write((uint)0x53);
+                            Type = DXTType.DXT3;
+                            break;
+                        case "DXT5":
+                            Writer.Write((uint)0x54);
+                            Type = DXTType.DXT5;
+                            break;
+                        default:
+                            Writer.Write((uint)0);
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.WriteLine("Warning: Unsupported DDS format!");
+                            Console.ResetColor();
+                            break;
+                    }
+                    Writer.Write(((Width - 1) & 0x1fff) | (((Height - 1) & 0x1fff) << 13));
+                    Writer.Write((uint)0xd10);
+                    Writer.Write((Mipmaps - 1) << 6);
+                    Writer.Write(DDSLength);
+
+                    Writer.Write(XEndian16(XTextureScramble(TextureData, Width, Height, Type, true)));
+                    while (((Writer.BaseStream.Position - BaseOffset) & 0x7f) != 0) Writer.Write((byte)0xee);
+
+                    DDSIn.Close();
+
+                    Length = (uint)(Writer.BaseStream.Position - WTBOffset);
+                    Writer.Seek(WTBOffset + 0x40, SeekOrigin.Begin);
+                    Writer.Write(Length);
+
+                    break;
+            }
+        }
+
+        private enum DXTType
+        {
+            DXT1 = 0x52,
+            DXT3 = 0x53,
+            DXT5 = 0x54
+        }
+
+        private static byte[] XEndian16(byte[] Data)
+        {
+            byte[] Output = new byte[Data.Length];
+
+            for (int i = 0; i < Data.Length; i += 2)
+            {
+                Output[i] = Data[i + 1];
+                Output[i + 1] = Data[i];
+            }
+
+            return Output;
+        }
+
+        //This code was adapted from GTA XTD Viewer tool
+        private static byte[] XTextureScramble(byte[] Data, uint Width, uint Height, DXTType Type, bool ToLinear = false)
+        {
+            byte[] Output = new byte[Data.Length];
+
+            int BlockSize = 0;
+            int TexelPitch = 0;
+
+            switch (Type)
+            {
+                case DXTType.DXT1:
+                    BlockSize = 4;
+                    TexelPitch = 8;
+                    break;
+                case DXTType.DXT3:
+                case DXTType.DXT5:
+                    BlockSize = 4;
+                    TexelPitch = 16;
+                    break;
+            }
+
+            int BlockWidth = (int)Width / BlockSize;
+            int BlockHeight = (int)Height / BlockSize;
+
+            for (int j = 0; j < BlockHeight; j++)
+            {
+                for (int i = 0; i < BlockWidth; i++)
+                {
+                    int BlockOffset = j * BlockWidth + i;
+
+                    int X = XGAddress2DTiledX(BlockOffset, BlockWidth, TexelPitch);
+                    int Y = XGAddress2DTiledY(BlockOffset, BlockWidth, TexelPitch);
+
+                    int SrcOffset = j * BlockWidth * TexelPitch + i * TexelPitch;
+                    int DestOffset = Y * BlockWidth * TexelPitch + X * TexelPitch;
+                    if (ToLinear)
+                        Buffer.BlockCopy(Data, DestOffset, Output, SrcOffset, TexelPitch);
+                    else
+                        Buffer.BlockCopy(Data, SrcOffset, Output, DestOffset, TexelPitch);
+                }
+            }
+
+            return Output;
+        }
+
+        internal static int XGAddress2DTiledX(int Offset, int Width, int TexelPitch)
+        {
+            int AlignedWidth = (Width + 31) & ~31;
+
+            int LogBpp = (TexelPitch >> 2) + ((TexelPitch >> 1) >> (TexelPitch >> 2));
+            int OffsetB = Offset << LogBpp;
+            int OffsetT = ((OffsetB & ~4095) >> 3) + ((OffsetB & 1792) >> 2) + (OffsetB & 63);
+            int OffsetM = OffsetT >> (7 + LogBpp);
+
+            int MacroX = ((OffsetM % (AlignedWidth >> 5)) << 2);
+            int Tile = ((((OffsetT >> (5 + LogBpp)) & 2) + (OffsetB >> 6)) & 3);
+            int Macro = (MacroX + Tile) << 3;
+            int Micro = ((((OffsetT >> 1) & ~15) + (OffsetT & 15)) & ((TexelPitch << 3) - 1)) >> LogBpp;
+
+            return Macro + Micro;
+        }
+
+        internal static int XGAddress2DTiledY(int Offset, int Width, int TexelPitch)
+        {
+            int AlignedWidth = (Width + 31) & ~31;
+
+            int LogBpp = (TexelPitch >> 2) + ((TexelPitch >> 1) >> (TexelPitch >> 2));
+            int OffsetB = Offset << LogBpp;
+            int OffsetT = ((OffsetB & ~4095) >> 3) + ((OffsetB & 1792) >> 2) + (OffsetB & 63);
+            int OffsetM = OffsetT >> (7 + LogBpp);
+
+            int MacroY = ((OffsetM / (AlignedWidth >> 5)) << 2);
+            int Tile = ((OffsetT >> (6 + LogBpp)) & 1) + (((OffsetB & 2048) >> 10));
+            int Macro = (MacroY + Tile) << 3;
+            int Micro = ((((OffsetT & (((TexelPitch << 6) - 1) & ~31)) + ((OffsetT & 15) << 1)) >> (3 + LogBpp)) & ~1);
+
+            return Macro + Micro + ((OffsetT & 16) >> 4);
         }
     }
 }
