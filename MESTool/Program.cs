@@ -55,7 +55,7 @@ namespace MESTool
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Bayonetta *.mes Text Dumper/Creator by gdkchan");
-            Console.WriteLine("Version 0.3.0");
+            Console.WriteLine("Version 0.3.5");
             Console.CursorTop++;
             Console.ResetColor();
 
@@ -283,7 +283,10 @@ namespace MESTool
 
             uint TextureSectionOffset = Reader.ReadUInt32();
             uint TextCount = Reader.ReadUInt32();
-            Reader.ReadInt32(); //-1
+            int TutorialDialogsCount = Reader.ReadInt32();
+
+            if (TutorialDialogsCount > -1)
+                File.WriteAllText(Path.Combine(OutDir, "DialogSettings.txt"), "TutorialDialogsCount=" + TutorialDialogsCount);
 
             /*
              * Texts
@@ -512,13 +515,17 @@ namespace MESTool
             uint WTBOffset = (uint)Reader.BaseStream.Position;
             uint WTBSignature = Reader.ReadUInt32();
             Reader.ReadUInt32();
-            uint GTFCount = Reader.ReadUInt32();
-            uint GTFPointerOffset = Reader.ReadUInt32() + WTBOffset;
+            uint TextureCount = Reader.ReadUInt32();
+            uint TexturePointerOffset = Reader.ReadUInt32() + WTBOffset;
             uint SectionLengthOffset = Reader.ReadUInt32() + WTBOffset;
             uint UnknowDataOffset = Reader.ReadUInt32() + WTBOffset;
 
-            Reader.Seek(GTFPointerOffset, SeekOrigin.Begin);
-            Reader.Seek(Reader.ReadUInt32() + WTBOffset, SeekOrigin.Begin);
+            Reader.Seek(SectionLengthOffset, SeekOrigin.Begin);
+            uint SectionLength = Reader.ReadUInt32();
+
+            Reader.Seek(TexturePointerOffset, SeekOrigin.Begin);
+            uint TextureOffset = Reader.ReadUInt32();
+            Reader.Seek(TextureOffset + WTBOffset, SeekOrigin.Begin);
 
             uint Signature = Reader.ReadUInt32();
 
@@ -587,7 +594,7 @@ namespace MESTool
                 DDS.Write(TextureData);
             }
             else //Xbox 360
-            {
+            { 
                 uint Count = Reader.ReadUInt32();
                 Reader.Seek(0xc, SeekOrigin.Current);
                 Reader.ReadUInt32(); //0xFFFF0000
@@ -596,13 +603,22 @@ namespace MESTool
                 uint TextureFormat = Reader.ReadUInt32();
                 uint TextureDescriptor = Reader.ReadUInt32();
                 Reader.ReadUInt32(); //0xD10
-                uint Mipmaps = (Reader.ReadUInt32() >> 6) & 7;
-                uint Length = Reader.ReadUInt32();
+                uint Mipmaps = ((Reader.ReadUInt32() >> 6) & 7) + 1;
+                uint OriginalLength = Reader.ReadUInt32();
 
                 uint Width = (TextureDescriptor & 0x1fff) + 1;
                 uint Height = ((TextureDescriptor >> 13) & 0x1fff) + 1;
 
-                byte[] TextureData = new byte[Length];
+                StringBuilder TexDescriptor = new StringBuilder();
+                TexDescriptor.AppendLine("Width=" + Width.ToString());
+                TexDescriptor.AppendLine("Height=" + Height.ToString());
+                TexDescriptor.AppendLine("UnpaddedLength=" + OriginalLength.ToString());
+                File.WriteAllText(Path.Combine(Path.GetDirectoryName(OutFileName), "TextureSettings.txt"), TexDescriptor.ToString());
+
+                Width = Math.Max(Width, 128);
+                Height = Math.Max(Height, 128);
+
+                byte[] TextureData = new byte[SectionLength - (TextureOffset + 0x34)];
                 Reader.Read(TextureData, 0, TextureData.Length);
                 TextureData = XEndian16(TextureData);
                 TextureData = XTextureScramble(TextureData, Width, Height, (DXTType)TextureFormat);
@@ -659,6 +675,7 @@ namespace MESTool
             }
 
             string TextsFile = Path.Combine(Folder, "Texts.txt");
+            string DlgSettingsFile = Path.Combine(Folder, "DialogSettings.txt");
             string TexMapFile = Path.Combine(Folder, "TextureMap.xml");
             string TextureFile = Path.Combine(Folder, "Texture.dds");
 
@@ -674,7 +691,24 @@ namespace MESTool
 
                 Writer.Write((uint)0);
                 Writer.Write((uint)Texts.Length);
-                Writer.Write(-1);
+                if (File.Exists(DlgSettingsFile))
+                {
+                    string[] Lines = File.ReadAllLines(DlgSettingsFile);
+
+                    foreach (string Line in Lines)
+                    {
+                        if (Line.Contains("="))
+                        {
+                            string[] Parameters = Line.Split(Convert.ToChar("="));
+                            switch (Parameters[0])
+                            {
+                                case "TutorialDialogsCount": Writer.Write(int.Parse(Parameters[1])); break;
+                            }
+                        }
+                    }
+                }
+                else
+                    Writer.Write(-1);
 
                 uint Index = 0;
                 foreach (string Text in Texts)
@@ -824,7 +858,15 @@ namespace MESTool
                 }
 
                 Output.Seek(Output.Length, SeekOrigin.Begin);
-                while ((Output.Position & 0x7ff) != 0) Writer.Write((byte)0);
+                switch (Platform)
+                {
+                    case VGConsole.PS3:
+                        while ((Output.Position & 0x7ff) != 0) Writer.Write((byte)0);
+                        break;
+                    case VGConsole.X360:
+                        while (((Output.Position + 0x34) & 0x1fff) != 0) Writer.Write((byte)0);
+                        break;
+                }
                 Output.Close();
 
                 Console.ForegroundColor = ConsoleColor.Green;
@@ -1061,10 +1103,32 @@ namespace MESTool
 
                     break;
                 case VGConsole.X360:
+                    uint PaddedWidth = Width;
+                    uint PaddedHeight = Height;
+
+                    string TextureSettings = Path.Combine(Path.GetDirectoryName(TextureFile), "TextureSettings.txt");
+                    if (File.Exists(TextureSettings))
+                    {
+                        string[] Lines = File.ReadAllLines(TextureSettings);
+
+                        foreach (string Line in Lines)
+                        {
+                            if (Line.Contains("="))
+                            {
+                                string[] Parameters = Line.Split(Convert.ToChar("="));
+                                switch (Parameters[0])
+                                {
+                                    case "Width": Width = uint.Parse(Parameters[1]); break;
+                                    case "Height": Height = uint.Parse(Parameters[1]); break;
+                                    case "UnpaddedLength": DDSLength = uint.Parse(Parameters[1]); break;
+                                }
+                            }
+                        }
+                    }
+
                     Writer.Seek(WTBOffset + 0x20, SeekOrigin.Begin);
                     Writer.Write((uint)0xfcc);
                     Writer.Seek(WTBOffset + 0x60, SeekOrigin.Begin);
-                    Writer.Write((uint)0x40000000);
                     Writer.Write((uint)0x40000000);
 
                     Writer.Seek(WTBOffset + 0xfcc, SeekOrigin.Begin);
@@ -1104,8 +1168,7 @@ namespace MESTool
                     Writer.Write((Mipmaps - 1) << 6);
                     Writer.Write(DDSLength);
 
-                    Writer.Write(XEndian16(XTextureScramble(TextureData, Width, Height, Type, true)));
-                    while (((Writer.BaseStream.Position - BaseOffset) & 0x7f) != 0) Writer.Write((byte)0xee);
+                    Writer.Write(XEndian16(XTextureScramble(TextureData, PaddedWidth, PaddedHeight, Type, true)));
 
                     DDSIn.Close();
 
