@@ -66,32 +66,6 @@ namespace MESTool
             Write(BitConverter.ToUInt32(BitConverter.GetBytes(Value), 0));
         }
 
-        public void Write(ulong Value)
-        {
-            if (Endian == EndianBinary.Endian.Little)
-            {
-                BaseStream.WriteByte((byte)(Value & 0xff));
-                BaseStream.WriteByte((byte)(Value >> 8));
-                BaseStream.WriteByte((byte)(Value >> 16));
-                BaseStream.WriteByte((byte)(Value >> 24));
-                BaseStream.WriteByte((byte)(Value >> 32));
-                BaseStream.WriteByte((byte)(Value >> 40));
-                BaseStream.WriteByte((byte)(Value >> 48));
-                BaseStream.WriteByte((byte)(Value >> 56));
-            }
-            else
-            {
-                BaseStream.WriteByte((byte)(Value >> 56));
-                BaseStream.WriteByte((byte)(Value >> 48));
-                BaseStream.WriteByte((byte)(Value >> 40));
-                BaseStream.WriteByte((byte)(Value >> 32));
-                BaseStream.WriteByte((byte)(Value >> 24));
-                BaseStream.WriteByte((byte)(Value >> 16));
-                BaseStream.WriteByte((byte)(Value >> 8));
-                BaseStream.WriteByte((byte)(Value & 0xff));
-            }
-        }
-
         public void Write(byte[] Buff)
         {
             BaseStream.Write(Buff, 0, Buff.Length);

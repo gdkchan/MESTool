@@ -56,28 +56,6 @@ namespace MESTool
             return BitConverter.ToSingle(BitConverter.GetBytes(ReadUInt32()), 0);
         }
 
-        public ulong ReadUInt64()
-        {
-            if (Endian == EndianBinary.Endian.Little)
-                return (ulong)(BaseStream.ReadByte() |
-                    (BaseStream.ReadByte() << 8) |
-                    (BaseStream.ReadByte() << 16) |
-                    (BaseStream.ReadByte() << 24) |
-                    (BaseStream.ReadByte() << 32) |
-                    (BaseStream.ReadByte() << 40) |
-                    (BaseStream.ReadByte() << 48) | 
-                    (BaseStream.ReadByte() << 56));
-            else
-                return (ulong)((BaseStream.ReadByte() << 56) |
-                    (BaseStream.ReadByte() << 48) |
-                    (BaseStream.ReadByte() << 40) |
-                    (BaseStream.ReadByte() << 32) |
-                    (BaseStream.ReadByte() << 24) |
-                    (BaseStream.ReadByte() << 16) |
-                    (BaseStream.ReadByte() << 8) |
-                    BaseStream.ReadByte());
-        }
-
         public void Read(byte[] Buff, int Index, int Length)
         {
             BaseStream.Read(Buff, Index, Length);

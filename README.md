@@ -5,3 +5,5 @@ This tool will allow you to edit the texts inside the *.mes files on the Bayonet
 This extra font is mapped starting from the value 0x1000. It contains variated characters depending on the mes file. Usually it contains the space " " character at 0x1000, that is not visible at all on the texture.
 The japanese mes files uses those textures to store all the Kanji characters.
 The XML file contains the mapping of those characters.
+
+Note: Starting from version 0.4.0, IDD and WTB options have been removed. New IDD tool can be found [here](https://github.com/gdkchan/IDDTool).
