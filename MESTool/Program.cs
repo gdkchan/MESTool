@@ -33,7 +33,7 @@ namespace MESTool
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Bayonetta *.mes Text Dumper/Creator by gdkchan");
-            Console.WriteLine("Version 0.5.0");
+            Console.WriteLine("Version 0.5.1");
             Console.WriteLine(string.Empty);
             Console.ResetColor();
 
@@ -55,7 +55,7 @@ namespace MESTool
                         case "-ps3":  Plat = Platform.PS3;  break;
                         case "-x360": Plat = Platform.X360; break;
                         case "-pc":   Plat = Platform.PC;   break;
-                        case "-raw":  Plat = Platform.WiiU; break;
+                        case "-wiiu": Plat = Platform.WiiU; break;
                         default:
                             Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("Error: Invalid platform specified!");
@@ -418,7 +418,7 @@ namespace MESTool
                     case 0x88: DDS.Write(Encoding.ASCII.GetBytes("DXT5")); break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Warning: Unsupported texture format! Use the -raw option!");
+                        Console.WriteLine("Warning: Unsupported texture format! " + GTFTextureFormat.ToString("x2"));
                         Console.ResetColor();
                         DDSOut.Close();
                         File.Delete(OutFileName);
@@ -486,7 +486,7 @@ namespace MESTool
                     case 0x54: DDS.Write(Encoding.ASCII.GetBytes("DXT5")); break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Warning: Unsupported texture format!");
+                        Console.WriteLine("Warning: Unsupported texture format! " + TextureFormat.ToString("x2"));
                         Console.ResetColor();
                         DDSOut.Close();
                         File.Delete(OutFileName);
