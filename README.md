@@ -6,4 +6,7 @@ This extra font is mapped starting from the value 0x1000. It contains variated c
 The japanese mes files uses those textures to store all the Kanji characters.
 The XML file contains the mapping of those characters.
 
-Note: Starting from version 0.4.0, IDD and WTB options have been removed. New IDD tool can be found [here](https://github.com/gdkchan/IDDTool).
+Notes:
+- Starting from version 0.4.0, IDD and WTB options have been removed. New IDD tool can be found [here](https://github.com/gdkchan/IDDTool).
+- Version 0.5.0 adds support for the PC version. Both PC and WiiU will export then texture as raw WTB files, instead of converting to DDS.
+- This tool will be removed soon cause the code become pretty messy already. I don't have plans to do a rewrite.

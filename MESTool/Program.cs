@@ -9,21 +9,22 @@ namespace MESTool
 {
     public class Program
     {
-        private enum VGConsole
+        private enum Platform
         {
             PS3,
             X360,
-            DontCare
+            PC,
+            WiiU
         }
 
-        static VGConsole Platform = VGConsole.PS3;
+        static Platform Plat = Platform.PS3;
 
         const string TimeFormat = @"mm\:ss\.ffff";
         static string[] Table = new string[0x10000];
 
         static void Main(string[] args)
         {
-            string[] TblEntries = Properties.Resources.CharTable.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+            string[] TblEntries = Properties.Resources.CharTable.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.None);
             foreach (string Entry in TblEntries)
             {
                 string[] Parameters = Entry.Split(Convert.ToChar("="));
@@ -32,8 +33,8 @@ namespace MESTool
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Bayonetta *.mes Text Dumper/Creator by gdkchan");
-            Console.WriteLine("Version 0.4.0");
-            Console.CursorTop++;
+            Console.WriteLine("Version 0.5.0");
+            Console.WriteLine(string.Empty);
             Console.ResetColor();
 
             if (args.Length == 0)
@@ -51,24 +52,14 @@ namespace MESTool
                 {
                     switch (args[1])
                     {
-                        case "-ps3": Platform = VGConsole.PS3; break;
-                        case "-x360": Platform = VGConsole.X360; break;
-                        case "-raw":
-                            if (Operation == "-d")
-                                Platform = VGConsole.DontCare;
-                            else
-                            {
-                                Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine("Error: -raw argument can only be used when extracting files!");
-                                Console.CursorTop++;
-                                PrintUsage();
-                                return;
-                            }
-                            break;
+                        case "-ps3":  Plat = Platform.PS3;  break;
+                        case "-x360": Plat = Platform.X360; break;
+                        case "-pc":   Plat = Platform.PC;   break;
+                        case "-raw":  Plat = Platform.WiiU; break;
                         default:
                             Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("Error: Invalid platform specified!");
-                            Console.CursorTop++;
+                            Console.WriteLine(string.Empty);
                             PrintUsage();
                             return;
                     }
@@ -78,7 +69,7 @@ namespace MESTool
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Error: Invalid number of arguments!");
-                    Console.CursorTop++;
+                    Console.WriteLine(string.Empty);
                     PrintUsage();
                     return;
                 }
@@ -108,7 +99,7 @@ namespace MESTool
                     default:
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("Error: Invalid operation specified!");
-                        Console.CursorTop++;
+                        Console.WriteLine(string.Empty);
                         PrintUsage();
                         break;
                 }
@@ -120,24 +111,25 @@ namespace MESTool
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Usage:");
             Console.ForegroundColor = ConsoleColor.Gray;
+
             Console.WriteLine("MESTool.exe [operation] [platform] [file|-all]");
-            Console.CursorTop++;
+            Console.WriteLine(string.Empty);
+
             Console.WriteLine("[operation]");
             Console.WriteLine("-d  Dumps a *.mes file to a folder");
             Console.WriteLine("-c  Creates a *.mes file from a folder");
-            Console.CursorTop++;
+            Console.WriteLine(string.Empty);
+
             Console.WriteLine("[platform]");
             Console.WriteLine("-ps3  For the PS3 version of the game (default)");
             Console.WriteLine("-x360  For the Xbox 360 version of the game");
-            Console.WriteLine("-raw  Don't try to decode textures (works on all platforms)");
-            Console.CursorTop++;
-            Console.WriteLine("Notes:");
-            Console.WriteLine("- The -ps3 and -x360 arguments only necessary when creating files");
-            Console.WriteLine("- The -raw can be only used when extracting, and is optional");
-            Console.WriteLine("- When using -raw, you don't need to specify a platform with -c");
-            Console.CursorTop++;
+            Console.WriteLine("-pc  For the PC version of the game");
+            Console.WriteLine("-wiiu  For the Wii U version (partial)");
+            Console.WriteLine(string.Empty);
+
             Console.WriteLine("-all  Manipulate all the files on the work directory");
-            Console.CursorTop++;
+            Console.WriteLine(string.Empty);
+
             Console.WriteLine("Example:");
             Console.WriteLine("MESTool -d file.mes");
             Console.WriteLine("MESTool -d -all");
@@ -188,6 +180,7 @@ namespace MESTool
         {
             public uint Count;
             public ushort Value;
+
             public List<TextureMapUV> Entries;
 
             public TUV()
@@ -200,6 +193,8 @@ namespace MESTool
         {
             [XmlAttribute]
             public uint Count;
+            public uint CharSizeX;
+            public uint CharSizeY;
             public List<TextureMapSize> Entries;
 
             public TextureMapSizeSection()
@@ -224,7 +219,9 @@ namespace MESTool
         private static void Dump(string FileName)
         {
             FileStream Input = new FileStream(FileName, FileMode.Open);
-            EndianBinaryReader Reader = new EndianBinaryReader(Input, EndianBinary.Endian.Big);
+            EndianBinaryReader Reader = new EndianBinaryReader(Input, Plat == Platform.PC
+                    ? EndianBinary.Endian.Little
+                    : EndianBinary.Endian.Big);
 
             string OutDir = Path.GetFileNameWithoutExtension(FileName);
             Directory.CreateDirectory(OutDir);
@@ -313,7 +310,9 @@ namespace MESTool
             Input.Seek(Section2Offset, SeekOrigin.Begin);
             uint Section2Count = Reader.ReadUInt32();
             TexInfo.SizeTable.Count = Section2Count;
-            Input.Seek(0xc, SeekOrigin.Current);
+            TexInfo.SizeTable.CharSizeX = Reader.ReadUInt32();
+            TexInfo.SizeTable.CharSizeY = Reader.ReadUInt32();
+            Reader.ReadUInt32();
             for (int i = 0; i < Section2Count; i++)
             {
                 TextureMapSize Entry = new TextureMapSize();
@@ -331,7 +330,7 @@ namespace MESTool
             TexInfoOut.Close();
 
             Input.Seek(WTBOffset, SeekOrigin.Begin);
-            if (Platform == VGConsole.DontCare)
+            if (Plat == Platform.WiiU || Plat == Platform.PC)
             {
                 byte[] Buffer = new byte[Input.Length - WTBOffset];
                 Input.Read(Buffer, 0, Buffer.Length);
@@ -487,7 +486,7 @@ namespace MESTool
                     case 0x54: DDS.Write(Encoding.ASCII.GetBytes("DXT5")); break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Warning: Unsupported texture format! Use the -raw option!");
+                        Console.WriteLine("Warning: Unsupported texture format!");
                         Console.ResetColor();
                         DDSOut.Close();
                         File.Delete(OutFileName);
@@ -527,10 +526,14 @@ namespace MESTool
                 string[] Texts = File.ReadAllText(TextsFile).Split(new string[] { Environment.NewLine + Environment.NewLine }, StringSplitOptions.None);
 
                 FileStream Output = new FileStream(Folder + ".mes", FileMode.Create);
-                EndianBinaryWriter Writer = new EndianBinaryWriter(Output, EndianBinary.Endian.Big);
+                EndianBinaryWriter Writer = new EndianBinaryWriter(Output, Plat == Platform.PC
+                    ? EndianBinary.Endian.Little
+                    : EndianBinary.Endian.Big);
 
                 MemoryStream TextsBlock = new MemoryStream();
-                EndianBinaryWriter TextsBlockWriter = new EndianBinaryWriter(TextsBlock, EndianBinary.Endian.Big);
+                EndianBinaryWriter TextsBlockWriter = new EndianBinaryWriter(TextsBlock, Plat == Platform.PC
+                    ? EndianBinary.Endian.Little
+                    : EndianBinary.Endian.Big);
 
                 Writer.Write((uint)0);
                 Writer.Write((uint)Texts.Length);
@@ -657,8 +660,8 @@ namespace MESTool
                     }
 
                     Writer.Write(TexInfo.SizeTable.Count);
-                    Writer.Write((uint)0x24);
-                    Writer.Write((uint)0x24);
+                    Writer.Write(TexInfo.SizeTable.CharSizeX);
+                    Writer.Write(TexInfo.SizeTable.CharSizeY);
                     Writer.Write((uint)0);
                     for (int i = 0; i < TexInfo.SizeTable.Count; i++)
                     {
@@ -666,7 +669,10 @@ namespace MESTool
                         Writer.Write((ushort)0);
                         Writer.Write(TexInfo.SizeTable.Entries[i].Width);
                         Writer.Write(TexInfo.SizeTable.Entries[i].Height);
-                        Writer.Write((uint)0x1000000);
+                        Writer.Write((byte)1);
+                        Writer.Write((byte)0);
+                        Writer.Write((byte)0);
+                        Writer.Write((byte)0);
                     }
 
                     while ((Output.Position & 0xfff) != 0) Writer.Write((byte)0);
@@ -700,12 +706,12 @@ namespace MESTool
                 }
 
                 Output.Seek(Output.Length, SeekOrigin.Begin);
-                switch (Platform)
+                switch (Plat)
                 {
-                    case VGConsole.PS3:
+                    case Platform.PS3:
                         while ((Output.Position & 0x7ff) != 0) Writer.Write((byte)0);
                         break;
-                    case VGConsole.X360:
+                    case Platform.X360:
                         while (((Output.Position + 0x34) & 0x1fff) != 0) Writer.Write((byte)0);
                         break;
                 }
@@ -757,9 +763,9 @@ namespace MESTool
             DDS.Read(TextureData, 0, TextureData.Length);
             uint Length;
 
-            switch (Platform)
+            switch (Plat)
             {
-                case VGConsole.PS3:
+                case Platform.PS3:
                     Writer.Seek(WTBOffset + 0x20, SeekOrigin.Begin);
                     Writer.Write((uint)0xcc);
                     Writer.Seek(WTBOffset + 0x60, SeekOrigin.Begin);
@@ -804,7 +810,7 @@ namespace MESTool
                     Writer.Write(Length);
 
                     break;
-                case VGConsole.X360:
+                case Platform.X360:
                     uint PaddedWidth = Width;
                     uint PaddedHeight = Height;
 
